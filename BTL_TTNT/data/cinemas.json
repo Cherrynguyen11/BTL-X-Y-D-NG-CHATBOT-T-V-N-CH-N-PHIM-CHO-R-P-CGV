@@ -1,0 +1,83 @@
+[
+  {
+    "id": "cgv_hn_01",
+    "name": "CGV Vincom Center Bà Triệu",
+    "city": "Hà Nội",
+    "address": "Tầng 6, Vincom Center Hà Nội, 191 Bà Triệu, Q. Hai Bà Trưng",
+    "phone": "1900 6017",
+    "formats": ["2D", "3D", "Gold Class"],
+    "screens": 10
+  },
+  {
+    "id": "cgv_hn_02",
+    "name": "CGV Vincom Metropolis Liễu Giai",
+    "city": "Hà Nội",
+    "address": "Tầng M3, TTTM Vincom Center Metropolis, 29 Liễu Giai, Q. Ba Đình",
+    "phone": "1900 6017",
+    "formats": ["2D", "IMAX", "Gold Class"],
+    "screens": 11
+  },
+  {
+    "id": "cgv_hn_03",
+    "name": "CGV Aeon Hà Đông",
+    "city": "Hà Nội",
+    "address": "Tầng 3, TTTM Aeon Mall Hà Đông, P. Dương Nội, Q. Hà Đông",
+    "phone": "1900 6017",
+    "formats": ["2D", "3D", "IMAX", "4DX"],
+    "screens": 9
+  },
+  {
+    "id": "cgv_hn_04",
+    "name": "CGV Tràng Tiền Plaza",
+    "city": "Hà Nội",
+    "address": "Tầng 5, TTTM Tràng Tiền Plaza, 24 Hai Bà Trưng, Q. Hoàn Kiếm",
+    "phone": "1900 6017",
+    "formats": ["2D", "Gold Class"],
+    "screens": 7
+  },
+  {
+    "id": "cgv_hcm_01",
+    "name": "CGV Vincom Center Landmark 81",
+    "city": "TP. Hồ Chí Minh",
+    "address": "Tầng B1, Vincom Center Landmark 81, 772 Điện Biên Phủ, P. 22, Q. Bình Thạnh",
+    "phone": "1900 6017",
+    "formats": ["2D", "3D", "IMAX", "Gold Class"],
+    "screens": 12
+  },
+  {
+    "id": "cgv_hcm_02",
+    "name": "CGV Sư Vạn Hạnh",
+    "city": "TP. Hồ Chí Minh",
+    "address": "Tầng 6, Vạn Hạnh Mall, 11 Sư Vạn Hạnh, P. 12, Q. 10",
+    "phone": "1900 6017",
+    "formats": ["2D", "3D", "4DX", "Gold Class"],
+    "screens": 9
+  },
+  {
+    "id": "cgv_hcm_03",
+    "name": "CGV Hùng Vương Plaza",
+    "city": "TP. Hồ Chí Minh",
+    "address": "Tầng 7, Hùng Vương Plaza, 126 Hùng Vương, Q. 5",
+    "phone": "1900 6017",
+    "formats": ["2D", "3D", "4DX"],
+    "screens": 8
+  },
+  {
+    "id": "cgv_hcm_04",
+    "name": "CGV Crescent Mall",
+    "city": "TP. Hồ Chí Minh",
+    "address": "Tầng 5, Crescent Mall, Đại Lộ Nguyễn Văn Linh, Phú Mỹ Hưng, Q. 7",
+    "phone": "1900 6017",
+    "formats": ["2D", "3D", "Cine & Foret", "Gold Class"],
+    "screens": 8
+  },
+  {
+    "id": "cgv_dn_01",
+    "name": "CGV Vincom Đà Nẵng",
+    "city": "Đà Nẵng",
+    "address": "Tầng 4, TTTM Vincom Plaza Ngô Quyền, 910A Ngô Quyền, Q. Sơn Trà",
+    "phone": "1900 6017",
+    "formats": ["2D", "3D"],
+    "screens": 5
+  }
+]

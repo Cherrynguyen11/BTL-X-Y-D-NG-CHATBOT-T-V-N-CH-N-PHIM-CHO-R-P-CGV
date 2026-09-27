@@ -1,0 +1,2725 @@
+[
+  {
+    "cinema_id": "cgv_hn_01",
+    "movie_id": "mov_01",
+    "date": "Hôm nay",
+    "screen": "Cinema 01 (2D Digital)",
+    "format": "2D",
+    "times": [
+      "09:30",
+      "12:15",
+      "15:00",
+      "17:45",
+      "20:30",
+      "22:50"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hn_01",
+    "movie_id": "mov_02",
+    "date": "Hôm nay",
+    "screen": "Cinema 03 (2D Lồng tiếng)",
+    "format": "2D",
+    "times": [
+      "10:00",
+      "13:00",
+      "15:30",
+      "18:00",
+      "20:15"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hn_01",
+    "movie_id": "mov_04",
+    "date": "Hôm nay",
+    "screen": "Cinema 05 (2D Phụ đề)",
+    "format": "2D",
+    "times": [
+      "14:30",
+      "17:00",
+      "19:30",
+      "21:45",
+      "23:55"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hn_02",
+    "movie_id": "mov_01",
+    "date": "Hôm nay",
+    "screen": "IMAX Laser",
+    "format": "IMAX",
+    "times": [
+      "11:00",
+      "14:15",
+      "17:30",
+      "20:45",
+      "23:45"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hn_02",
+    "movie_id": "mov_07",
+    "date": "Hôm nay",
+    "screen": "IMAX Laser",
+    "format": "IMAX",
+    "times": [
+      "09:00",
+      "13:30",
+      "18:15",
+      "21:30"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hn_03",
+    "movie_id": "mov_03",
+    "date": "Hôm nay",
+    "screen": "Cinema 02 (2D Lồng tiếng)",
+    "format": "2D",
+    "times": [
+      "10:15",
+      "13:45",
+      "16:15",
+      "19:00"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hn_03",
+    "movie_id": "mov_01",
+    "date": "Hôm nay",
+    "screen": "4DX with 3D",
+    "format": "4DX",
+    "times": [
+      "12:00",
+      "15:15",
+      "18:30",
+      "21:30"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hcm_01",
+    "movie_id": "mov_01",
+    "date": "Hôm nay",
+    "screen": "IMAX with Laser",
+    "format": "IMAX",
+    "times": [
+      "10:30",
+      "13:45",
+      "17:00",
+      "20:15",
+      "23:15"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hcm_01",
+    "movie_id": "mov_06",
+    "date": "Hôm nay",
+    "screen": "Cinema 04 (2D Digital)",
+    "format": "2D",
+    "times": [
+      "11:15",
+      "14:30",
+      "17:45",
+      "20:45",
+      "23:30"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hcm_01",
+    "movie_id": "mov_08",
+    "date": "Hôm nay",
+    "screen": "Gold Class 01",
+    "format": "Gold Class",
+    "times": [
+      "13:00",
+      "16:30",
+      "19:45",
+      "22:30"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hcm_02",
+    "movie_id": "mov_01",
+    "date": "Hôm nay",
+    "screen": "4DX Screen",
+    "format": "4DX",
+    "times": [
+      "11:30",
+      "14:45",
+      "18:00",
+      "21:15"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hcm_02",
+    "movie_id": "mov_05",
+    "date": "Hôm nay",
+    "screen": "Cinema 03 (2D Lồng tiếng)",
+    "format": "2D",
+    "times": [
+      "09:45",
+      "12:30",
+      "15:15",
+      "17:45",
+      "20:00"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hcm_02",
+    "movie_id": "mov_04",
+    "date": "Hôm nay",
+    "screen": "Cinema 06 (2D)",
+    "format": "2D",
+    "times": [
+      "16:45",
+      "19:15",
+      "21:30",
+      "23:45"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hcm_03",
+    "movie_id": "mov_03",
+    "date": "Hôm nay",
+    "screen": "Cinema 02 (2D)",
+    "format": "2D",
+    "times": [
+      "10:30",
+      "14:00",
+      "17:15",
+      "20:00"
+    ]
+  },
+  {
+    "cinema_id": "cgv_dn_01",
+    "movie_id": "mov_01",
+    "date": "Hôm nay",
+    "screen": "Cinema 01 (2D Digital)",
+    "format": "2D",
+    "times": [
+      "13:30",
+      "16:15",
+      "19:30",
+      "22:00"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hn_03",
+    "movie_id": "mov_13",
+    "format": "2D",
+    "screen": "Cinema 6",
+    "times": [
+      "10:00",
+      "13:30",
+      "16:45",
+      "19:30",
+      "22:15"
+    ],
+    "date": "Hôm nay"
+  },
+  {
+    "cinema_id": "cgv_hcm_02",
+    "movie_id": "mov_13",
+    "format": "2D",
+    "screen": "Cinema 2",
+    "times": [
+      "10:00",
+      "13:30",
+      "16:45",
+      "19:30",
+      "22:15"
+    ],
+    "date": "Hôm nay"
+  },
+  {
+    "cinema_id": "cgv_dn_01",
+    "movie_id": "mov_13",
+    "format": "2D",
+    "screen": "Cinema 5",
+    "times": [
+      "10:00",
+      "13:30",
+      "16:45",
+      "19:30",
+      "22:15"
+    ],
+    "date": "Hôm nay"
+  },
+  {
+    "cinema_id": "cgv_hcm_01",
+    "movie_id": "mov_14",
+    "format": "2D",
+    "screen": "Cinema 4",
+    "times": [
+      "09:30",
+      "12:15",
+      "15:00",
+      "18:20",
+      "20:50"
+    ],
+    "date": "Hôm nay"
+  },
+  {
+    "cinema_id": "cgv_dn_01",
+    "movie_id": "mov_14",
+    "format": "2D",
+    "screen": "Cinema 1",
+    "times": [
+      "11:15",
+      "14:20",
+      "17:35",
+      "20:10",
+      "22:45"
+    ],
+    "date": "Hôm nay"
+  },
+  {
+    "cinema_id": "cgv_hcm_03",
+    "movie_id": "mov_14",
+    "format": "2D",
+    "screen": "Cinema 3",
+    "times": [
+      "11:15",
+      "14:20",
+      "17:35",
+      "20:10",
+      "22:45"
+    ],
+    "date": "Hôm nay"
+  },
+  {
+    "cinema_id": "cgv_hcm_01",
+    "movie_id": "mov_15",
+    "format": "2D",
+    "screen": "Cinema 5",
+    "times": [
+      "09:30",
+      "12:15",
+      "15:00",
+      "18:20",
+      "20:50"
+    ],
+    "date": "Hôm nay"
+  },
+  {
+    "cinema_id": "cgv_hcm_02",
+    "movie_id": "mov_15",
+    "format": "2D",
+    "screen": "Cinema 3",
+    "times": [
+      "10:00",
+      "13:30",
+      "16:45",
+      "19:30",
+      "22:15"
+    ],
+    "date": "Hôm nay"
+  },
+  {
+    "cinema_id": "cgv_hcm_04",
+    "movie_id": "mov_15",
+    "format": "2D",
+    "screen": "Cinema 3",
+    "times": [
+      "09:30",
+      "12:15",
+      "15:00",
+      "18:20",
+      "20:50"
+    ],
+    "date": "Hôm nay"
+  },
+  {
+    "cinema_id": "cgv_hn_02",
+    "movie_id": "mov_16",
+    "format": "2D",
+    "screen": "Cinema 5",
+    "times": [
+      "11:15",
+      "14:20",
+      "17:35",
+      "20:10",
+      "22:45"
+    ],
+    "date": "Hôm nay"
+  },
+  {
+    "cinema_id": "cgv_hcm_03",
+    "movie_id": "mov_16",
+    "format": "2D",
+    "screen": "Cinema 1",
+    "times": [
+      "09:30",
+      "12:15",
+      "15:00",
+      "18:20",
+      "20:50"
+    ],
+    "date": "Hôm nay"
+  },
+  {
+    "cinema_id": "cgv_hcm_04",
+    "movie_id": "mov_16",
+    "format": "2D",
+    "screen": "Cinema 2",
+    "times": [
+      "09:30",
+      "12:15",
+      "15:00",
+      "18:20",
+      "20:50"
+    ],
+    "date": "Hôm nay"
+  },
+  {
+    "cinema_id": "cgv_hcm_04",
+    "movie_id": "mov_17",
+    "format": "2D",
+    "screen": "Cinema 6",
+    "times": [
+      "09:30",
+      "12:15",
+      "15:00",
+      "18:20",
+      "20:50"
+    ],
+    "date": "Hôm nay"
+  },
+  {
+    "cinema_id": "cgv_hcm_02",
+    "movie_id": "mov_17",
+    "format": "2D",
+    "screen": "Cinema 4",
+    "times": [
+      "11:15",
+      "14:20",
+      "17:35",
+      "20:10",
+      "22:45"
+    ],
+    "date": "Hôm nay"
+  },
+  {
+    "cinema_id": "cgv_hcm_01",
+    "movie_id": "mov_17",
+    "format": "2D",
+    "screen": "Cinema 5",
+    "times": [
+      "10:00",
+      "13:30",
+      "16:45",
+      "19:30",
+      "22:15"
+    ],
+    "date": "Hôm nay"
+  },
+  {
+    "cinema_id": "cgv_hn_03",
+    "movie_id": "mov_18",
+    "format": "2D",
+    "screen": "Cinema 1",
+    "times": [
+      "09:30",
+      "12:15",
+      "15:00",
+      "18:20",
+      "20:50"
+    ],
+    "date": "Hôm nay"
+  },
+  {
+    "cinema_id": "cgv_hn_02",
+    "movie_id": "mov_18",
+    "format": "2D",
+    "screen": "Cinema 3",
+    "times": [
+      "09:30",
+      "12:15",
+      "15:00",
+      "18:20",
+      "20:50"
+    ],
+    "date": "Hôm nay"
+  },
+  {
+    "cinema_id": "cgv_dn_01",
+    "movie_id": "mov_18",
+    "format": "2D",
+    "screen": "Cinema 3",
+    "times": [
+      "11:15",
+      "14:20",
+      "17:35",
+      "20:10",
+      "22:45"
+    ],
+    "date": "Hôm nay"
+  },
+  {
+    "cinema_id": "cgv_hn_04",
+    "movie_id": "mov_19",
+    "format": "2D",
+    "screen": "Cinema 4",
+    "times": [
+      "10:00",
+      "13:30",
+      "16:45",
+      "19:30",
+      "22:15"
+    ],
+    "date": "Hôm nay"
+  },
+  {
+    "cinema_id": "cgv_hn_01",
+    "movie_id": "mov_19",
+    "format": "2D",
+    "screen": "Cinema 2",
+    "times": [
+      "09:30",
+      "12:15",
+      "15:00",
+      "18:20",
+      "20:50"
+    ],
+    "date": "Hôm nay"
+  },
+  {
+    "cinema_id": "cgv_hcm_04",
+    "movie_id": "mov_19",
+    "format": "2D",
+    "screen": "Cinema 3",
+    "times": [
+      "10:00",
+      "13:30",
+      "16:45",
+      "19:30",
+      "22:15"
+    ],
+    "date": "Hôm nay"
+  },
+  {
+    "cinema_id": "cgv_hcm_02",
+    "movie_id": "mov_20",
+    "format": "2D",
+    "screen": "Cinema 1",
+    "times": [
+      "11:15",
+      "14:20",
+      "17:35",
+      "20:10",
+      "22:45"
+    ],
+    "date": "Hôm nay"
+  },
+  {
+    "cinema_id": "cgv_dn_01",
+    "movie_id": "mov_20",
+    "format": "2D",
+    "screen": "Cinema 5",
+    "times": [
+      "10:00",
+      "13:30",
+      "16:45",
+      "19:30",
+      "22:15"
+    ],
+    "date": "Hôm nay"
+  },
+  {
+    "cinema_id": "cgv_hcm_01",
+    "movie_id": "mov_20",
+    "format": "2D",
+    "screen": "Cinema 4",
+    "times": [
+      "09:30",
+      "12:15",
+      "15:00",
+      "18:20",
+      "20:50"
+    ],
+    "date": "Hôm nay"
+  },
+  {
+    "cinema_id": "cgv_hn_02",
+    "movie_id": "mov_21",
+    "format": "2D",
+    "screen": "Cinema 2",
+    "times": [
+      "11:15",
+      "14:20",
+      "17:35",
+      "20:10",
+      "22:45"
+    ],
+    "date": "Hôm nay"
+  },
+  {
+    "cinema_id": "cgv_hcm_01",
+    "movie_id": "mov_21",
+    "format": "2D",
+    "screen": "Cinema 2",
+    "times": [
+      "09:30",
+      "12:15",
+      "15:00",
+      "18:20",
+      "20:50"
+    ],
+    "date": "Hôm nay"
+  },
+  {
+    "cinema_id": "cgv_hcm_02",
+    "movie_id": "mov_21",
+    "format": "2D",
+    "screen": "Cinema 3",
+    "times": [
+      "11:15",
+      "14:20",
+      "17:35",
+      "20:10",
+      "22:45"
+    ],
+    "date": "Hôm nay"
+  },
+  {
+    "cinema_id": "cgv_hn_03",
+    "movie_id": "mov_22",
+    "format": "2D",
+    "screen": "Cinema 4",
+    "times": [
+      "09:30",
+      "12:15",
+      "15:00",
+      "18:20",
+      "20:50"
+    ],
+    "date": "Hôm nay"
+  },
+  {
+    "cinema_id": "cgv_hcm_02",
+    "movie_id": "mov_22",
+    "format": "2D",
+    "screen": "Cinema 2",
+    "times": [
+      "10:00",
+      "13:30",
+      "16:45",
+      "19:30",
+      "22:15"
+    ],
+    "date": "Hôm nay"
+  },
+  {
+    "cinema_id": "cgv_dn_01",
+    "movie_id": "mov_22",
+    "format": "2D",
+    "screen": "Cinema 1",
+    "times": [
+      "11:15",
+      "14:20",
+      "17:35",
+      "20:10",
+      "22:45"
+    ],
+    "date": "Hôm nay"
+  },
+  {
+    "cinema_id": "cgv_hn_01",
+    "movie_id": "mov_23",
+    "format": "2D",
+    "screen": "Cinema 6",
+    "times": [
+      "11:15",
+      "14:20",
+      "17:35",
+      "20:10",
+      "22:45"
+    ],
+    "date": "Hôm nay"
+  },
+  {
+    "cinema_id": "cgv_hn_04",
+    "movie_id": "mov_23",
+    "format": "2D",
+    "screen": "Cinema 6",
+    "times": [
+      "09:30",
+      "12:15",
+      "15:00",
+      "18:20",
+      "20:50"
+    ],
+    "date": "Hôm nay"
+  },
+  {
+    "cinema_id": "cgv_hcm_04",
+    "movie_id": "mov_23",
+    "format": "2D",
+    "screen": "Cinema 3",
+    "times": [
+      "11:15",
+      "14:20",
+      "17:35",
+      "20:10",
+      "22:45"
+    ],
+    "date": "Hôm nay"
+  },
+  {
+    "cinema_id": "cgv_hcm_03",
+    "movie_id": "mov_24",
+    "format": "2D",
+    "screen": "Cinema 2",
+    "times": [
+      "09:30",
+      "12:15",
+      "15:00",
+      "18:20",
+      "20:50"
+    ],
+    "date": "Hôm nay"
+  },
+  {
+    "cinema_id": "cgv_hn_04",
+    "movie_id": "mov_24",
+    "format": "2D",
+    "screen": "Cinema 4",
+    "times": [
+      "09:30",
+      "12:15",
+      "15:00",
+      "18:20",
+      "20:50"
+    ],
+    "date": "Hôm nay"
+  },
+  {
+    "cinema_id": "cgv_hcm_01",
+    "movie_id": "mov_24",
+    "format": "2D",
+    "screen": "Cinema 6",
+    "times": [
+      "09:30",
+      "12:15",
+      "15:00",
+      "18:20",
+      "20:50"
+    ],
+    "date": "Hôm nay"
+  },
+  {
+    "cinema_id": "cgv_hn_01",
+    "movie_id": "mov_25",
+    "format": "2D",
+    "screen": "Cinema 1",
+    "times": [
+      "11:15",
+      "14:20",
+      "17:35",
+      "20:10",
+      "22:45"
+    ],
+    "date": "Hôm nay"
+  },
+  {
+    "cinema_id": "cgv_hcm_04",
+    "movie_id": "mov_25",
+    "format": "2D",
+    "screen": "Cinema 1",
+    "times": [
+      "11:15",
+      "14:20",
+      "17:35",
+      "20:10",
+      "22:45"
+    ],
+    "date": "Hôm nay"
+  },
+  {
+    "cinema_id": "cgv_dn_01",
+    "movie_id": "mov_25",
+    "format": "2D",
+    "screen": "Cinema 3",
+    "times": [
+      "09:30",
+      "12:15",
+      "15:00",
+      "18:20",
+      "20:50"
+    ],
+    "date": "Hôm nay"
+  },
+  {
+    "cinema_id": "cgv_hcm_03",
+    "movie_id": "mov_26",
+    "format": "2D",
+    "screen": "Cinema 2",
+    "times": [
+      "10:00",
+      "13:30",
+      "16:45",
+      "19:30",
+      "22:15"
+    ],
+    "date": "Hôm nay"
+  },
+  {
+    "cinema_id": "cgv_hcm_02",
+    "movie_id": "mov_26",
+    "format": "2D",
+    "screen": "Cinema 1",
+    "times": [
+      "11:15",
+      "14:20",
+      "17:35",
+      "20:10",
+      "22:45"
+    ],
+    "date": "Hôm nay"
+  },
+  {
+    "cinema_id": "cgv_hn_01",
+    "movie_id": "mov_26",
+    "format": "2D",
+    "screen": "Cinema 2",
+    "times": [
+      "10:00",
+      "13:30",
+      "16:45",
+      "19:30",
+      "22:15"
+    ],
+    "date": "Hôm nay"
+  },
+  {
+    "cinema_id": "cgv_hcm_01",
+    "movie_id": "mov_27",
+    "format": "2D",
+    "screen": "Cinema 5",
+    "times": [
+      "09:30",
+      "12:15",
+      "15:00",
+      "18:20",
+      "20:50"
+    ],
+    "date": "Hôm nay"
+  },
+  {
+    "cinema_id": "cgv_hn_01",
+    "movie_id": "mov_27",
+    "format": "2D",
+    "screen": "Cinema 1",
+    "times": [
+      "11:15",
+      "14:20",
+      "17:35",
+      "20:10",
+      "22:45"
+    ],
+    "date": "Hôm nay"
+  },
+  {
+    "cinema_id": "cgv_hn_04",
+    "movie_id": "mov_27",
+    "format": "2D",
+    "screen": "Cinema 6",
+    "times": [
+      "10:00",
+      "13:30",
+      "16:45",
+      "19:30",
+      "22:15"
+    ],
+    "date": "Hôm nay"
+  },
+  {
+    "cinema_id": "cgv_hcm_02",
+    "movie_id": "mov_28",
+    "format": "2D",
+    "screen": "Cinema 2",
+    "times": [
+      "11:15",
+      "14:20",
+      "17:35",
+      "20:10",
+      "22:45"
+    ],
+    "date": "Hôm nay"
+  },
+  {
+    "cinema_id": "cgv_hn_01",
+    "movie_id": "mov_28",
+    "format": "2D",
+    "screen": "Cinema 3",
+    "times": [
+      "10:00",
+      "13:30",
+      "16:45",
+      "19:30",
+      "22:15"
+    ],
+    "date": "Hôm nay"
+  },
+  {
+    "cinema_id": "cgv_hcm_01",
+    "movie_id": "mov_28",
+    "format": "2D",
+    "screen": "Cinema 5",
+    "times": [
+      "09:30",
+      "12:15",
+      "15:00",
+      "18:20",
+      "20:50"
+    ],
+    "date": "Hôm nay"
+  },
+  {
+    "cinema_id": "cgv_dn_01",
+    "movie_id": "mov_29",
+    "format": "2D",
+    "screen": "Cinema 2",
+    "times": [
+      "09:30",
+      "12:15",
+      "15:00",
+      "18:20",
+      "20:50"
+    ],
+    "date": "Hôm nay"
+  },
+  {
+    "cinema_id": "cgv_hn_04",
+    "movie_id": "mov_29",
+    "format": "2D",
+    "screen": "Cinema 6",
+    "times": [
+      "11:15",
+      "14:20",
+      "17:35",
+      "20:10",
+      "22:45"
+    ],
+    "date": "Hôm nay"
+  },
+  {
+    "cinema_id": "cgv_hcm_04",
+    "movie_id": "mov_29",
+    "format": "2D",
+    "screen": "Cinema 3",
+    "times": [
+      "11:15",
+      "14:20",
+      "17:35",
+      "20:10",
+      "22:45"
+    ],
+    "date": "Hôm nay"
+  },
+  {
+    "cinema_id": "cgv_hcm_03",
+    "movie_id": "mov_30",
+    "format": "2D",
+    "screen": "Cinema 1",
+    "times": [
+      "10:00",
+      "13:30",
+      "16:45",
+      "19:30",
+      "22:15"
+    ],
+    "date": "Hôm nay"
+  },
+  {
+    "cinema_id": "cgv_dn_01",
+    "movie_id": "mov_30",
+    "format": "2D",
+    "screen": "Cinema 4",
+    "times": [
+      "11:15",
+      "14:20",
+      "17:35",
+      "20:10",
+      "22:45"
+    ],
+    "date": "Hôm nay"
+  },
+  {
+    "cinema_id": "cgv_hcm_04",
+    "movie_id": "mov_30",
+    "format": "2D",
+    "screen": "Cinema 4",
+    "times": [
+      "09:30",
+      "12:15",
+      "15:00",
+      "18:20",
+      "20:50"
+    ],
+    "date": "Hôm nay"
+  },
+  {
+    "cinema_id": "cgv_hn_04",
+    "movie_id": "mov_31",
+    "format": "2D",
+    "screen": "Cinema 4",
+    "times": [
+      "09:30",
+      "12:15",
+      "15:00",
+      "18:20",
+      "20:50"
+    ],
+    "date": "Hôm nay"
+  },
+  {
+    "cinema_id": "cgv_hcm_04",
+    "movie_id": "mov_31",
+    "format": "2D",
+    "screen": "Cinema 4",
+    "times": [
+      "09:30",
+      "12:15",
+      "15:00",
+      "18:20",
+      "20:50"
+    ],
+    "date": "Hôm nay"
+  },
+  {
+    "cinema_id": "cgv_hn_03",
+    "movie_id": "mov_31",
+    "format": "2D",
+    "screen": "Cinema 6",
+    "times": [
+      "11:15",
+      "14:20",
+      "17:35",
+      "20:10",
+      "22:45"
+    ],
+    "date": "Hôm nay"
+  },
+  {
+    "cinema_id": "cgv_hn_03",
+    "movie_id": "mov_32",
+    "format": "2D",
+    "screen": "Cinema 2",
+    "times": [
+      "11:15",
+      "14:20",
+      "17:35",
+      "20:10",
+      "22:45"
+    ],
+    "date": "Hôm nay"
+  },
+  {
+    "cinema_id": "cgv_hn_04",
+    "movie_id": "mov_32",
+    "format": "2D",
+    "screen": "Cinema 6",
+    "times": [
+      "11:15",
+      "14:20",
+      "17:35",
+      "20:10",
+      "22:45"
+    ],
+    "date": "Hôm nay"
+  },
+  {
+    "cinema_id": "cgv_hn_02",
+    "movie_id": "mov_32",
+    "format": "2D",
+    "screen": "Cinema 1",
+    "times": [
+      "09:30",
+      "12:15",
+      "15:00",
+      "18:20",
+      "20:50"
+    ],
+    "date": "Hôm nay"
+  },
+  {
+    "cinema_id": "cgv_hcm_03",
+    "movie_id": "mov_33",
+    "format": "2D",
+    "screen": "Cinema 6",
+    "times": [
+      "09:30",
+      "12:15",
+      "15:00",
+      "18:20",
+      "20:50"
+    ],
+    "date": "Hôm nay"
+  },
+  {
+    "cinema_id": "cgv_hcm_01",
+    "movie_id": "mov_33",
+    "format": "2D",
+    "screen": "Cinema 2",
+    "times": [
+      "09:30",
+      "12:15",
+      "15:00",
+      "18:20",
+      "20:50"
+    ],
+    "date": "Hôm nay"
+  },
+  {
+    "cinema_id": "cgv_hn_03",
+    "movie_id": "mov_33",
+    "format": "2D",
+    "screen": "Cinema 3",
+    "times": [
+      "11:15",
+      "14:20",
+      "17:35",
+      "20:10",
+      "22:45"
+    ],
+    "date": "Hôm nay"
+  },
+  {
+    "cinema_id": "cgv_hcm_02",
+    "movie_id": "mov_34",
+    "format": "2D",
+    "screen": "Cinema 1",
+    "times": [
+      "09:30",
+      "12:15",
+      "15:00",
+      "18:20",
+      "20:50"
+    ],
+    "date": "Hôm nay"
+  },
+  {
+    "cinema_id": "cgv_hn_02",
+    "movie_id": "mov_34",
+    "format": "2D",
+    "screen": "Cinema 1",
+    "times": [
+      "10:00",
+      "13:30",
+      "16:45",
+      "19:30",
+      "22:15"
+    ],
+    "date": "Hôm nay"
+  },
+  {
+    "cinema_id": "cgv_hcm_04",
+    "movie_id": "mov_34",
+    "format": "2D",
+    "screen": "Cinema 4",
+    "times": [
+      "10:00",
+      "13:30",
+      "16:45",
+      "19:30",
+      "22:15"
+    ],
+    "date": "Hôm nay"
+  },
+  {
+    "cinema_id": "cgv_hn_02",
+    "movie_id": "mov_35",
+    "format": "2D",
+    "screen": "Cinema 5",
+    "times": [
+      "10:00",
+      "13:30",
+      "16:45",
+      "19:30",
+      "22:15"
+    ],
+    "date": "Hôm nay"
+  },
+  {
+    "cinema_id": "cgv_hn_01",
+    "movie_id": "mov_35",
+    "format": "2D",
+    "screen": "Cinema 5",
+    "times": [
+      "11:15",
+      "14:20",
+      "17:35",
+      "20:10",
+      "22:45"
+    ],
+    "date": "Hôm nay"
+  },
+  {
+    "cinema_id": "cgv_hn_04",
+    "movie_id": "mov_35",
+    "format": "2D",
+    "screen": "Cinema 4",
+    "times": [
+      "11:15",
+      "14:20",
+      "17:35",
+      "20:10",
+      "22:45"
+    ],
+    "date": "Hôm nay"
+  },
+  {
+    "cinema_id": "cgv_hcm_02",
+    "movie_id": "mov_36",
+    "format": "2D",
+    "screen": "Cinema 3",
+    "times": [
+      "09:30",
+      "12:15",
+      "15:00",
+      "18:20",
+      "20:50"
+    ],
+    "date": "Hôm nay"
+  },
+  {
+    "cinema_id": "cgv_hcm_03",
+    "movie_id": "mov_36",
+    "format": "2D",
+    "screen": "Cinema 3",
+    "times": [
+      "11:15",
+      "14:20",
+      "17:35",
+      "20:10",
+      "22:45"
+    ],
+    "date": "Hôm nay"
+  },
+  {
+    "cinema_id": "cgv_hn_01",
+    "movie_id": "mov_36",
+    "format": "2D",
+    "screen": "Cinema 6",
+    "times": [
+      "11:15",
+      "14:20",
+      "17:35",
+      "20:10",
+      "22:45"
+    ],
+    "date": "Hôm nay"
+  },
+  {
+    "cinema_id": "cgv_hn_02",
+    "movie_id": "mov_37",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 1",
+    "times": [
+      "11:15",
+      "14:20",
+      "17:35",
+      "20:10",
+      "22:45"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hcm_01",
+    "movie_id": "mov_37",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 4",
+    "times": [
+      "10:00",
+      "13:30",
+      "16:45",
+      "19:30",
+      "22:15"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hcm_04",
+    "movie_id": "mov_37",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 3",
+    "times": [
+      "10:00",
+      "13:30",
+      "16:45",
+      "19:30",
+      "22:15"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hcm_01",
+    "movie_id": "mov_38",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 5",
+    "times": [
+      "09:30",
+      "12:15",
+      "15:00",
+      "18:20",
+      "20:50"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hcm_02",
+    "movie_id": "mov_38",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 3",
+    "times": [
+      "10:00",
+      "13:30",
+      "16:45",
+      "19:30",
+      "22:15"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hn_01",
+    "movie_id": "mov_38",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 2",
+    "times": [
+      "10:00",
+      "13:30",
+      "16:45",
+      "19:30",
+      "22:15"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hn_02",
+    "movie_id": "mov_39",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 2",
+    "times": [
+      "10:00",
+      "13:30",
+      "16:45",
+      "19:30",
+      "22:15"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hcm_03",
+    "movie_id": "mov_39",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 1",
+    "times": [
+      "09:30",
+      "12:15",
+      "15:00",
+      "18:20",
+      "20:50"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hcm_04",
+    "movie_id": "mov_39",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 3",
+    "times": [
+      "11:15",
+      "14:20",
+      "17:35",
+      "20:10",
+      "22:45"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hn_02",
+    "movie_id": "mov_40",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 3",
+    "times": [
+      "09:30",
+      "12:15",
+      "15:00",
+      "18:20",
+      "20:50"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hn_01",
+    "movie_id": "mov_40",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 5",
+    "times": [
+      "10:00",
+      "13:30",
+      "16:45",
+      "19:30",
+      "22:15"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hcm_04",
+    "movie_id": "mov_40",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 5",
+    "times": [
+      "09:30",
+      "12:15",
+      "15:00",
+      "18:20",
+      "20:50"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hn_02",
+    "movie_id": "mov_41",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 5",
+    "times": [
+      "11:15",
+      "14:20",
+      "17:35",
+      "20:10",
+      "22:45"
+    ]
+  },
+  {
+    "cinema_id": "cgv_dn_01",
+    "movie_id": "mov_41",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 3",
+    "times": [
+      "10:00",
+      "13:30",
+      "16:45",
+      "19:30",
+      "22:15"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hcm_04",
+    "movie_id": "mov_41",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 4",
+    "times": [
+      "10:00",
+      "13:30",
+      "16:45",
+      "19:30",
+      "22:15"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hn_03",
+    "movie_id": "mov_42",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 2",
+    "times": [
+      "10:00",
+      "13:30",
+      "16:45",
+      "19:30",
+      "22:15"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hcm_03",
+    "movie_id": "mov_42",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 4",
+    "times": [
+      "10:00",
+      "13:30",
+      "16:45",
+      "19:30",
+      "22:15"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hcm_01",
+    "movie_id": "mov_42",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 6",
+    "times": [
+      "09:30",
+      "12:15",
+      "15:00",
+      "18:20",
+      "20:50"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hn_01",
+    "movie_id": "mov_43",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 3",
+    "times": [
+      "10:00",
+      "13:30",
+      "16:45",
+      "19:30",
+      "22:15"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hn_02",
+    "movie_id": "mov_43",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 4",
+    "times": [
+      "11:15",
+      "14:20",
+      "17:35",
+      "20:10",
+      "22:45"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hn_03",
+    "movie_id": "mov_43",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 1",
+    "times": [
+      "10:00",
+      "13:30",
+      "16:45",
+      "19:30",
+      "22:15"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hn_04",
+    "movie_id": "mov_44",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 1",
+    "times": [
+      "09:30",
+      "12:15",
+      "15:00",
+      "18:20",
+      "20:50"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hn_03",
+    "movie_id": "mov_44",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 4",
+    "times": [
+      "10:00",
+      "13:30",
+      "16:45",
+      "19:30",
+      "22:15"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hn_02",
+    "movie_id": "mov_44",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 6",
+    "times": [
+      "09:30",
+      "12:15",
+      "15:00",
+      "18:20",
+      "20:50"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hcm_04",
+    "movie_id": "mov_45",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 6",
+    "times": [
+      "11:15",
+      "14:20",
+      "17:35",
+      "20:10",
+      "22:45"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hcm_02",
+    "movie_id": "mov_45",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 6",
+    "times": [
+      "11:15",
+      "14:20",
+      "17:35",
+      "20:10",
+      "22:45"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hn_01",
+    "movie_id": "mov_45",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 4",
+    "times": [
+      "11:15",
+      "14:20",
+      "17:35",
+      "20:10",
+      "22:45"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hn_01",
+    "movie_id": "mov_46",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 3",
+    "times": [
+      "09:30",
+      "12:15",
+      "15:00",
+      "18:20",
+      "20:50"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hcm_03",
+    "movie_id": "mov_46",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 4",
+    "times": [
+      "11:15",
+      "14:20",
+      "17:35",
+      "20:10",
+      "22:45"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hcm_02",
+    "movie_id": "mov_46",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 5",
+    "times": [
+      "10:00",
+      "13:30",
+      "16:45",
+      "19:30",
+      "22:15"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hcm_04",
+    "movie_id": "mov_47",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 2",
+    "times": [
+      "09:30",
+      "12:15",
+      "15:00",
+      "18:20",
+      "20:50"
+    ]
+  },
+  {
+    "cinema_id": "cgv_dn_01",
+    "movie_id": "mov_47",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 3",
+    "times": [
+      "09:30",
+      "12:15",
+      "15:00",
+      "18:20",
+      "20:50"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hcm_02",
+    "movie_id": "mov_47",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 1",
+    "times": [
+      "09:30",
+      "12:15",
+      "15:00",
+      "18:20",
+      "20:50"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hn_02",
+    "movie_id": "mov_48",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 1",
+    "times": [
+      "11:15",
+      "14:20",
+      "17:35",
+      "20:10",
+      "22:45"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hcm_02",
+    "movie_id": "mov_48",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 1",
+    "times": [
+      "09:30",
+      "12:15",
+      "15:00",
+      "18:20",
+      "20:50"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hcm_01",
+    "movie_id": "mov_48",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 4",
+    "times": [
+      "10:00",
+      "13:30",
+      "16:45",
+      "19:30",
+      "22:15"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hcm_04",
+    "movie_id": "mov_49",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 2",
+    "times": [
+      "11:15",
+      "14:20",
+      "17:35",
+      "20:10",
+      "22:45"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hn_04",
+    "movie_id": "mov_49",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 3",
+    "times": [
+      "09:30",
+      "12:15",
+      "15:00",
+      "18:20",
+      "20:50"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hcm_03",
+    "movie_id": "mov_49",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 4",
+    "times": [
+      "11:15",
+      "14:20",
+      "17:35",
+      "20:10",
+      "22:45"
+    ]
+  },
+  {
+    "cinema_id": "cgv_dn_01",
+    "movie_id": "mov_50",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 5",
+    "times": [
+      "11:15",
+      "14:20",
+      "17:35",
+      "20:10",
+      "22:45"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hcm_01",
+    "movie_id": "mov_50",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 1",
+    "times": [
+      "11:15",
+      "14:20",
+      "17:35",
+      "20:10",
+      "22:45"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hcm_02",
+    "movie_id": "mov_50",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 4",
+    "times": [
+      "11:15",
+      "14:20",
+      "17:35",
+      "20:10",
+      "22:45"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hcm_01",
+    "movie_id": "mov_51",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 4",
+    "times": [
+      "11:15",
+      "14:20",
+      "17:35",
+      "20:10",
+      "22:45"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hn_04",
+    "movie_id": "mov_51",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 1",
+    "times": [
+      "10:00",
+      "13:30",
+      "16:45",
+      "19:30",
+      "22:15"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hn_03",
+    "movie_id": "mov_51",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 6",
+    "times": [
+      "11:15",
+      "14:20",
+      "17:35",
+      "20:10",
+      "22:45"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hcm_02",
+    "movie_id": "mov_52",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 2",
+    "times": [
+      "11:15",
+      "14:20",
+      "17:35",
+      "20:10",
+      "22:45"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hn_02",
+    "movie_id": "mov_52",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 1",
+    "times": [
+      "09:30",
+      "12:15",
+      "15:00",
+      "18:20",
+      "20:50"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hn_03",
+    "movie_id": "mov_52",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 2",
+    "times": [
+      "11:15",
+      "14:20",
+      "17:35",
+      "20:10",
+      "22:45"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hn_03",
+    "movie_id": "mov_53",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 4",
+    "times": [
+      "11:15",
+      "14:20",
+      "17:35",
+      "20:10",
+      "22:45"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hcm_03",
+    "movie_id": "mov_53",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 6",
+    "times": [
+      "09:30",
+      "12:15",
+      "15:00",
+      "18:20",
+      "20:50"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hcm_04",
+    "movie_id": "mov_53",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 6",
+    "times": [
+      "10:00",
+      "13:30",
+      "16:45",
+      "19:30",
+      "22:15"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hcm_04",
+    "movie_id": "mov_54",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 6",
+    "times": [
+      "09:30",
+      "12:15",
+      "15:00",
+      "18:20",
+      "20:50"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hn_03",
+    "movie_id": "mov_54",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 4",
+    "times": [
+      "11:15",
+      "14:20",
+      "17:35",
+      "20:10",
+      "22:45"
+    ]
+  },
+  {
+    "cinema_id": "cgv_dn_01",
+    "movie_id": "mov_54",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 6",
+    "times": [
+      "10:00",
+      "13:30",
+      "16:45",
+      "19:30",
+      "22:15"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hn_01",
+    "movie_id": "mov_55",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 4",
+    "times": [
+      "10:00",
+      "13:30",
+      "16:45",
+      "19:30",
+      "22:15"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hcm_03",
+    "movie_id": "mov_55",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 5",
+    "times": [
+      "11:15",
+      "14:20",
+      "17:35",
+      "20:10",
+      "22:45"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hcm_01",
+    "movie_id": "mov_55",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 4",
+    "times": [
+      "09:30",
+      "12:15",
+      "15:00",
+      "18:20",
+      "20:50"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hn_01",
+    "movie_id": "mov_56",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 3",
+    "times": [
+      "10:00",
+      "13:30",
+      "16:45",
+      "19:30",
+      "22:15"
+    ]
+  },
+  {
+    "cinema_id": "cgv_dn_01",
+    "movie_id": "mov_56",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 3",
+    "times": [
+      "11:15",
+      "14:20",
+      "17:35",
+      "20:10",
+      "22:45"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hcm_03",
+    "movie_id": "mov_56",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 5",
+    "times": [
+      "09:30",
+      "12:15",
+      "15:00",
+      "18:20",
+      "20:50"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hn_01",
+    "movie_id": "mov_57",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 2",
+    "times": [
+      "11:15",
+      "14:20",
+      "17:35",
+      "20:10",
+      "22:45"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hn_02",
+    "movie_id": "mov_57",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 2",
+    "times": [
+      "11:15",
+      "14:20",
+      "17:35",
+      "20:10",
+      "22:45"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hn_03",
+    "movie_id": "mov_57",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 1",
+    "times": [
+      "10:00",
+      "13:30",
+      "16:45",
+      "19:30",
+      "22:15"
+    ]
+  },
+  {
+    "cinema_id": "cgv_dn_01",
+    "movie_id": "mov_58",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 3",
+    "times": [
+      "10:00",
+      "13:30",
+      "16:45",
+      "19:30",
+      "22:15"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hcm_01",
+    "movie_id": "mov_58",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 3",
+    "times": [
+      "11:15",
+      "14:20",
+      "17:35",
+      "20:10",
+      "22:45"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hn_03",
+    "movie_id": "mov_58",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 2",
+    "times": [
+      "09:30",
+      "12:15",
+      "15:00",
+      "18:20",
+      "20:50"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hcm_03",
+    "movie_id": "mov_59",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 2",
+    "times": [
+      "11:15",
+      "14:20",
+      "17:35",
+      "20:10",
+      "22:45"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hcm_04",
+    "movie_id": "mov_59",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 5",
+    "times": [
+      "11:15",
+      "14:20",
+      "17:35",
+      "20:10",
+      "22:45"
+    ]
+  },
+  {
+    "cinema_id": "cgv_dn_01",
+    "movie_id": "mov_59",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 4",
+    "times": [
+      "11:15",
+      "14:20",
+      "17:35",
+      "20:10",
+      "22:45"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hn_03",
+    "movie_id": "mov_60",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 5",
+    "times": [
+      "11:15",
+      "14:20",
+      "17:35",
+      "20:10",
+      "22:45"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hn_01",
+    "movie_id": "mov_60",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 2",
+    "times": [
+      "09:30",
+      "12:15",
+      "15:00",
+      "18:20",
+      "20:50"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hcm_04",
+    "movie_id": "mov_60",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 2",
+    "times": [
+      "09:30",
+      "12:15",
+      "15:00",
+      "18:20",
+      "20:50"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hcm_04",
+    "movie_id": "mov_61",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 4",
+    "times": [
+      "09:30",
+      "12:15",
+      "15:00",
+      "18:20",
+      "20:50"
+    ]
+  },
+  {
+    "cinema_id": "cgv_dn_01",
+    "movie_id": "mov_61",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 1",
+    "times": [
+      "09:30",
+      "12:15",
+      "15:00",
+      "18:20",
+      "20:50"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hn_04",
+    "movie_id": "mov_61",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 1",
+    "times": [
+      "10:00",
+      "13:30",
+      "16:45",
+      "19:30",
+      "22:15"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hn_01",
+    "movie_id": "mov_62",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 1",
+    "times": [
+      "10:00",
+      "13:30",
+      "16:45",
+      "19:30",
+      "22:15"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hcm_01",
+    "movie_id": "mov_62",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 2",
+    "times": [
+      "11:15",
+      "14:20",
+      "17:35",
+      "20:10",
+      "22:45"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hcm_04",
+    "movie_id": "mov_62",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 2",
+    "times": [
+      "09:30",
+      "12:15",
+      "15:00",
+      "18:20",
+      "20:50"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hcm_04",
+    "movie_id": "mov_63",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 6",
+    "times": [
+      "11:15",
+      "14:20",
+      "17:35",
+      "20:10",
+      "22:45"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hcm_01",
+    "movie_id": "mov_63",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 6",
+    "times": [
+      "09:30",
+      "12:15",
+      "15:00",
+      "18:20",
+      "20:50"
+    ]
+  },
+  {
+    "cinema_id": "cgv_dn_01",
+    "movie_id": "mov_63",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 3",
+    "times": [
+      "10:00",
+      "13:30",
+      "16:45",
+      "19:30",
+      "22:15"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hcm_03",
+    "movie_id": "mov_64",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 1",
+    "times": [
+      "10:00",
+      "13:30",
+      "16:45",
+      "19:30",
+      "22:15"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hcm_04",
+    "movie_id": "mov_64",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 3",
+    "times": [
+      "10:00",
+      "13:30",
+      "16:45",
+      "19:30",
+      "22:15"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hn_04",
+    "movie_id": "mov_64",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 4",
+    "times": [
+      "09:30",
+      "12:15",
+      "15:00",
+      "18:20",
+      "20:50"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hn_03",
+    "movie_id": "mov_65",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 5",
+    "times": [
+      "10:00",
+      "13:30",
+      "16:45",
+      "19:30",
+      "22:15"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hcm_02",
+    "movie_id": "mov_65",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 2",
+    "times": [
+      "09:30",
+      "12:15",
+      "15:00",
+      "18:20",
+      "20:50"
+    ]
+  },
+  {
+    "cinema_id": "cgv_dn_01",
+    "movie_id": "mov_65",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 3",
+    "times": [
+      "11:15",
+      "14:20",
+      "17:35",
+      "20:10",
+      "22:45"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hcm_03",
+    "movie_id": "mov_66",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 1",
+    "times": [
+      "09:30",
+      "12:15",
+      "15:00",
+      "18:20",
+      "20:50"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hn_04",
+    "movie_id": "mov_66",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 6",
+    "times": [
+      "11:15",
+      "14:20",
+      "17:35",
+      "20:10",
+      "22:45"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hcm_02",
+    "movie_id": "mov_66",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 2",
+    "times": [
+      "09:30",
+      "12:15",
+      "15:00",
+      "18:20",
+      "20:50"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hn_04",
+    "movie_id": "mov_67",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 1",
+    "times": [
+      "11:15",
+      "14:20",
+      "17:35",
+      "20:10",
+      "22:45"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hn_01",
+    "movie_id": "mov_67",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 4",
+    "times": [
+      "09:30",
+      "12:15",
+      "15:00",
+      "18:20",
+      "20:50"
+    ]
+  },
+  {
+    "cinema_id": "cgv_dn_01",
+    "movie_id": "mov_67",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 6",
+    "times": [
+      "11:15",
+      "14:20",
+      "17:35",
+      "20:10",
+      "22:45"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hcm_02",
+    "movie_id": "mov_68",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 1",
+    "times": [
+      "11:15",
+      "14:20",
+      "17:35",
+      "20:10",
+      "22:45"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hcm_01",
+    "movie_id": "mov_68",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 5",
+    "times": [
+      "11:15",
+      "14:20",
+      "17:35",
+      "20:10",
+      "22:45"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hn_03",
+    "movie_id": "mov_68",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 2",
+    "times": [
+      "10:00",
+      "13:30",
+      "16:45",
+      "19:30",
+      "22:15"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hcm_01",
+    "movie_id": "mov_69",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 2",
+    "times": [
+      "10:00",
+      "13:30",
+      "16:45",
+      "19:30",
+      "22:15"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hn_03",
+    "movie_id": "mov_69",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 6",
+    "times": [
+      "11:15",
+      "14:20",
+      "17:35",
+      "20:10",
+      "22:45"
+    ]
+  },
+  {
+    "cinema_id": "cgv_dn_01",
+    "movie_id": "mov_69",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 2",
+    "times": [
+      "10:00",
+      "13:30",
+      "16:45",
+      "19:30",
+      "22:15"
+    ]
+  },
+  {
+    "cinema_id": "cgv_dn_01",
+    "movie_id": "mov_70",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 1",
+    "times": [
+      "10:00",
+      "13:30",
+      "16:45",
+      "19:30",
+      "22:15"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hn_02",
+    "movie_id": "mov_70",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 5",
+    "times": [
+      "11:15",
+      "14:20",
+      "17:35",
+      "20:10",
+      "22:45"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hcm_02",
+    "movie_id": "mov_70",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 2",
+    "times": [
+      "11:15",
+      "14:20",
+      "17:35",
+      "20:10",
+      "22:45"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hn_01",
+    "movie_id": "mov_71",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 5",
+    "times": [
+      "09:30",
+      "12:15",
+      "15:00",
+      "18:20",
+      "20:50"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hn_03",
+    "movie_id": "mov_71",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 4",
+    "times": [
+      "09:30",
+      "12:15",
+      "15:00",
+      "18:20",
+      "20:50"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hn_04",
+    "movie_id": "mov_71",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 6",
+    "times": [
+      "11:15",
+      "14:20",
+      "17:35",
+      "20:10",
+      "22:45"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hn_03",
+    "movie_id": "mov_72",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 3",
+    "times": [
+      "09:30",
+      "12:15",
+      "15:00",
+      "18:20",
+      "20:50"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hcm_03",
+    "movie_id": "mov_72",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 3",
+    "times": [
+      "10:00",
+      "13:30",
+      "16:45",
+      "19:30",
+      "22:15"
+    ]
+  },
+  {
+    "cinema_id": "cgv_hn_02",
+    "movie_id": "mov_72",
+    "date": "Hôm nay",
+    "format": "2D",
+    "screen": "Cinema 3",
+    "times": [
+      "10:00",
+      "13:30",
+      "16:45",
+      "19:30",
+      "22:15"
+    ]
+  }
+]

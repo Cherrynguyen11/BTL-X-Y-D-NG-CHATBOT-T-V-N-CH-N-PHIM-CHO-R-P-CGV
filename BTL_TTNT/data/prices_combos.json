@@ -1,0 +1,81 @@
+{
+  "ticket_prices": {
+    "standard_2d": {
+      "name": "Vé 2D Chuẩn (Thứ 2 - Thứ 5)",
+      "u22_student": "55.000 VNĐ - 75.000 VNĐ (tùy rạp)",
+      "adult": "85.000 VNĐ - 110.000 VNĐ",
+      "vip_seat": "+10.000 VNĐ",
+      "sweetbox_couple": "180.000 VNĐ - 220.000 VNĐ / cặp đôi"
+    },
+    "weekend_2d": {
+      "name": "Vé 2D Cuối tuần (Thứ 6, Thứ 7, Chủ Nhật)",
+      "adult": "110.000 VNĐ - 135.000 VNĐ",
+      "vip_seat": "+15.000 VNĐ",
+      "sweetbox_couple": "230.000 VNĐ - 260.000 VNĐ / cặp đôi"
+    },
+    "imax_format": {
+      "name": "Vé IMAX Laser",
+      "weekday": "150.000 VNĐ - 180.000 VNĐ",
+      "weekend": "180.000 VNĐ - 230.000 VNĐ"
+    },
+    "4dx_format": {
+      "name": "Vé 4DX (Hiệu ứng ghế rung, gió, nước, mùi hương)",
+      "weekday": "140.000 VNĐ - 170.000 VNĐ",
+      "weekend": "170.000 VNĐ - 210.000 VNĐ"
+    },
+    "gold_class": {
+      "name": "Phòng chiếu VIP Gold Class (Ghế sofa bọc da ngả 180 độ, trà/cà phê miễn phí)",
+      "price": "300.000 VNĐ / vé (kèm đồ uống & chăn cao cấp)"
+    }
+  },
+  "promotions": [
+    {
+      "name": "Thứ Tư Vui Vẻ (Happy Wednesday)",
+      "desc": "Đồng giá vé 2D chỉ từ 75.000 VNĐ cho tất cả khách hàng vào mỗi thứ Tư hàng tuần."
+    },
+    {
+      "name": "Ưu đãi thành viên U22 (Dưới 22 tuổi)",
+      "desc": "Giá vé 2D siêu ưu đãi chỉ từ 55.000 VNĐ - 65.000 VNĐ từ Thứ 2 đến Thứ 6 khi xuất trình CCCD hoặc thẻ HSSV."
+    },
+    {
+      "name": "Ngày Văn Hóa (Culture Day)",
+      "desc": "Thứ Hai cuối cùng của mỗi tháng: đồng giá vé 55.000 VNĐ cho các suất chiếu 2D cả ngày."
+    },
+    {
+      "name": "Điểm thưởng CGV Membership",
+      "desc": "Tích lũy 5% - 10% giá trị hóa đơn vé và bắp nước để đổi quà và vé miễn phí."
+    }
+  ],
+  "combos": [
+    {
+      "id": "cb_01",
+      "name": "My Combo (1 người)",
+      "desc": "1 Bắp ngọt lớn (hoặc đổi Phô mai/Caramel +10k) + 1 Nước ngọt lớn (Coke/Sprite/Fanta)",
+      "price": "89.000 VNĐ"
+    },
+    {
+      "id": "cb_02",
+      "name": "CGV Combo (2 người - Bán chạy nhất)",
+      "desc": "1 Bắp lớn 2 ngăn (chọn 2 vị Caramel/Phô mai) + 2 Nước ngọt lớn",
+      "price": "119.000 VNĐ"
+    },
+    {
+      "id": "cb_03",
+      "name": "Sweet Combo (Cặp đôi)",
+      "desc": "1 Bắp ngọt lớn + 2 Nước lớn + 1 Snack Socca/Bánh quế ngọt ngào",
+      "price": "135.000 VNĐ"
+    },
+    {
+      "id": "cb_04",
+      "name": "Premium Family Combo (Gia đình)",
+      "desc": "2 Bắp lớn đặc biệt + 4 Nước ngọt vừa + 2 phần Xúc xích nướng / Khoai tây lắc",
+      "price": "219.000 VNĐ"
+    },
+    {
+      "id": "cb_05",
+      "name": "Movie Snack Bar",
+      "desc": "Khoai tây chiên lắc phô mai, xúc xích nướng phô mai, trà đào cam sả, cà phê muối",
+      "price": "Từ 35.000 VNĐ - 55.000 VNĐ"
+    }
+  ]
+}

@@ -1,0 +1,399 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CGV Cinemas AI Assistant - Trợ Lý Điện Ảnh Thông Minh</title>
+    <meta name="description" content="Chatbot AI tư vấn phim, tra cứu lịch chiếu, giá vé và đặt vé rạp chiếu phim CGV Cinemas.">
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&family=Space+Grotesk:wght@500;700&display=swap" rel="stylesheet">
+    <!-- Font Awesome Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body class="dark-theme">
+    <!-- Background Ambient Light -->
+    <div class="ambient-glow glow-red"></div>
+    <div class="ambient-glow glow-gold"></div>
+
+    <!-- Header Navigation -->
+    <header class="cgv-header">
+        <div class="header-container">
+            <div class="brand-wrapper">
+                <div class="cgv-logo-badge">CGV</div>
+                <div class="brand-text">
+                    <span class="brand-title">CINEMAS <span class="ai-pill">AI ASSISTANT</span></span>
+                    <span class="brand-subtitle">Trợ lý tư vấn điện ảnh Cimi</span>
+                </div>
+            </div>
+
+            <!-- Navigation Tabs -->
+            <nav class="nav-tabs">
+                <button class="nav-tab active" id="tabChatBtn" onclick="switchTab('chat')">
+                    <i class="fa-solid fa-comments"></i> Chatbot Tư Vấn
+                </button>
+                <button class="nav-tab" id="tabMoviesBtn" onclick="switchTab('movies')">
+                    <i class="fa-solid fa-film"></i> Khám Phá Phim
+                </button>
+                <button class="nav-tab" id="tabPricesBtn" onclick="switchTab('prices')">
+                    <i class="fa-solid fa-ticket"></i> Bảng Giá & Combo
+                </button>
+            </nav>
+
+            <!-- Top Actions -->
+            <div class="header-actions">
+                <button class="btn-sync" id="syncCgvBtn" onclick="triggerCgvSync()" title="Cập nhật danh sách phim mới nhất từ website CGV Việt Nam">
+                    <i class="fa-solid fa-arrows-rotate" id="syncIcon"></i>
+                    <span id="syncBtnText">Đồng bộ CGV</span>
+                </button>
+                <div class="engine-badge" id="engineStatusBadge" title="Trạng thái bộ não AI">
+                    <span class="status-dot"></span>
+                    <span id="engineStatusText">Local AI Engine</span>
+                </div>
+                <button class="btn-icon" id="openSettingsBtn" title="Cài đặt API Key Gemini">
+                    <i class="fa-solid fa-gear"></i>
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content Area -->
+    <main class="main-layout">
+        <!-- TAB 1: CHATBOT VIEW -->
+        <section class="tab-view active-view" id="viewChat">
+            <div class="chat-wrapper">
+                <!-- Chat Messages Scrollable Area -->
+                <div class="chat-messages" id="chatMessages">
+                    <!-- Welcome Hero Message -->
+                    <div class="message-group bot-group">
+                        <div class="bot-avatar">
+                            <i class="fa-solid fa-robot"></i>
+                        </div>
+                        <div class="message-content">
+                            <div class="bot-name">Cimi • CGV AI Assistant <span class="badge-verified"><i class="fa-solid fa-circle-check"></i></span></div>
+                            <div class="chat-bubble bot-bubble">
+                                <p>🍿 <strong>Chào mừng bạn đến với CGV Cinemas!</strong></p>
+                                <p>Mình là <strong>Cimi</strong> - Trợ lý AI sẵn sàng hỗ trợ bạn:</p>
+                                <ul>
+                                    <li>🎬 Gợi ý phim theo tâm trạng, sở thích, người đi cùng (người yêu, gia đình, bạn bè)</li>
+                                    <li>🕒 Tra cứu lịch chiếu và phòng chiếu tại các rạp CGV trên toàn quốc</li>
+                                    <li>🎟️ Bảng giá vé HSSV/U22, khuyến mãi Thứ Tư Vui Vẻ, Combo bắp nước</li>
+                                    <li>💺 Hỗ trợ chọn ghế và giả lập đặt vé xem phim ngay trong chat!</li>
+                                </ul>
+                                <p>Bạn muốn Cimi giúp gì hôm nay nào?</p>
+                            </div>
+                            
+                            <!-- Initial Quick Action Suggestions -->
+                            <div class="quick-chips-container" id="initQuickChips">
+                                <button class="quick-chip" onclick="sendQuickMessage('Hôm nay có phim gì đang hot nhất tại CGV?')">🔥 Phim hot hôm nay</button>
+                                <button class="quick-chip" onclick="sendQuickMessage('Gợi ý cho tôi 1 phim kinh dị rùng rợn xem vào cuối tuần')">👻 Phim kinh dị cuốn hút</button>
+                                <button class="quick-chip" onclick="sendQuickMessage('Có phim hoạt hình nào phù hợp cho bé dưới 10 tuổi không?')">👨‍👩‍👧 Phim cho gia đình & bé</button>
+                                <button class="quick-chip" onclick="sendQuickMessage('Giá vé thành viên U22 và chương trình thứ tư vui vẻ?')">🎓 Ưu đãi vé U22 & Thứ 4</button>
+                                <button class="quick-chip" onclick="sendQuickMessage('Menu combo bắp nước CGV giá bao nhiêu?')">🍿 Combo bắp nước</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Chat Input Floating Bar -->
+                <div class="chat-input-container">
+                    <!-- Live Dynamic Quick Chips from AI -->
+                    <div class="dynamic-chips-row" id="dynamicChipsRow">
+                        <!-- Populated by AI responses -->
+                    </div>
+
+                    <form class="chat-form" id="chatForm" onsubmit="handleChatSubmit(event)">
+                        <button type="button" class="btn-input-addon" id="btnVoiceInput" title="Nhập bằng giọng nói (Voice)" onclick="toggleVoiceInput()">
+                            <i class="fa-solid fa-microphone"></i>
+                        </button>
+                        <input type="text" id="chatInput" placeholder="Nhập câu hỏi hoặc yêu cầu tư vấn phim (ví dụ: Suất chiếu Deadpool tối nay ở Landmark 81)..." autocomplete="off">
+                        <button type="submit" class="btn-send" id="btnSend">
+                            <span>Gửi</span>
+                            <i class="fa-solid fa-paper-plane"></i>
+                        </button>
+                    </form>
+                    <div class="input-disclaimer">
+                        <span>Lõi AI xử lý NLP (Phân loại ý định, trích xuất thực thể, gợi ý phim Content-based TF-IDF Cosine). Tích hợp RAG.</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- AI Thought & Intent Inspector Sidebar (Desktop) -->
+            <aside class="ai-inspector-sidebar">
+                <div class="sidebar-header">
+                    <div class="sidebar-title"><i class="fa-solid fa-brain"></i> AI Engine Inspector</div>
+                    <span class="pill-live">BTL TTNT</span>
+                </div>
+                <div class="sidebar-body">
+                    <div class="inspector-card">
+                        <div class="inspector-label">Ý ĐỊNH NHẬN DIỆN (INTENT)</div>
+                        <div class="inspector-value" id="inspectIntent">GREETING</div>
+                        <div class="confidence-bar-wrapper">
+                            <div class="confidence-label">
+                                <span>Độ tin cậy:</span>
+                                <strong id="inspectConfidence">99%</strong>
+                            </div>
+                            <div class="confidence-track">
+                                <div class="confidence-fill" id="inspectConfidenceBar" style="width: 99%"></div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="inspector-card">
+                        <div class="inspector-label">THỰC THỂ ĐÃ TRÍCH XUẤT (NER)</div>
+                        <div class="ner-tags" id="inspectEntities">
+                            <span class="ner-badge tag-empty">Chưa có thực thể</span>
+                        </div>
+                    </div>
+
+                    <div class="inspector-card">
+                        <div class="inspector-label">THUẬT TOÁN ĐÃ ÁP DỤNG</div>
+                        <ul class="algo-list">
+                            <li><i class="fa-solid fa-check text-green"></i> <strong>Intent Classifier</strong>: Pattern & Keyword Scoring</li>
+                            <li><i class="fa-solid fa-check text-green"></i> <strong>NER Extractor</strong>: Boundary-checked Entity Extractor</li>
+                            <li><i class="fa-solid fa-check text-green"></i> <strong>Recommender</strong>: TF-IDF & Cosine Similarity</li>
+                            <li><i class="fa-solid fa-check text-green"></i> <strong>RAG System</strong>: Context Injection</li>
+                        </ul>
+                    </div>
+
+                    <div class="inspector-card promo-box">
+                        <div class="promo-icon"><i class="fa-solid fa-crown"></i></div>
+                        <div class="promo-text">
+                            <strong>Đặc quyền CGV Member</strong>
+                            <p>Tích lũy 5% - 10% điểm cho mỗi lần xem phim để đổi quà xịn!</p>
+                        </div>
+                    </div>
+                </div>
+            </aside>
+        </section>
+
+        <!-- TAB 2: EXPLORE MOVIES VIEW -->
+        <section class="tab-view" id="viewMovies">
+            <div class="movies-catalog-header">
+                <div class="catalog-title-area">
+                    <h2>Danh Sách Phim Chiếu Rạp CGV</h2>
+                    <p>Khám phá các bộ phim bom tấn đang chiếu và sắp ra mắt tại hệ thống CGV toàn quốc</p>
+                    <div class="sync-meta-tag" id="catalogSyncBadge">
+                        <i class="fa-solid fa-clock-rotate-left"></i> <span id="catalogSyncText">Đang kiểm tra dữ liệu CGV...</span>
+                    </div>
+                </div>
+                <div class="catalog-filters">
+                    <button class="filter-btn active" onclick="filterCatalog('all', this)">Tất cả phim</button>
+                    <button class="filter-btn" onclick="filterCatalog('now_showing', this)">Đang chiếu</button>
+                    <button class="filter-btn" onclick="filterCatalog('coming_soon', this)">Sắp chiếu</button>
+                    <button class="filter-btn" onclick="filterCatalog('IMAX', this)">IMAX Laser</button>
+                    <button class="filter-btn btn-catalog-sync" onclick="triggerCgvSync()" title="Cào và đồng bộ phim mới từ CGV">
+                        <i class="fa-solid fa-arrows-rotate"></i> Cập nhật từ CGV
+                    </button>
+                </div>
+            </div>
+
+            <!-- Movies Grid -->
+            <div class="movies-grid" id="moviesGrid">
+                <!-- Populated via JavaScript -->
+            </div>
+        </section>
+
+        <!-- TAB 3: PRICES & COMBOS VIEW -->
+        <section class="tab-view" id="viewPrices">
+            <div class="prices-catalog-header">
+                <h2>Bảng Giá Vé & Thực Đơn Bắp Nước CGV</h2>
+                <p>Cập nhật giá vé tiêu chuẩn, định dạng đặc biệt và các combo bắp nước bán chạy nhất</p>
+            </div>
+
+            <div class="prices-grid">
+                <!-- Ticket Pricing Card -->
+                <div class="pricing-category-card">
+                    <div class="cat-header">
+                        <i class="fa-solid fa-ticket-simple"></i>
+                        <h3>Giá Vé Xem Phim</h3>
+                    </div>
+                    <div class="cat-content" id="ticketPricesContainer">
+                        <!-- Populated by JS -->
+                    </div>
+                </div>
+
+                <!-- Promotions Card -->
+                <div class="pricing-category-card">
+                    <div class="cat-header gold-header">
+                        <i class="fa-solid fa-star"></i>
+                        <h3>Chương Trình Ưu Đãi Nổi Bật</h3>
+                    </div>
+                    <div class="cat-content" id="promotionsContainer">
+                        <!-- Populated by JS -->
+                    </div>
+                </div>
+
+                <!-- Combos Card -->
+                <div class="pricing-category-card wide-card">
+                    <div class="cat-header red-header">
+                        <i class="fa-solid fa-bowl-food"></i>
+                        <h3>Thực Đơn Combo Bắp Nước CGV</h3>
+                    </div>
+                    <div class="combos-grid" id="combosContainer">
+                        <!-- Populated by JS -->
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Modal: YouTube Trailer Popup -->
+    <div class="modal-backdrop" id="trailerModal">
+        <div class="modal-box trailer-modal-box">
+            <div class="modal-header">
+                <span class="modal-title" id="trailerTitle">Trailer Phim</span>
+                <button class="modal-close" onclick="closeTrailerModal()"><i class="fa-solid fa-xmark"></i></button>
+            </div>
+            <div class="modal-body trailer-body">
+                <div class="video-container" id="videoContainer">
+                    <!-- Iframe injected here -->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal: Showtime Picker & Seat Map -->
+    <div class="modal-backdrop" id="bookingModal">
+        <div class="modal-box booking-modal-box">
+            <div class="modal-header">
+                <div>
+                    <span class="modal-title" id="bookingMovieTitle">Đặt vé xem phim</span>
+                    <span class="modal-subtitle" id="bookingMovieSub">Chọn rạp, suất chiếu và vị trí ghế</span>
+                </div>
+                <button class="modal-close" onclick="closeBookingModal()"><i class="fa-solid fa-xmark"></i></button>
+            </div>
+            <div class="modal-body booking-body">
+                <!-- Step 1: Chọn rạp & suất chiếu -->
+                <div class="booking-step">
+                    <label class="step-label"><i class="fa-solid fa-location-dot"></i> Chọn Cụm Rạp CGV:</label>
+                    <select id="bookingCinemaSelect" class="styled-select" onchange="onBookingCinemaChange()">
+                        <!-- Options populated by JS -->
+                    </select>
+                </div>
+
+                <div class="booking-step">
+                    <label class="step-label"><i class="fa-regular fa-clock"></i> Chọn Suất Chiếu:</label>
+                    <div class="showtime-chips" id="bookingShowtimeChips">
+                        <!-- Populated by JS -->
+                    </div>
+                </div>
+
+                <!-- Sơ đồ rạp chiếu -->
+                <div class="screen-visualization">
+                    <div class="screen-curve">MÀN HÌNH CHIẾU CGV</div>
+                    <div class="cinema-seats-grid" id="cinemaSeatsGrid">
+                        <!-- Generated seat matrix -->
+                    </div>
+                    <div class="seat-legend">
+                        <span class="legend-item"><span class="seat-sample standard"></span> Ghế Thường (110k)</span>
+                        <span class="legend-item"><span class="seat-sample vip"></span> Ghế VIP (125k)</span>
+                        <span class="legend-item"><span class="seat-sample sweetbox"></span> Sweetbox Đôi (230k)</span>
+                        <span class="legend-item"><span class="seat-sample selected"></span> Đang chọn</span>
+                    </div>
+                </div>
+
+                <!-- Booking Summary Footer -->
+                <div class="booking-summary-bar">
+                    <div class="summary-info">
+                        <div>Ghế chọn: <strong id="selectedSeatsText">Chưa chọn</strong></div>
+                        <div>Tổng tiền: <strong id="totalPriceText" class="text-gold">0 VNĐ</strong></div>
+                    </div>
+                    <button class="btn-confirm-booking" id="btnConfirmBooking" onclick="submitBooking()" disabled>
+                        <i class="fa-solid fa-check"></i> Xác Nhận Đặt Vé
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal: Electronic Ticket Pass -->
+    <div class="modal-backdrop" id="ticketModal">
+        <div class="modal-box ticket-modal-box">
+            <div class="ticket-card" id="ticketCard">
+                <div class="ticket-header">
+                    <div class="ticket-brand">CGV CINEMAS</div>
+                    <div class="ticket-type-badge">VÉ ĐIỆN TỬ E-TICKET</div>
+                </div>
+                <div class="ticket-body">
+                    <h3 class="ticket-movie-title" id="tMovieTitle">Deadpool & Wolverine</h3>
+                    <div class="ticket-meta-row">
+                        <div>
+                            <span class="t-label">RẠP CHIẾU</span>
+                            <span class="t-val" id="tCinema">CGV Landmark 81</span>
+                        </div>
+                        <div>
+                            <span class="t-label">SUẤT CHIẾU</span>
+                            <span class="t-val" id="tTime">20:30 (Hôm nay)</span>
+                        </div>
+                    </div>
+                    <div class="ticket-meta-row">
+                        <div>
+                            <span class="t-label">ĐỊNH DẠNG</span>
+                            <span class="t-val" id="tFormat">2D Digital</span>
+                        </div>
+                        <div>
+                            <span class="t-label">GHẾ ĐÃ CHỌN</span>
+                            <span class="t-val text-gold" id="tSeats">D5, D6</span>
+                        </div>
+                    </div>
+                    <div class="ticket-code-section">
+                        <span class="t-label">MÃ ĐẶT VÉ (QUÉT TẠI QUẦY HOẶC MÁY IN VÉ)</span>
+                        <div class="ticket-barcode-img">
+                            <div class="barcode-lines"></div>
+                        </div>
+                        <div class="ticket-code-text" id="tCode">CGV-84930182</div>
+                    </div>
+                    <div class="ticket-total">
+                        <span>Tổng thanh toán:</span>
+                        <strong class="text-gold" id="tPrice">220.000 VNĐ</strong>
+                    </div>
+                </div>
+                <div class="ticket-footer">
+                    <button class="btn-ticket-done" onclick="closeTicketModal()">Hoàn tất & Về khung chat</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal: Settings / Gemini API Key -->
+    <div class="modal-backdrop" id="settingsModal">
+        <div class="modal-box settings-modal-box">
+            <div class="modal-header">
+                <span class="modal-title"><i class="fa-solid fa-sliders"></i> Cài Đặt AI Chatbot</span>
+                <button class="modal-close" onclick="closeSettingsModal()"><i class="fa-solid fa-xmark"></i></button>
+            </div>
+            <div class="modal-body">
+                <p class="settings-desc">
+                    Hệ thống tích hợp <strong>kiến trúc Hybrid AI</strong>:
+                </p>
+                <ul class="settings-modes-list">
+                    <li>
+                        <strong>Chế độ 1 - Local AI Engine (Mặc định)</strong>: Chạy offline 100% bằng bộ máy NLP nội bộ (TF-IDF & Cosine Similarity, Pattern Matching, Slot-filling) siêu tốc độ, không cần API Key.
+                    </li>
+                    <li>
+                        <strong>Chế độ 2 - Cloud Gemini LLM + RAG</strong>: Nhập Google Gemini API Key để Cimi trò chuyện thông minh, dí dỏm bằng mô hình ngôn ngữ lớn kết hợp kiến thức rạp CGV thực tế.
+                    </li>
+                </ul>
+
+                <div class="settings-field">
+                    <label for="inputGeminiKey">Google Gemini API Key (Tùy chọn):</label>
+                    <input type="password" id="inputGeminiKey" placeholder="AIzaSy..." class="styled-input">
+                    <span class="field-hint">Nếu để trống, hệ thống sẽ sử dụng Local AI Engine chất lượng cao.</span>
+                </div>
+
+                <div class="settings-actions">
+                    <button class="btn-save-key" onclick="saveApiKey()">
+                        <i class="fa-solid fa-floppy-disk"></i> Lưu Cấu Hình
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Scripts -->
+    <script src="/static/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,2913 @@
+[
+  {
+    "id": "mov_01",
+    "title": "Deadpool & Wolverine",
+    "original_title": "Deadpool & Wolverine",
+    "genre": [
+      "Hành động",
+      "Hài hước",
+      "Khoa học viễn tưởng"
+    ],
+    "duration": 128,
+    "age_rating": "T18",
+    "age_desc": "Phim dành cho khán giả từ đủ 18 tuổi trở lên (18+)",
+    "director": "Shawn Levy",
+    "cast": [
+      "Ryan Reynolds",
+      "Hugh Jackman",
+      "Emma Corrin",
+      "Morena Baccarin"
+    ],
+    "release_date": "2024-07-26",
+    "status": "now_showing",
+    "rating": 8.9,
+    "votes": 14200,
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX",
+      "4DX"
+    ],
+    "synopsis": "Tổ chức Phương sai Thời gian (TVA) lôi kéo gã phản anh hùng mồm mép tép nhảy Deadpool vào một nhiệm vụ bảo vệ đa vũ trụ, buộc anh phải hợp lực với một Wolverine đang chán đời và đầy vết sẹo tâm lý để cứu vương quốc của mình.",
+    "poster": "https://image.tmdb.org/t/p/w500/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
+    "trailer_id": "73_1biulkYk",
+    "tags": [
+      "marvel",
+      "mcu",
+      "siêu anh hùng",
+      "hài bựa",
+      "hành động",
+      "bom tấn",
+      "hẹn hò",
+      "bạn bè"
+    ]
+  },
+  {
+    "id": "mov_02",
+    "title": "Những Mảnh Ghép Cảm Xúc 2",
+    "original_title": "Inside Out 2",
+    "genre": [
+      "Hoạt hình",
+      "Gia đình",
+      "Hài hước",
+      "Phiêu lưu"
+    ],
+    "duration": 96,
+    "age_rating": "P",
+    "age_desc": "Phim được phép phổ biến đến người xem ở mọi độ tuổi",
+    "director": "Kelsey Mann",
+    "cast": [
+      "Amy Poehler",
+      "Maya Hawke",
+      "Kensington Tallman",
+      "Liza Lapira"
+    ],
+    "release_date": "2024-06-14",
+    "status": "now_showing",
+    "rating": 8.8,
+    "votes": 12500,
+    "formats": [
+      "2D",
+      "3D",
+      "4DX"
+    ],
+    "synopsis": "Khi cô bé Riley bước vào tuổi dậy thì, trụ sở cảm xúc bất ngờ đón nhận những vị khách mới đầy rắc rối: Lo Âu (Anxiety), Ganh Tị (Envy), Xấu Hổ (Embarrassment) và Chán Nản (Ennui).",
+    "poster": "https://image.tmdb.org/t/p/w500/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg",
+    "trailer_id": "LEjhY15eCx0",
+    "tags": [
+      "pixar",
+      "disney",
+      "gia đình",
+      "trẻ em",
+      "ý nghĩa",
+      "chữa lành",
+      "tuổi mới lớn",
+      "hoạt hình"
+    ]
+  },
+  {
+    "id": "mov_03",
+    "title": "Thám Tử Lừng Danh Conan: Ngôi Sao 5 Cánh 1 Triệu Đô",
+    "original_title": "Detective Conan: The Million-dollar Pentagram",
+    "genre": [
+      "Hoạt hình",
+      "Bí ẩn",
+      "Hành động",
+      "Trinh thám"
+    ],
+    "duration": 111,
+    "age_rating": "K",
+    "age_desc": "Khán giả dưới 13 tuổi xem cùng phụ huynh hoặc người giám hộ",
+    "director": "Chika Nagaoka",
+    "cast": [
+      "Minami Takayama",
+      "Kappei Yamaguchi",
+      "Wakana Yamazaki"
+    ],
+    "release_date": "2024-08-02",
+    "status": "now_showing",
+    "rating": 8.7,
+    "votes": 9800,
+    "formats": [
+      "2D",
+      "IMAX",
+      "4DX"
+    ],
+    "synopsis": "Tại Hakodate, Siêu trộm Kaito Kid nhắm vào một thanh kiếm Nhật cổ thời Mạc phủ. Cùng lúc đó, Conan và Hattori Heiji đối mặt với vụ án giết người bí ẩn cùng âm mưu kho báu quốc gia.",
+    "poster": "https://image.tmdb.org/t/p/w500/ctboIRYQHYJMge6M6fgcwrhREsj.jpg",
+    "trailer_id": "e_z2-6Bf_S8",
+    "tags": [
+      "anime",
+      "trinh thám",
+      "kaito kid",
+      "heiji",
+      "conan",
+      "hoạt hình"
+    ]
+  },
+  {
+    "id": "mov_04",
+    "title": "Ma Da",
+    "original_title": "Ma Da",
+    "genre": [
+      "Kinh dị",
+      "Tâm linh",
+      "Hồi hộp"
+    ],
+    "duration": 98,
+    "age_rating": "T16",
+    "age_desc": "Phim dành cho khán giả từ đủ 16 tuổi trở lên (16+)",
+    "director": "Nguyễn Hữu Hoàng",
+    "cast": [
+      "Việt Hương",
+      "Trung Dân",
+      "Cẩm Ly",
+      "Dạ Chúc"
+    ],
+    "release_date": "2024-08-16",
+    "status": "now_showing",
+    "rating": 7.8,
+    "votes": 7600,
+    "formats": [
+      "2D"
+    ],
+    "synopsis": "Chuyện phim xoay quanh bà Lệ - một người phụ nữ làm nghề vớt xác trên vùng sông nước miền Tây. Bi kịch xảy ra khi con gái bà bị Ma Da bắt đi, buộc bà phải đối đầu với thế lực tà ác dưới đáy sông.",
+    "poster": "https://image.tmdb.org/t/p/w500/gKkl37BQuKTanygYQG1pyYgLVgf.jpg",
+    "trailer_id": "9j5pS4-F0b8",
+    "tags": [
+      "phim việt nam",
+      "kinh dị việt",
+      "ma da",
+      "việt hương",
+      "rùng rợn",
+      "miền tây",
+      "tâm linh"
+    ]
+  },
+  {
+    "id": "mov_05",
+    "title": "Kẻ Trộm Mặt Trăng 4",
+    "original_title": "Despicable Me 4",
+    "genre": [
+      "Hoạt hình",
+      "Hài hước",
+      "Gia đình",
+      "Phiêu lưu"
+    ],
+    "duration": 94,
+    "age_rating": "P",
+    "age_desc": "Phim được phép phổ biến đến người xem ở mọi độ tuổi",
+    "director": "Chris Renaud",
+    "cast": [
+      "Steve Carell",
+      "Kristen Wiig",
+      "Will Ferrell",
+      "Sofia Vergara"
+    ],
+    "release_date": "2024-07-05",
+    "status": "now_showing",
+    "rating": 8.0,
+    "votes": 8900,
+    "formats": [
+      "2D",
+      "3D",
+      "4DX"
+    ],
+    "synopsis": "Gia đình Gru chào đón thành viên mới Gru Junior - cậu nhóc chuyên hành hạ bố. Cùng lúc đó, kẻ thù truyền kiếp Maxime Le Mal vượt ngục, đẩy cả nhà Gru và binh đoàn Mega Minions vào cuộc trốn chạy náo loạn.",
+    "poster": "https://image.tmdb.org/t/p/w500/wWba3TaojhK7NdycRhoQpsG0FaH.jpg",
+    "trailer_id": "qQlr9-rF32A",
+    "tags": [
+      "minion",
+      "gru",
+      "hài hước",
+      "trẻ em",
+      "gia đình",
+      "cuối tuần",
+      "giải trí",
+      "hoạt hình"
+    ]
+  },
+  {
+    "id": "mov_06",
+    "title": "Quật Mộ Trùng Ma",
+    "original_title": "Exhuma",
+    "genre": [
+      "Kinh dị",
+      "Bí ẩn",
+      "Hồi hộp",
+      "Tâm linh"
+    ],
+    "duration": 134,
+    "age_rating": "T16",
+    "age_desc": "Phim dành cho khán giả từ đủ 16 tuổi trở lên (16+)",
+    "director": "Jang Jae-hyun",
+    "cast": [
+      "Choi Min-sik",
+      "Kim Go-eun",
+      "Yoo Hae-jin",
+      "Lee Do-hyun"
+    ],
+    "release_date": "2024-03-15",
+    "status": "now_showing",
+    "rating": 8.6,
+    "votes": 16400,
+    "formats": [
+      "2D",
+      "4DX"
+    ],
+    "synopsis": "Hai pháp sư trẻ tuổi cùng một thầy phong thủy và chuyên gia mai táng nhận lời khai quật một ngôi mộ bí ẩn tại vùng núi hẻo lánh của Hàn Quốc, vô tình giải phóng một thực thể tà ác ngàn năm.",
+    "poster": "https://image.tmdb.org/t/p/w500/6dasJ58GGFcC62H9KuukAryltUp.jpg",
+    "trailer_id": "sWnIeP6J1-M",
+    "tags": [
+      "phim hàn quốc",
+      "phong thủy",
+      "pháp sư",
+      "kinh dị tâm linh",
+      "lee do hyun",
+      "kim go eun"
+    ]
+  },
+  {
+    "id": "mov_07",
+    "title": "Hành Tinh Cát: Phần Hai",
+    "original_title": "Dune: Part Two",
+    "genre": [
+      "Khoa học viễn tưởng",
+      "Phiêu lưu",
+      "Hành động",
+      "Sử thi"
+    ],
+    "duration": 166,
+    "age_rating": "T16",
+    "age_desc": "Phim dành cho khán giả từ đủ 16 tuổi trở lên (16+)",
+    "director": "Denis Villeneuve",
+    "cast": [
+      "Timothée Chalamet",
+      "Zendaya",
+      "Rebecca Ferguson",
+      "Austin Butler"
+    ],
+    "release_date": "2024-03-01",
+    "status": "now_showing",
+    "rating": 9.1,
+    "votes": 22000,
+    "formats": [
+      "2D",
+      "IMAX"
+    ],
+    "synopsis": "Paul Atreides hợp nhất cùng Chani và tộc người Fremen trong hành trình báo thù những kẻ hủy diệt gia tộc mình, đồng thời đối mặt với lựa chọn giữa tình yêu và số phận của vũ trụ.",
+    "poster": "https://image.tmdb.org/t/p/w500/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg",
+    "trailer_id": "Way9Dexny3w",
+    "tags": [
+      "bom tấn",
+      "imax",
+      "khoa học viễn tưởng",
+      "sử thi",
+      "chalamet",
+      "kỹ xảo mãn nhãn",
+      "hành động"
+    ]
+  },
+  {
+    "id": "mov_08",
+    "title": "Mai",
+    "original_title": "Mai",
+    "genre": [
+      "Tâm lý",
+      "Tình cảm",
+      "Chính kịch"
+    ],
+    "duration": 131,
+    "age_rating": "T18",
+    "age_desc": "Phim dành cho khán giả từ đủ 18 tuổi trở lên (18+)",
+    "director": "Trấn Thành",
+    "cast": [
+      "Phương Anh Đào",
+      "Tuấn Trần",
+      "Hồng Đào",
+      "Uyển Ân"
+    ],
+    "release_date": "2024-02-10",
+    "status": "now_showing",
+    "rating": 8.4,
+    "votes": 18500,
+    "formats": [
+      "2D"
+    ],
+    "synopsis": "Cuộc đời đầy sóng gió của Mai - người phụ nữ massage gần 40 tuổi với quá khứ đau buồn, bỗng chốc được thắp sáng khi gặp chàng nhạc công đào hoa Dương kém cô nhiều tuổi.",
+    "poster": "https://image.tmdb.org/t/p/w500/lxww5lwv6U24v3Vkii9Ow5bkMx2.jpg",
+    "trailer_id": "3Z8L_sZ9HGE",
+    "tags": [
+      "phim trấn thành",
+      "tình cảm việt nam",
+      "hẹn hò",
+      "cảm động",
+      "nước mắt",
+      "mai",
+      "tâm lý"
+    ]
+  },
+  {
+    "id": "mov_09",
+    "title": "Cám",
+    "original_title": "Cam",
+    "genre": [
+      "Kinh dị",
+      "Cổ tích đen",
+      "Bí ẩn"
+    ],
+    "duration": 118,
+    "age_rating": "T18",
+    "age_desc": "Phim dành cho khán giả từ đủ 18 tuổi trở lên (18+)",
+    "director": "Trần Hữu Tấn",
+    "cast": [
+      "Rima Thanh Vy",
+      "Thúy Diễm",
+      "Quốc Cường",
+      "Hải Nam"
+    ],
+    "release_date": "2024-09-20",
+    "status": "coming_soon",
+    "rating": 8.2,
+    "votes": 4200,
+    "formats": [
+      "2D",
+      "IMAX"
+    ],
+    "synopsis": "Dị bản kinh dị đẫm máu từ câu chuyện cổ tích Tấm Cám, khám phá nguồn gốc khuôn mặt dị dạng của Cám và nghi thức hiến tế tà thuật ghê rợn gia tộc họ Hoàng giấu kín bao đời.",
+    "poster": "https://image.tmdb.org/t/p/w500/9gk7adHYeDvHkCSEqAvQNLV5Uge.jpg",
+    "trailer_id": "r8bE62M8f8w",
+    "tags": [
+      "cổ tích đen",
+      "kinh dị việt",
+      "sắp chiếu",
+      "rùng rợn",
+      "tấm cám",
+      "bí ẩn"
+    ]
+  },
+  {
+    "id": "mov_10",
+    "title": "Joker: Điên Có Đôi",
+    "original_title": "Joker: Folie à Deux",
+    "genre": [
+      "Tâm lý",
+      "Tội phạm",
+      "Âm nhạc",
+      "Hồi hộp"
+    ],
+    "duration": 138,
+    "age_rating": "T18",
+    "age_desc": "Phim dành cho khán giả từ đủ 18 tuổi trở lên (18+)",
+    "director": "Todd Phillips",
+    "cast": [
+      "Joaquin Phoenix",
+      "Lady Gaga",
+      "Brendan Gleeson",
+      "Zazie Beetz"
+    ],
+    "release_date": "2024-10-04",
+    "status": "coming_soon",
+    "rating": 8.7,
+    "votes": 6100,
+    "formats": [
+      "2D",
+      "IMAX"
+    ],
+    "synopsis": "Arthur Fleck bị giam cầm tại nhà thương điên Arkham chờ xét xử, nơi anh tìm thấy tình yêu cuồng loạn định mệnh với Harley Quinn và bắt đầu giai điệu điên cuồng của cuộc đời.",
+    "poster": "https://image.tmdb.org/t/p/w500/if8QiqCI7WAGImKcJCfzp6VTyKA.jpg",
+    "trailer_id": "_OKAwz2NiJs",
+    "tags": [
+      "joker",
+      "dc",
+      "lady gaga",
+      "tâm lý tội phạm",
+      "sắp chiếu",
+      "imax",
+      "âm nhạc"
+    ]
+  },
+  {
+    "id": "mov_11",
+    "title": "Vùng Đất Câm Lặng: Ngày Một",
+    "original_title": "A Quiet Place: Day One",
+    "genre": [
+      "Kinh dị",
+      "Khoa học viễn tưởng",
+      "Sinh tồn"
+    ],
+    "duration": 99,
+    "age_rating": "T16",
+    "age_desc": "Phim dành cho khán giả từ đủ 16 tuổi trở lên (16+)",
+    "director": "Michael Sarnoski",
+    "cast": [
+      "Lupita Nyong'o",
+      "Joseph Quinn",
+      "Alex Wolff",
+      "Djimon Hounsou"
+    ],
+    "release_date": "2024-06-28",
+    "status": "now_showing",
+    "rating": 8.0,
+    "votes": 10300,
+    "formats": [
+      "2D",
+      "4DX"
+    ],
+    "synopsis": "Trải nghiệm ngày đầu tiên thế giới chìm vào im lặng khi những sinh vật ngoài hành tinh siêu thính giác đổ bộ hủy diệt thành phố New York sầm uất.",
+    "poster": "https://image.tmdb.org/t/p/w500/hU42CRk14JuPEdqZG3AWmagiPAP.jpg",
+    "trailer_id": "YPY7J-flzxc",
+    "tags": [
+      "kinh dị",
+      "sinh tồn",
+      "quái vật",
+      "hồi hộp",
+      "khoa học viễn tưởng"
+    ]
+  },
+  {
+    "id": "mov_12",
+    "title": "Godzilla x Kong: Đế Chế Mới",
+    "original_title": "Godzilla x Kong: The New Empire",
+    "genre": [
+      "Hành động",
+      "Khoa học viễn tưởng",
+      "Phiêu lưu"
+    ],
+    "duration": 115,
+    "age_rating": "K",
+    "age_desc": "Khán giả dưới 13 tuổi xem cùng phụ huynh",
+    "director": "Adam Wingard",
+    "cast": [
+      "Rebecca Hall",
+      "Brian Tyree Henry",
+      "Dan Stevens",
+      "Kaylee Hottle"
+    ],
+    "release_date": "2024-03-29",
+    "status": "now_showing",
+    "rating": 8.3,
+    "votes": 15000,
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX",
+      "4DX"
+    ],
+    "synopsis": "Hai quái thú huyền thoại Godzilla và Kong gạt bỏ hiềm khích để cùng kề vai chiến đấu chống lại Skar King và Shimo - mối đe dọa khổng lồ ẩn sâu dưới Trái Đất Rỗng.",
+    "poster": "https://image.tmdb.org/t/p/w500/z1p34vh7dEOnLDmyCrlUVLuoDzd.jpg",
+    "trailer_id": "qqrpMRDuPfc",
+    "tags": [
+      "quái vật",
+      "godzilla",
+      "kong",
+      "hành động mãn nhãn",
+      "imax",
+      "trẻ em thích",
+      "phiêu lưu"
+    ]
+  },
+  {
+    "title": "LÊN HƯƠNG",
+    "original_title": "LÊN HƯƠNG",
+    "genre": [
+      "Gia đình",
+      "Tâm Lý"
+    ],
+    "duration": 121,
+    "release_date": "2026-09-18",
+    "status": "now_showing",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "poster": "https://static-cgv.vncdn.vn/media/catalog/product/cache/1/thumbnail/190x260/2e2b8cd282892c71872b9e67d2cb5039/4/7/470wx700h-lh_1.jpg",
+    "detail_url": "https://www.cgv.vn/default/len-huong.html",
+    "director": "Khương Ngọc & Tấn Hoàng Thông",
+    "cast": [
+      "Hồng Đào",
+      "Võ Tấn Phát",
+      "Tuyết Thu",
+      "NSND Hồng Vân",
+      "Hạ Anh",
+      "Quốc Khánh",
+      "Thiếu Lan"
+    ],
+    "synopsis": "Một bà chủ của trại hòm ế ẩm và một thanh niên cần tiền trang trải cuộc sống đã vô tình mắc vào một “giao kèo định mệnh\". Một người cố giữ nghề, một người cố cứu mạng người mẹ đang bệnh nặng, mở ra bí mật về món nợ đã chôn vùi suốt nhiều năm.",
+    "trailer_id": "tMu23yKJ9_c",
+    "age_rating": "T16",
+    "age_desc": "T16 - Phim được phổ biến đến người xem từ đủ 16 tuổi trở lên (16+)",
+    "tags": [
+      "cgv",
+      "tuyết thu",
+      "hồng đào",
+      "lên hương",
+      "tâm lý",
+      "chieu rap",
+      "gia đình",
+      "phim hot",
+      "phim moi",
+      "võ tấn phát"
+    ],
+    "id": "mov_13",
+    "rating": 8.5,
+    "votes": 13167
+  },
+  {
+    "title": "NGHỈ HÈ SỢ NGHỈ HƯU",
+    "original_title": "NGHỈ HÈ SỢ NGHỈ HƯU",
+    "genre": [
+      "Gia đình",
+      "Hài"
+    ],
+    "duration": 117,
+    "release_date": "2026-08-21",
+    "status": "now_showing",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "poster": "https://static-cgv.vncdn.vn/media/catalog/product/cache/1/thumbnail/190x260/2e2b8cd282892c71872b9e67d2cb5039/z/8/z8075966316749_9fe6a8561d68d468b30c090e068011b7.jpg",
+    "detail_url": "https://www.cgv.vn/default/nghi-he-so-nghi-huu.html",
+    "director": "Huỳnh Lập",
+    "cast": [
+      "NSƯT Cao Minh",
+      "Cody Nam Võ",
+      "Huỳnh Lập",
+      "Tín Nguyễn"
+    ],
+    "synopsis": "Nghỉ Hè Sợ Nghỉ Hưu xoay quanh Trí Bình, một chàng trai Gen Z, trở về vùng quê hẻo lánh để trải qua kỳ nghỉ hè cùng ông nội là ông Thời - một cựu chiến binh sống đơn độc nhiều năm. Trí Bình liên tiếp chứng kiến hàng loạt hiện tượng kỳ lạ của ông nội và nhận được những lời cảnh báo rùng rợn từ mọi người. Khi bí mật về ông Thời dần được hé lộ, cậu buộc phải đối mặt với nỗi sợ hãi, vượt qua khoảng cách thế hệ để dần nhận ra các giá trị tưởng chừng đã bị lãng quên. Đan xen giữa tiếng cười, yếu tố tâm linh và những tình huống éo le, Nghỉ Hè Sợ Nghỉ Hưu là câu chuyện về gia đình, sự trưởng thành và hành trình đi tìm câu trả lời cho nỗi trăn trở: “Nếu cả đời này không rực rỡ thì sao?”.",
+    "trailer_id": "Yg2CKr3WpQk",
+    "age_rating": "T13",
+    "age_desc": "T13 - Phim được phổ biến đến người xem từ đủ 13 tuổi trở lên (13+)",
+    "tags": [
+      "cgv",
+      "nghỉ hè sợ nghỉ hưu",
+      "nsưt cao minh",
+      "cody nam võ",
+      "hài",
+      "chieu rap",
+      "gia đình",
+      "huỳnh lập",
+      "phim hot",
+      "phim moi"
+    ],
+    "id": "mov_14",
+    "rating": 9.4,
+    "votes": 12527
+  },
+  {
+    "title": "HOPE VÙNG TỬ ĐỊA",
+    "original_title": "HOPE VÙNG TỬ ĐỊA",
+    "genre": [
+      "Hành Động",
+      "Hồi hộp",
+      "Khoa Học Viễn Tưởng"
+    ],
+    "duration": 157,
+    "release_date": "2026-09-04",
+    "status": "now_showing",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "poster": "https://static-cgv.vncdn.vn/media/catalog/product/cache/1/thumbnail/190x260/2e2b8cd282892c71872b9e67d2cb5039/h/o/hop_mainposter_470x700.jpg",
+    "detail_url": "https://www.cgv.vn/default/hope.html",
+    "director": "Na Hong-Jin",
+    "cast": [
+      "Hwang Jung-min",
+      "Zo In-sung",
+      "Hoyeon",
+      "Taylor Russell",
+      "Cameron Britton",
+      "Alicia Vikander",
+      "Michael Fassbender."
+    ],
+    "synopsis": "Tại Hope Harbor, một ngôi làng hẻo lánh nằm gần khu vực phi quân sự, cảnh sát trưởng Bum-seok đã nhận được tin báo khẩn cấp từ người dân địa phương về sự xuất hiện của một con hổ. Khi cả ngôi làng chìm trong hoảng loạn, Bum-seok ngỡ ngàng khi phát hiện một sự thật nằm ngoài sức tưởng tượng của con người.",
+    "trailer_id": "WjcyzHQkumU",
+    "age_rating": "P",
+    "age_desc": "Phim được phép phổ biến đến người xem ở mọi độ tuổi",
+    "tags": [
+      "cgv",
+      "hwang jung-min",
+      "khoa học viễn tưởng",
+      "hope vùng tử địa",
+      "zo in-sung",
+      "hoyeon",
+      "phim moi",
+      "hành động",
+      "chieu rap",
+      "phim hot",
+      "hồi hộp"
+    ],
+    "id": "mov_15",
+    "rating": 9.0,
+    "votes": 13584
+  },
+  {
+    "title": "QUÝ TỬ VƯỢT GIÀU",
+    "original_title": "QUÝ TỬ VƯỢT GIÀU",
+    "genre": [
+      "Gia đình",
+      "Hài"
+    ],
+    "duration": 118,
+    "release_date": "2026-08-28",
+    "status": "now_showing",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "poster": "https://static-cgv.vncdn.vn/media/catalog/product/cache/1/thumbnail/190x260/2e2b8cd282892c71872b9e67d2cb5039/q/t/qtvg_main_poster.jpg",
+    "detail_url": "https://www.cgv.vn/default/quy-tu-vuot-giau.html",
+    "director": "Nguyễn Quang Dũng",
+    "cast": [
+      "Thu Trang",
+      "Tiến Luật",
+      "Ngô Kiến Huy",
+      "Ngân Quỳnh",
+      "Hạo Khang",
+      "Đình Dương",
+      "Thanh Thuỷ",
+      "Kiến An"
+    ],
+    "synopsis": "Quý Tử Vượt Giàu xoay quanh gia đình ông Phát, bà Diệp và cậu con trai duy nhất Phú Quý. Để nuôi dạy con cái trưởng thành theo đúng ý mình, vợ chồng Phát - Diệp liên tục gây hoang mang khi tạo ra một cuộc sống lẫn lộn giữa giàu và nghèo, thật và giả. Thế nhưng, khi Phú Quý lớn lên với những lựa chọn khác với kỳ vọng của ba mẹ, hàng loạt tình huống dở khóc dở cười liên tiếp xảy ra, kéo theo những bí mật chưa từng được hé lộ. Ẩn sau màu sắc hài hước là câu chuyện về tình thân, khoảng cách thế hệ và hành trình để ba mẹ lẫn con cái học cách lắng nghe, thấu hiểu nhau.",
+    "trailer_id": "cQPG-fOg7qE",
+    "age_rating": "K",
+    "age_desc": "K - Phim được phổ biến đến người xem dưới 13 tuổi và có người bảo hộ đi kèm",
+    "tags": [
+      "cgv",
+      "quý tử vượt giàu",
+      "hài",
+      "chieu rap",
+      "gia đình",
+      "thu trang",
+      "phim hot",
+      "phim moi",
+      "tiến luật",
+      "ngô kiến huy"
+    ],
+    "id": "mov_16",
+    "rating": 8.7,
+    "votes": 5180
+  },
+  {
+    "title": "MÃI NỢ MỘT LỜI TẠM BIỆT",
+    "original_title": "MÃI NỢ MỘT LỜI TẠM BIỆT",
+    "genre": [
+      "Gia đình",
+      "Tâm Lý"
+    ],
+    "duration": 120,
+    "release_date": "2026-09-11",
+    "status": "now_showing",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "poster": "https://static-cgv.vncdn.vn/media/catalog/product/cache/1/thumbnail/190x260/2e2b8cd282892c71872b9e67d2cb5039/m/_/m_i_n_m_t_l_i_t_m_bi_t_-_payoff_poster_-_kc_11092026.jpg",
+    "detail_url": "https://www.cgv.vn/default/chrysalis.html",
+    "director": "J. ROBERT SCHULZ",
+    "cast": [
+      "Kiều Chinh",
+      "Daniel K. Winn",
+      "Nguyễn Vũ Uy Nhân",
+      "Samuel An",
+      "Lê Anh Huy",
+      "Lan Thy",
+      "..."
+    ],
+    "synopsis": "Một tuổi thơ bị bỏ lại giữa những biến động. Một người bà vẫn ở lại trong ký ức. Một người đàn ông trưởng thành nhưng chưa từng thật sự bước ra khỏi quá khứ. Mãi Nợ Một Lời Tạm Biệt là hành trình Daniel tìm lại những mảnh ký ức đã mất, để đối diện với gia đình, mất mát và điều anh chưa kịp nói lời tạm biệt.",
+    "trailer_id": "OYA30XqHg94",
+    "age_rating": "K",
+    "age_desc": "K - Phim được phổ biến đến người xem dưới 13 tuổi và có người bảo hộ đi kèm",
+    "tags": [
+      "cgv",
+      "kiều chinh",
+      "daniel k. winn",
+      "nguyễn vũ uy nhân",
+      "phim moi",
+      "tâm lý",
+      "chieu rap",
+      "gia đình",
+      "phim hot",
+      "mãi nợ một lời tạm biệt"
+    ],
+    "id": "mov_17",
+    "rating": 8.7,
+    "votes": 10265
+  },
+  {
+    "title": "CỔ THUẬT HẮC NGẢI",
+    "original_title": "CỔ THUẬT HẮC NGẢI",
+    "genre": [
+      "Kinh Dị"
+    ],
+    "duration": 86,
+    "release_date": "2026-09-11",
+    "status": "now_showing",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "poster": "https://static-cgv.vncdn.vn/media/catalog/product/cache/1/thumbnail/190x260/2e2b8cd282892c71872b9e67d2cb5039/3/5/350x495-kongtao.jpg",
+    "detail_url": "https://www.cgv.vn/default/kong-tao.html",
+    "director": "Pei Chiek Goh, Choon Lin Yong",
+    "cast": [
+      "Supassra Thanachat",
+      "Philip Keung",
+      "Bront Palarae"
+    ],
+    "synopsis": "CỔ THUẬT HẮC NGẢI (Kong Tao – 蠱降) là bộ phim kinh dị hợp tác giữa Thái Lan và Malaysia, lấy cảm hứng từ những nghi thức trù ếm, bùa ngải và tà thuật hắc ám bí ẩn bậc nhất châu Á. Phim theo chân một nhóm YouTuber chuyên khám phá các hiện tượng siêu nhiên tại Thái Lan. Thế nhưng, một chuyến ghi hình tưởng chừng vô hại lại vô tình đánh thức lời nguyền chết chóc, buộc cả nhóm phải chạy đua với thời gian để tìm đến một pháp sư trước khi trở thành những nạn nhân tiếp theo. Đặc biệt, bộ phim đánh dấu màn lột xác của Kao Supassara – \"tình đầu Thái Lan\" – trong một vai diễn hoàn toàn mới, kết hợp cùng Philip Keung, hứa hẹn mang đến một siêu phẩm kinh dị nặng đô, đậm màu sắc tà thuật và văn hóa bùa ngải Đông Nam Á.",
+    "trailer_id": "xS78twDlk2Q",
+    "age_rating": "T16",
+    "age_desc": "T16 - Phim được phổ biến đến người xem từ đủ 16 tuổi trở lên (16+)",
+    "tags": [
+      "cgv",
+      "supassra thanachat",
+      "cổ thuật hắc ngải",
+      "bront palarae",
+      "philip keung",
+      "chieu rap",
+      "kinh dị",
+      "phim hot",
+      "phim moi"
+    ],
+    "id": "mov_18",
+    "rating": 9.1,
+    "votes": 5265
+  },
+  {
+    "title": "BÙA YÊU: BÍ MẬT GIA TỘC",
+    "original_title": "BÙA YÊU: BÍ MẬT GIA TỘC",
+    "genre": [
+      "Thần thoại",
+      "Tình cảm"
+    ],
+    "duration": 130,
+    "release_date": "2026-09-11",
+    "status": "now_showing",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "poster": "https://static-cgv.vncdn.vn/media/catalog/product/cache/1/thumbnail/190x260/2e2b8cd282892c71872b9e67d2cb5039/v/n/vn_pmag2_main_685mmw_x_1015mmh_resize.jpg",
+    "detail_url": "https://www.cgv.vn/default/bua-yeu-bi-mat-gia-toc.html",
+    "director": "Susanne Bier",
+    "cast": [
+      "Nicole Kidman",
+      "Sandra Bullock",
+      "Joey King",
+      "Lee Pace",
+      "..."
+    ],
+    "synopsis": "Với sự góp mặt của Sandra Bullock và Nicole Kidman, BÙA YÊU: BÍ MẬT GIA TỘC đưa khán giả đến thế giới phép thuật đầy mê hoặc, nơi những bí ẩn dưới ánh trăng và sức mạnh ma thuật gia truyền vẫn luôn hiện hữu. Lần này, hai chị em nhà Owens phải cùng nhau đối mặt với một lời nguyền đen tối đang đe dọa chia cắt gia đình mãi mãi. Một cuộc phiêu lưu ngập tràn phép thuật, hài hước và những tình huống đầy hỗn loạn đang chờ đón khán giả trên màn ảnh rộng.",
+    "trailer_id": "TT7xIH_JNiI",
+    "age_rating": "T13",
+    "age_desc": "T13 - Phim được phổ biến đến người xem từ đủ 13 tuổi trở lên (13+)",
+    "tags": [
+      "cgv",
+      "tình cảm",
+      "joey king",
+      "nicole kidman",
+      "sandra bullock",
+      "chieu rap",
+      "bùa yêu: bí mật gia tộc",
+      "phim hot",
+      "phim moi",
+      "thần thoại"
+    ],
+    "id": "mov_19",
+    "rating": 9.1,
+    "votes": 13469
+  },
+  {
+    "title": "CHIIKAWA: BÍ MẬT ĐẢO NGƯỜI CÁ",
+    "original_title": "CHIIKAWA: BÍ MẬT ĐẢO NGƯỜI CÁ",
+    "genre": [
+      "Hoạt Hình"
+    ],
+    "duration": 99,
+    "release_date": "2026-08-28",
+    "status": "now_showing",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "poster": "https://static-cgv.vncdn.vn/media/catalog/product/cache/1/thumbnail/190x260/2e2b8cd282892c71872b9e67d2cb5039/3/5/350x495-chiikawa.jpg",
+    "detail_url": "https://www.cgv.vn/default/chiikawa-the-movie.html",
+    "director": "Kei Oikawa",
+    "cast": [
+      "Haruka Aoki",
+      "Makoto Tanaka",
+      "Ari Ozawa",
+      "Yuka Iguchi",
+      "Takayuki Asai",
+      "Yuma Uchida",
+      "Miyuri Shimabukuro",
+      "Momo Harumi"
+    ],
+    "synopsis": "Bộ ba Chiikawa, Hachiware và Usagi nhận được một lời mời tham gia chuyến đi đến hòn đảo đặc biệt với những phần thưởng và đồ ăn miễn phí. Cả nhóm cùng lên đường phiêu lưu ra đảo cùng với nhân vật Rakko – người vốn mang lòng hoài nghi về những lời hứa hẹn trong tờ rơi. Hòn đảo tưởng chừng vui vẻ này lại ẩn chứa nhiều điều kỳ bí và bí mật lâu đời liên quan đến người cá.",
+    "trailer_id": "8LJm14u1o-E",
+    "age_rating": "P",
+    "age_desc": "P - Phim được phép phổ biến đến người xem ở mọi độ tuổi.",
+    "tags": [
+      "cgv",
+      "ari ozawa",
+      "chiikawa: bí mật đảo người cá",
+      "haruka aoki",
+      "hoạt hình",
+      "makoto tanaka",
+      "chieu rap",
+      "phim hot",
+      "phim moi"
+    ],
+    "id": "mov_20",
+    "rating": 8.6,
+    "votes": 6470
+  },
+  {
+    "title": "BÁT TIÊN ! TRUY TÌM LƯU LY ĐĂNG",
+    "original_title": "BÁT TIÊN ! TRUY TÌM LƯU LY ĐĂNG",
+    "genre": [
+      "Hoạt Hình",
+      "Thần thoại"
+    ],
+    "duration": 144,
+    "release_date": "2026-09-11",
+    "status": "now_showing",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "poster": "https://static-cgv.vncdn.vn/media/catalog/product/cache/1/thumbnail/190x260/2e2b8cd282892c71872b9e67d2cb5039/3/5/350x495-battien.jpg",
+    "detail_url": "https://www.cgv.vn/default/bat-tien.html",
+    "director": "Cheng Teng",
+    "cast": [
+      "Chen Hao",
+      "Yuze Han",
+      "Yunqi Zhang",
+      "Li Shaozhe",
+      "and Li Dong"
+    ],
+    "synopsis": "Tám phàm nhân với tám giấc mộng đổi đời đã thực hiện một phi vụ liều lĩnh: đột nhập chốn Bồng Lai để đánh cắp bảo vật. Những tưởng trộm được bảo vật của Tam Tinh là có thể giúp họ một bước đổi vận, nhưng cả nhóm lại vô tình bị cuốn vào âm mưu đen tối chốn Thiên Đình. Khi bí mật dần hé lộ và kẻ thù thực sự xuất hiện, tám con người \"chẳng có thần thông cũng không mang pháp lực\" buộc phải đối đầu với vị thần tiên đầy quyền năng. Từ những kẻ vô danh chỉ muốn thay đổi số phận, họ bất đắc dĩ trở thành những người nắm giữ vận mệnh Tam Giới. Hành trình hài hước về những con người bé nhỏ dám làm nên chuyện lớn đã đưa Bát Tiên! Truy Tìm Lưu Ly Đăng trở thành phim hoạt hình Trung Quốc có doanh thu cao nhất năm 2026 và lọt top 4 phim hoạt hình có doanh thu phòng vé cao nhất mọi thời đại.",
+    "trailer_id": "5N8jvHVtlko",
+    "age_rating": "K",
+    "age_desc": "K - Phim được phổ biến đến người xem dưới 13 tuổi và có người bảo hộ đi kèm",
+    "tags": [
+      "bát tiên ! truy tìm lưu ly đăng",
+      "cgv",
+      "chen hao",
+      "yuze han",
+      "yunqi zhang",
+      "hoạt hình",
+      "chieu rap",
+      "phim hot",
+      "phim moi",
+      "thần thoại"
+    ],
+    "id": "mov_21",
+    "rating": 9.1,
+    "votes": 3644
+  },
+  {
+    "title": "HARRY POTTER VÀ HÒN ĐÁ PHÙ THỦY: PHIÊN BẢN KỶ NIỆM 25 NĂM",
+    "original_title": "HARRY POTTER VÀ HÒN ĐÁ PHÙ THỦY: PHIÊN BẢN KỶ NIỆM 25 NĂM",
+    "genre": [
+      "Phiêu Lưu",
+      "Thần thoại"
+    ],
+    "duration": 166,
+    "release_date": "2026-08-26",
+    "status": "now_showing",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "poster": "https://static-cgv.vncdn.vn/media/catalog/product/cache/1/thumbnail/190x260/2e2b8cd282892c71872b9e67d2cb5039/h/a/harry_potter_1_-_poster_localized.jpg",
+    "detail_url": "https://www.cgv.vn/default/harry-potter-1.html",
+    "director": "Chris Columbus",
+    "cast": [
+      "Daniel Radcliffe",
+      "Rupert Grint",
+      "Emma Watson",
+      "Robbie Coltrane",
+      "Alan Rickman",
+      "..."
+    ],
+    "synopsis": "Là phần phim đầu tiên chuyển thể từ bộ tiểu thuyết nổi tiếng của tác giả J.K. Rowling, phim xoay quanh Harry Potter - cậu bé mồ côi phải sống nhờ vào gia đình Dursley, và cuộc sống của cậu tưởng chừng sẽ mãi mãi trôi qua trong sự ghẻ lạnh cho đến sinh nhật lần thứ 11. Cậu bất ngờ phát hiện mình là một phù thủy và cha mẹ cậu từng là những phù thủy nổi tiếng. Đặc biệt, Harry Potter sở hữu năng lực phép thuật đặc biệt khi đã sống sót sau lời nguyền của Chúa tể Voldemort. Thoát khỏi gia đình Dursley để nhập học vào trường Hogwarts, một trường đào tạo phù thủy có tiếng, Harry tình cờ dấn thân vào một cuộc phiêu lưu đầy gai góc cùng hai người bạn thân Ron và Hermione. Cậu phát hiện ra một con chó ba đầu đang canh giữ một căn phòng trên tầng ba và nghe nói đến một viên đá bị mất tích sở hữu những sức mạnh lạ kì. Nhân dịp kỷ niệm 25 năm ra mắt bộ phim, phiên bản đặc biệt lần này sẽ mang đến 12 phút hậu trường độc quyền chưa từng được công bố, tạo thêm trải nghiệm thú vị và bất ngờ dành cho người hâm mộ khi thưởng thức bộ phim trên màn ảnh rộng.",
+    "trailer_id": "Ow0pZlPoe6M",
+    "age_rating": "P",
+    "age_desc": "P - Phim được phép phổ biến đến người xem ở mọi độ tuổi.",
+    "tags": [
+      "cgv",
+      "rupert grint",
+      "daniel radcliffe",
+      "phiêu lưu",
+      "emma watson",
+      "harry potter và hòn đá phù thủy: phiên bản kỷ niệm 25 năm",
+      "chieu rap",
+      "phim hot",
+      "phim moi",
+      "thần thoại"
+    ],
+    "id": "mov_22",
+    "rating": 8.6,
+    "votes": 7170
+  },
+  {
+    "title": "HỘ LINH TRÁNG SĨ - Bí Ẩn Mộ Vua Đinh (RÚT GỌN)",
+    "original_title": "HỘ LINH TRÁNG SĨ - Bí Ẩn Mộ Vua Đinh (RÚT GỌN)",
+    "genre": [
+      "Hành Động"
+    ],
+    "duration": 135,
+    "release_date": "2026-08-28",
+    "status": "now_showing",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "poster": "https://static-cgv.vncdn.vn/media/catalog/product/cache/1/thumbnail/190x260/2e2b8cd282892c71872b9e67d2cb5039/b/_/b_n_r_t_g_n_700x1000px.jpg",
+    "detail_url": "https://www.cgv.vn/default/ho-linh-trang-si-rut-gon.html",
+    "director": "Nguyễn Phan Quang Bình",
+    "cast": [
+      "Tuấn Trần",
+      "Thiên Tú",
+      "Johnny Trí Nguyễn",
+      "NSND Tự Long",
+      "Đỗ Thị Hải Yến",
+      "Lê Vũ Long",
+      "Quách Ngọc Ngoan",
+      "Lê Minh Thuấn",
+      "Hứa Vĩ Văn",
+      "Diệp Quang Bình",
+      "Danis Nguyễn."
+    ],
+    "synopsis": "Bộ phim huyền sử về hành trình của 7 Hộ Linh Tráng Sĩ trong nhiệm vụ cuối cùng Tiên Đế giao. Họ phải chạy đua với thời gian, đối đầu với các thế lực thù địch, đưa 99 quan tài của Đinh Tiên Hoàng Đế đi theo 7 hướng khác nhau, đánh lừa kẻ thù đang rắp tâm phá hoại lăng mộ - nơi được tin là cội nguồn vượng khí của dân tộc. Nhưng điều gì ẩn giấu trong những chiếc quan tài ấy? Liệu đó chỉ là thi hài của vị Hoàng đế đầu tiên, hay còn một bí mật lớn lao hơn mà 7 Tráng sĩ đã thề chết để bảo vệ? Hành trình của họ không chỉ là cuộc chiến với kẻ thù bên ngoài, mà còn là cuộc chiến nội tâm, nơi lòng trung thành, tình yêu và sự hy sinh đan xen, tạo nên một khúc ca bi hùng. (Phiên bản rút gọn 135 phút)",
+    "trailer_id": "TO6Vb2c4PAY",
+    "age_rating": "T13",
+    "age_desc": "T13 - Phim được phổ biến đến người xem từ đủ 13 tuổi trở lên (13+)",
+    "tags": [
+      "cgv",
+      "thiên tú",
+      "johnny trí nguyễn",
+      "hộ linh tráng sĩ - bí ẩn mộ vua đinh (rút gọn)",
+      "hành động",
+      "chieu rap",
+      "tuấn trần",
+      "phim hot",
+      "phim moi"
+    ],
+    "id": "mov_23",
+    "rating": 9.4,
+    "votes": 5064
+  },
+  {
+    "title": "MA TÙ",
+    "original_title": "MA TÙ",
+    "genre": [
+      "Hài",
+      "Kinh Dị"
+    ],
+    "duration": 104,
+    "release_date": "2026-09-04",
+    "status": "now_showing",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "poster": "https://static-cgv.vncdn.vn/media/catalog/product/cache/1/thumbnail/190x260/2e2b8cd282892c71872b9e67d2cb5039/4/7/470x700-cell.jpg",
+    "detail_url": "https://www.cgv.vn/default/ma-tu.html",
+    "director": "Joko Anwar",
+    "cast": [
+      "Abimana Aryasatya",
+      "Almanzo Konoralma",
+      "Aming Sugandhi",
+      "..."
+    ],
+    "synopsis": "Một tù nhân bí ẩn xuất hiện trong một nhà tù khét tiếng bạo lực nhất Indonesia, mang theo một thực thể siêu nhiên chỉ săn lùng những kẻ có năng lượng tiêu cực. Để sống sót, các tù nhân buộc phải cùng nhau làm việc thiện nhằm xóa bỏ bóng tối trong tâm hồn. Hoặc chết từng người một.",
+    "trailer_id": "w0MIgDqwZBA",
+    "age_rating": "T18",
+    "age_desc": "T18 - Phim được phổ biến đến người xem từ đủ 18 tuổi trở lên (18+)",
+    "tags": [
+      "cgv",
+      "abimana aryasatya",
+      "ma tù",
+      "almanzo konoralma",
+      "hài",
+      "aming sugandhi",
+      "chieu rap",
+      "kinh dị",
+      "phim hot",
+      "phim moi"
+    ],
+    "id": "mov_24",
+    "rating": 9.0,
+    "votes": 9260
+  },
+  {
+    "title": "MỘT ĐÊM DUY NHẤT",
+    "original_title": "MỘT ĐÊM DUY NHẤT",
+    "genre": [
+      "Hài",
+      "Tình cảm"
+    ],
+    "duration": 103,
+    "release_date": "2026-09-04",
+    "status": "now_showing",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "poster": "https://static-cgv.vncdn.vn/media/catalog/product/cache/1/thumbnail/190x260/2e2b8cd282892c71872b9e67d2cb5039/o/n/ono_teaser_470x700.jpg",
+    "detail_url": "https://www.cgv.vn/default/one-night-only.html",
+    "director": "Will Gluck",
+    "cast": [
+      "Monica Barbaro",
+      "Callum Turner",
+      "Maya Hawke",
+      "Julia Fox",
+      "King Princess",
+      "Ziwe",
+      "Ben Marshall",
+      "Ella Loudon with Molly Ringwald and Levar Burton"
+    ],
+    "synopsis": "Sẽ ra sao nếu một đêm hỗn độn lại trở thành điều tuyệt vời nhất từng xảy ra trong đời bạn? Allie và Owen, hai kẻ xa lạ đang \"đói khát\" tình yêu, vô tình va vào nhau giữa lòng New York phiên bản được hư cấu đôi chút, vào đúng đêm duy nhất trong năm hội độc thân được phép \"làm chuyện ấy\". Chàng trai Owen vừa bị đá và cô nàng Allie mộng mơ có lẽ là hai kẻ độc thân duy nhất trong thành phố đang tìm kiếm điều gì đó ý nghĩa hơn là một cuộc tình chóng vánh. Cả hai dường như đã rung động ngay từ lần đầu gặp gỡ, nhưng hàng loạt tình huống dở khóc dở cười cùng những rắc rối phát sinh càng khiến đêm hôm đó trở nên phức tạp và đẩy họ ra xa nhau. Trong lúc mải miết đuổi theo rồi lại vuột mất nhau khắp thành phố, Owen và Allie dần nhận ra rằng, có lẽ điều bản thân khao khát nhất thực chất lại ở gần hơn họ tưởng",
+    "trailer_id": "8ztytNECzi8",
+    "age_rating": "T18",
+    "age_desc": "T18 - Phim được phổ biến đến người xem từ đủ 18 tuổi trở lên (18+)",
+    "tags": [
+      "cgv",
+      "tình cảm",
+      "callum turner",
+      "maya hawke",
+      "monica barbaro",
+      "một đêm duy nhất",
+      "hài",
+      "chieu rap",
+      "phim hot",
+      "phim moi"
+    ],
+    "id": "mov_25",
+    "rating": 8.4,
+    "votes": 9193
+  },
+  {
+    "title": "HÀNH TRÌNH BẤT HẢO",
+    "original_title": "HÀNH TRÌNH BẤT HẢO",
+    "genre": [
+      "Hài",
+      "Hành Động",
+      "Tội phạm"
+    ],
+    "duration": 111,
+    "release_date": "2026-09-04",
+    "status": "now_showing",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "poster": "https://static-cgv.vncdn.vn/media/catalog/product/cache/1/thumbnail/190x260/2e2b8cd282892c71872b9e67d2cb5039/7/0/700x1000_1__1.jpg",
+    "detail_url": "https://www.cgv.vn/default/the-journey-to-gyeong-ju.html",
+    "director": "KIM MI-JO",
+    "cast": [
+      "LEE JUNG-EUN",
+      "KONG HYO-JIN",
+      "PARK SO-DAM & LEE YEON"
+    ],
+    "synopsis": "Bị bóp nghẹt bởi nỗi đau mất đi đứa con gái út, bốn mẹ con quyết tâm thực hiện kế hoạch bắt cóc kẻ giết người vừa được tại ngoại sau 8 năm thụ án. Chuyến du lịch ‘chữa lành’ sẽ là chứng cứ ngoại phạm hoàn hảo hay sẽ là hành trình đầy sóng gió cho những “sát thủ nghiệp dư”?",
+    "trailer_id": "gRLEmFrvXVw",
+    "age_rating": "T18",
+    "age_desc": "T18 - Phim được phổ biến đến người xem từ đủ 18 tuổi trở lên (18+)",
+    "tags": [
+      "tội phạm",
+      "cgv",
+      "lee jung-eun",
+      "kong hyo-jin",
+      "hành trình bất hảo",
+      "hài",
+      "hành động",
+      "chieu rap",
+      "park so-dam & lee yeon",
+      "phim hot",
+      "phim moi"
+    ],
+    "id": "mov_26",
+    "rating": 9.1,
+    "votes": 9703
+  },
+  {
+    "title": "SIÊU CHÓ ĐẠP GIÓ ĐÓN LỄ",
+    "original_title": "SIÊU CHÓ ĐẠP GIÓ ĐÓN LỄ",
+    "genre": [
+      "Gia đình",
+      "Hài",
+      "Hoạt Hình"
+    ],
+    "duration": 95,
+    "release_date": "2026-08-28",
+    "status": "now_showing",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "poster": "https://static-cgv.vncdn.vn/media/catalog/product/cache/1/thumbnail/190x260/2e2b8cd282892c71872b9e67d2cb5039/4/7/470wx700h-charlie_1.jpg",
+    "detail_url": "https://www.cgv.vn/default/charlie-the-dog.html",
+    "director": "Shea Wageman",
+    "cast": [
+      "Owen Wilson",
+      "Vincent Tong",
+      "Tabitha St. Germain"
+    ],
+    "synopsis": "Charlie – chú chó cưng đáng yêu của Danny – bất ngờ bị người ngoài hành tinh bắt cóc và trao cho những siêu năng lực đặc biệt. Nhưng Charlie không phải là “siêu thú” duy nhất trong khu phố khi Puddy – chú mèo tinh quái nhà bên – cũng sở hữu những năng lực phi thường. Cuộc đối đầu giữa hai “siêu thú” mở ra hàng loạt tình huống hài hước, bất ngờ và đầy thú vị, đồng thời mang đến những khoảnh khắc đáng yêu về tình bạn, tình cảm gia đình và tình yêu dành cho các loài vật. Liệu Charlie có thể làm chủ sức mạnh mới và vượt qua những thử thách đang chờ đợi phía trước?",
+    "trailer_id": "",
+    "age_rating": "P",
+    "age_desc": "P - Phim được phép phổ biến đến người xem ở mọi độ tuổi.",
+    "tags": [
+      "cgv",
+      "gia đình",
+      "owen wilson",
+      "tabitha st. germain",
+      "vincent tong",
+      "hoạt hình",
+      "hài",
+      "chieu rap",
+      "siêu chó đạp gió đón lễ",
+      "phim hot",
+      "phim moi"
+    ],
+    "id": "mov_27",
+    "rating": 8.7,
+    "votes": 10181
+  },
+  {
+    "title": "PHIM SHIN – CẬU BÉ BÚT CHÌ: KỲ KỲ QUÁI QUÁI! KỲ NGHỈ YÊU QUÁI CỦA TỚ",
+    "original_title": "PHIM SHIN – CẬU BÉ BÚT CHÌ: KỲ KỲ QUÁI QUÁI! KỲ NGHỈ YÊU QUÁI CỦA TỚ",
+    "genre": [
+      "Hoạt Hình",
+      "Thần thoại"
+    ],
+    "duration": 101,
+    "release_date": "2026-08-21",
+    "status": "now_showing",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "poster": "https://static-cgv.vncdn.vn/media/catalog/product/cache/1/thumbnail/190x260/2e2b8cd282892c71872b9e67d2cb5039/4/7/470wx700h-shin.jpg",
+    "detail_url": "https://www.cgv.vn/default/shin-yokai-vacation.html",
+    "director": "Masaki Watanabe",
+    "cast": [
+      "Yumiko Kobayashi",
+      "Miki Narahashi",
+      "Toshiyuki Morikawa",
+      "Satomi Koorogi"
+    ],
+    "synopsis": "Lấy bối cảnh mùa hè tại Akita, bộ phim theo chân Shin và gia đình Nohara trong chuyến về quê đầy háo hức. Tuy nhiên, một sự kiện kỳ lạ đã đưa cả gia đình lạc vào Xứ sở Yêu quái bí ẩn – nơi con người không được phép đặt chân tới. Tại đây, Shin và gia đình phải đối mặt với những thử thách chưa từng có, đồng thời gặp gỡ hàng loạt yêu quái độc đáo, hài hước và đáng yêu. Với sự kết hợp giữa yếu tố phiêu lưu, kỳ ảo, hài hước đặc trưng của Shin-chan cùng những thông điệp gia đình ấm áp, bộ phim hứa hẹn mang đến một hành trình giải trí hấp dẫn cho khán giả ở mọi lứa tuổi trong mùa hè này.",
+    "trailer_id": "jBFzXQQ4aR4",
+    "age_rating": "P",
+    "age_desc": "P - Phim được phép phổ biến đến người xem ở mọi độ tuổi.",
+    "tags": [
+      "cgv",
+      "yumiko kobayashi",
+      "phim shin – cậu bé bút chì: kỳ kỳ quái quái! kỳ nghỉ yêu quái của tớ",
+      "toshiyuki morikawa",
+      "miki narahashi",
+      "hoạt hình",
+      "chieu rap",
+      "phim hot",
+      "phim moi",
+      "thần thoại"
+    ],
+    "id": "mov_28",
+    "rating": 9.4,
+    "votes": 6138
+  },
+  {
+    "title": "TÀU BUÔN NGƯỜI",
+    "original_title": "TÀU BUÔN NGƯỜI",
+    "genre": [
+      "Hành Động",
+      "Hồi hộp",
+      "Tội phạm"
+    ],
+    "duration": 95,
+    "release_date": "2026-08-28",
+    "status": "now_showing",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "poster": "https://static-cgv.vncdn.vn/media/catalog/product/cache/1/thumbnail/190x260/2e2b8cd282892c71872b9e67d2cb5039/4/7/470wx700h-mutiny.jpg",
+    "detail_url": "https://www.cgv.vn/default/mutiny.html",
+    "director": "Jean-François Richet",
+    "cast": [
+      "Jason Statham",
+      "Annabelle Wallis",
+      "Adrian Lester"
+    ],
+    "synopsis": "\"Mutiny (Tàu buồn người) kể về Cole Reed do Jason Statham thủ vai, sau khi tận mắt chứng kiến ông chủ tỷ phú của mình bị sát hại và bản thân trở thành kẻ thế thân bị vu oan, Cole Reed (Jason Statham) đã đột nhập lên một con tàu chở hàng để bắt đầu hành trình truy tìm sự thật và trả thù cho vị sếp cũ. Tuy nhiên, chuyến đi đơn độc này lại đẩy anh vào nguy hiểm khi Cole vô tình bóc trần một âm mưu quốc tế quy mô và cực kỳ nguy hiểm.",
+    "trailer_id": "SJElX8y4Joc",
+    "age_rating": "T18",
+    "age_desc": "T18 - Phim được phổ biến đến người xem từ đủ 18 tuổi trở lên (18+)",
+    "tags": [
+      "tội phạm",
+      "cgv",
+      "adrian lester",
+      "phim moi",
+      "jason statham",
+      "hành động",
+      "chieu rap",
+      "annabelle wallis",
+      "tàu buôn người",
+      "phim hot",
+      "hồi hộp"
+    ],
+    "id": "mov_29",
+    "rating": 8.7,
+    "votes": 9457
+  },
+  {
+    "title": "QUỶ QUYỆT: RANH GIỚI VÔ ĐỊNH",
+    "original_title": "QUỶ QUYỆT: RANH GIỚI VÔ ĐỊNH",
+    "genre": [
+      "Kinh Dị"
+    ],
+    "duration": 106,
+    "release_date": "2026-08-21",
+    "status": "now_showing",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "poster": "https://static-cgv.vncdn.vn/media/catalog/product/cache/1/thumbnail/190x260/2e2b8cd282892c71872b9e67d2cb5039/i/s/is6_intl_online_1080x1350_tsr_bluehands_02_1_.jpg",
+    "detail_url": "https://www.cgv.vn/default/insidious-further.html",
+    "director": "Jacob Chase",
+    "cast": [
+      "Amelia Eve",
+      "Island Austin",
+      "Lin Shaye",
+      "Sam Spruell",
+      "Brandon Perea",
+      "and Masie Richardson- Sellers"
+    ],
+    "synopsis": "Insidious:Quỷ Quyệt: Ranh Giới Vô Định xoay quanh Gemma (Amelia Eve), một bà mẹ trẻ trở về sống trong ngôi nhà thời thơ ấu cùng con gái và phát hiện mình có thể bước vào Cõi Vô Định, nơi giam giữ những linh hồn lạc lối. Nhưng Gemma không chỉ có thể bước vào Cõi Vô Định, cô còn sở hữu năng lực đưa những thực thể từ đó trở về thế giới thực. Khi các thế lực tà ác phát hiện ra sức mạnh này, ranh giới giữa hai thế giới dần sụp đổ, biến thế giới của người sống thành sân chơi của quỷ dữ.",
+    "trailer_id": "PwX6QDl8dTU",
+    "age_rating": "T16",
+    "age_desc": "T16 - Phim được phổ biến đến người xem từ đủ 16 tuổi trở lên (16+)",
+    "tags": [
+      "cgv",
+      "lin shaye",
+      "quỷ quyệt: ranh giới vô định",
+      "island austin",
+      "chieu rap",
+      "kinh dị",
+      "phim hot",
+      "phim moi",
+      "amelia eve"
+    ],
+    "id": "mov_30",
+    "rating": 8.6,
+    "votes": 14527
+  },
+  {
+    "title": "PAW PATROL: PHIM KHỦNG LONG",
+    "original_title": "PAW PATROL: PHIM KHỦNG LONG",
+    "genre": [
+      "Hành Động",
+      "Hoạt Hình",
+      "Phiêu Lưu"
+    ],
+    "duration": 89,
+    "release_date": "2026-08-14",
+    "status": "now_showing",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "poster": "https://static-cgv.vncdn.vn/media/catalog/product/cache/1/thumbnail/190x260/2e2b8cd282892c71872b9e67d2cb5039/4/7/470x700-paw.jpg",
+    "detail_url": "https://www.cgv.vn/default/paw-patrol-dino.html",
+    "director": "Cal Brunker",
+    "cast": [
+      "Cal Brunker & Bob Barlen"
+    ],
+    "synopsis": "Khi con tàu của Paw Patrol bị cuốn vào một cơn bão bí ẩn, đội cún cứu hộ vô tình lưu lạc đến một hòn đảo nhiệt đới vô danh, nơi sinh sống của nhiều loài khủng long cổ xưa. Họ gặp Rex, một chuyên gia về khủng long, đã mắc kẹt trên hòn đảo này trong nhiều năm. Mọi chuyện trở nên tệ hơn khi Thị trưởng Humdinger, đối thủ không đội trời chung của PAW Patrol rắp tâm khai thác nguồn tài nguyên thiên nhiên tại đây, và vô tình gây ra trận phun trào của một ngọn núi lửa khổng lồ. Đứng trước nguy cơ hòn đảo bị xóa sổ, đội cún cứu hộ phải thực hiện những nhiệm vụ quy mô \"khủng\" hơn bao giờ hết để ngăn chặn Humdinger và cứu các loài khủng long khỏi nạn tuyệt chủng.",
+    "trailer_id": "2wk0Yi6nQRg",
+    "age_rating": "P",
+    "age_desc": "P - Phim được phép phổ biến đến người xem ở mọi độ tuổi.",
+    "tags": [
+      "cgv",
+      "phiêu lưu",
+      "hoạt hình",
+      "phim hot",
+      "hành động",
+      "chieu rap",
+      "paw patrol: phim khủng long",
+      "phim moi",
+      "cal brunker & bob barlen"
+    ],
+    "id": "mov_31",
+    "rating": 8.4,
+    "votes": 14388
+  },
+  {
+    "title": "NGƯỜI NHỆN: KHỞI ĐẦU MỚI",
+    "original_title": "NGƯỜI NHỆN: KHỞI ĐẦU MỚI",
+    "genre": [
+      "Hành Động",
+      "Phiêu Lưu",
+      "Thần thoại"
+    ],
+    "duration": 145,
+    "release_date": "2026-07-31",
+    "status": "now_showing",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "poster": "https://static-cgv.vncdn.vn/media/catalog/product/cache/1/thumbnail/190x260/2e2b8cd282892c71872b9e67d2cb5039/s/p/spiderman.jpg",
+    "detail_url": "https://www.cgv.vn/default/spider-brand-new-day.html",
+    "director": "CGV Cinemas",
+    "cast": [],
+    "synopsis": "Không còn Tony Stark, MJ hay Ned kề cận, Peter buộc phải đơn thân độc mã đối diện với phe đối đầu bí ẩn. Tuy nhiên, khi áp lực ngày càng gia tăng, nó kích hoạt một sự biến đổi thể chất bất ngờ, đe dọa chính sự tồn tại của anh. Đồng thời, một chuỗi tội phạm bí ẩn mới xuất hiện, kéo theo một trong những mối đe dọa mạnh mẽ nhất mà Spider-Man từng đối mặt.",
+    "trailer_id": "-aUE6APXrc0",
+    "age_rating": "P",
+    "age_desc": "Phim phổ biến cho mọi độ tuổi",
+    "tags": [
+      "cgv",
+      "người nhện: khởi đầu mới",
+      "phiêu lưu",
+      "hành động",
+      "chieu rap",
+      "phim hot",
+      "phim moi",
+      "thần thoại"
+    ],
+    "id": "mov_32",
+    "rating": 8.4,
+    "votes": 3687
+  },
+  {
+    "title": "THE ODYSSEY",
+    "original_title": "THE ODYSSEY",
+    "genre": [
+      "Hành Động",
+      "Thần thoại"
+    ],
+    "duration": 173,
+    "release_date": "2026-07-17",
+    "status": "now_showing",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "poster": "https://static-cgv.vncdn.vn/media/catalog/product/cache/1/thumbnail/190x260/2e2b8cd282892c71872b9e67d2cb5039/o/d/ody_horseposter_470x700.jpg",
+    "detail_url": "https://www.cgv.vn/default/the-odyssey.html",
+    "director": "CGV Cinemas",
+    "cast": [],
+    "synopsis": "Bộ phim hấp dẫn THE ODYSSEY thuộc thể loại Hành Động, Thần thoại, đang chiếu từ ngày 17-07-2026 tại hệ thống rạp CGV Cinemas toàn quốc.",
+    "trailer_id": "",
+    "age_rating": "P",
+    "age_desc": "Phim phổ biến cho mọi độ tuổi",
+    "tags": [
+      "cgv",
+      "the odyssey",
+      "hành động",
+      "chieu rap",
+      "phim hot",
+      "phim moi",
+      "thần thoại"
+    ],
+    "id": "mov_33",
+    "rating": 8.7,
+    "votes": 6951
+  },
+  {
+    "title": "KHÔNG CÒN CHÚNG TA (CHIẾU LẠI)",
+    "original_title": "KHÔNG CÒN CHÚNG TA (CHIẾU LẠI)",
+    "genre": [
+      "Tâm Lý",
+      "Tình cảm"
+    ],
+    "duration": 114,
+    "release_date": "2026-08-21",
+    "status": "now_showing",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "poster": "https://static-cgv.vncdn.vn/media/catalog/product/cache/1/thumbnail/190x260/2e2b8cd282892c71872b9e67d2cb5039/4/7/470_x_700-rerun.jpg",
+    "detail_url": "https://www.cgv.vn/default/once-we-were-us.html",
+    "director": "CGV Cinemas",
+    "cast": [],
+    "synopsis": "Bộ phim hấp dẫn KHÔNG CÒN CHÚNG TA (CHIẾU LẠI) thuộc thể loại Tâm Lý, Tình cảm, đang chiếu từ ngày 21-08-2026 tại hệ thống rạp CGV Cinemas toàn quốc.",
+    "trailer_id": "",
+    "age_rating": "P",
+    "age_desc": "Phim phổ biến cho mọi độ tuổi",
+    "tags": [
+      "cgv",
+      "tình cảm",
+      "không còn chúng ta (chiếu lại)",
+      "tâm lý",
+      "chieu rap",
+      "phim hot",
+      "phim moi"
+    ],
+    "id": "mov_34",
+    "rating": 9.3,
+    "votes": 9795
+  },
+  {
+    "title": "PHIM ĐIỆN ẢNH THÁM TỬ LỪNG DANH CONAN: THIÊN THẦN SA NGÃ TRÊN XA LỘ",
+    "original_title": "PHIM ĐIỆN ẢNH THÁM TỬ LỪNG DANH CONAN: THIÊN THẦN SA NGÃ TRÊN XA LỘ",
+    "genre": [
+      "Bí ẩn",
+      "Hành Động",
+      "Hoạt Hình"
+    ],
+    "duration": 109,
+    "release_date": "2026-07-24",
+    "status": "now_showing",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "poster": "https://static-cgv.vncdn.vn/media/catalog/product/cache/1/thumbnail/190x260/2e2b8cd282892c71872b9e67d2cb5039/p/o/poster_conan_movie_29.jpg",
+    "detail_url": "https://www.cgv.vn/default/conan-movie-29.html",
+    "director": "CGV Cinemas",
+    "cast": [],
+    "synopsis": "Bộ phim hấp dẫn PHIM ĐIỆN ẢNH THÁM TỬ LỪNG DANH CONAN: THIÊN THẦN SA NGÃ TRÊN XA LỘ thuộc thể loại Bí ẩn, Hành Động, Hoạt Hình, đang chiếu từ ngày 24-07-2026 tại hệ thống rạp CGV Cinemas toàn quốc.",
+    "trailer_id": "",
+    "age_rating": "P",
+    "age_desc": "Phim phổ biến cho mọi độ tuổi",
+    "tags": [
+      "cgv",
+      "phim điện ảnh thám tử lừng danh conan: thiên thần sa ngã trên xa lộ",
+      "hoạt hình",
+      "hành động",
+      "chieu rap",
+      "phim hot",
+      "phim moi",
+      "bí ẩn"
+    ],
+    "id": "mov_35",
+    "rating": 8.3,
+    "votes": 12987
+  },
+  {
+    "title": "MINIONS &amp; QUÁI VẬT",
+    "original_title": "MINIONS &amp; QUÁI VẬT",
+    "genre": [
+      "Hoạt Hình"
+    ],
+    "duration": 90,
+    "release_date": "2026-07-01",
+    "status": "now_showing",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "poster": "https://static-cgv.vncdn.vn/media/catalog/product/cache/1/thumbnail/190x260/2e2b8cd282892c71872b9e67d2cb5039/m/n/mn3_henryposter_470x700.jpg",
+    "detail_url": "https://www.cgv.vn/default/minions-monsters.html",
+    "director": "CGV Cinemas",
+    "cast": [],
+    "synopsis": "Bộ phim hấp dẫn MINIONS &amp; QUÁI VẬT thuộc thể loại Hoạt Hình, đang chiếu từ ngày 01-07-2026 tại hệ thống rạp CGV Cinemas toàn quốc.",
+    "trailer_id": "",
+    "age_rating": "P",
+    "age_desc": "Phim phổ biến cho mọi độ tuổi",
+    "tags": [
+      "cgv",
+      "hoạt hình",
+      "chieu rap",
+      "minions &amp; quái vật",
+      "phim hot",
+      "phim moi"
+    ],
+    "id": "mov_36",
+    "rating": 9.2,
+    "votes": 12435
+  },
+  {
+    "title": "VÙNG ĐẤT QUỶ DỮ",
+    "original_title": "VÙNG ĐẤT QUỶ DỮ",
+    "genre": [
+      "Hành Động",
+      "Kinh Dị"
+    ],
+    "duration": 110,
+    "release_date": "2026-09-18",
+    "status": "now_showing",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "poster": "https://static-cgv.vncdn.vn/media/catalog/product/cache/1/thumbnail/190x260/2e2b8cd282892c71872b9e67d2cb5039/4/7/470x700-residentevil_1.jpg",
+    "detail_url": "https://www.cgv.vn/default/resident-evil-2026.html",
+    "director": "CGV Cinemas",
+    "cast": [],
+    "synopsis": "Một phiên bản Resident Evil mới trở lại đầy kịch tính và kinh hoàng từ bộ óc quái kiệt của đạo diễn Zach Cregger đứng sau “Weapons” & “Barbarian”. Với cốt truyện hoàn toàn mới, phim xoay quanh Bryan (Austin Abrams), một nhân viên vận chuyển vật tư y tế vô tình bị cuốn vào cuộc chạy đua sinh tồn nghẹt thở và dồn dập trong một đêm định mệnh. Liên tiếp chuyện kinh hoàng bất ngờ đẩy anh vào giữa vòng xoáy hỗn loạn.",
+    "trailer_id": "GWWJrOYzJZY",
+    "age_rating": "P",
+    "age_desc": "Phim phổ biến cho mọi độ tuổi",
+    "tags": [
+      "phim hot",
+      "cgv",
+      "kinh dị",
+      "sap chieu",
+      "chieu rap",
+      "bom tan sap chieu",
+      "trailer",
+      "hành động",
+      "vùng đất quỷ dữ",
+      "phim moi"
+    ],
+    "id": "mov_37",
+    "rating": 8.3,
+    "votes": 14760
+  },
+  {
+    "title": "MARNIE YÊU DẤU",
+    "original_title": "MARNIE YÊU DẤU",
+    "genre": [
+      "Hoạt Hình"
+    ],
+    "duration": 110,
+    "release_date": "2026-09-18",
+    "status": "now_showing",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "poster": "https://static-cgv.vncdn.vn/media/catalog/product/cache/1/thumbnail/190x260/2e2b8cd282892c71872b9e67d2cb5039/o/u/outlined_poster_when-marnie-was-there.jpg",
+    "detail_url": "https://www.cgv.vn/default/marnie-yeu-dau.html",
+    "director": "CGV Cinemas",
+    "cast": [],
+    "synopsis": "Anna, một cô bé 12 tuổi, rất khó mở lòng với người khác. Em mất cả cha lẫn mẹ từ khi còn nhỏ và hiện đang sống với cha mẹ nuôi ở Sapporo. Vì mắc bệnh hen suyễn, trong kỳ nghỉ hè, Anna được gửi đến sống một thời gian với gia đình Oiwa - họ hàng của mẹ nuôi - tại một ngôi làng ven biển. Tại đây, Anna xảy ra mâu thuẫn với một học sinh trung học cơ sở địa phương, và sau khi bỏ chạy khỏi lễ hội Tanabata, em tình cờ gặp một dinh thự cũ gọi là “Marsh House” nằm bên rìa một bờ vịnh nhỏ. Ở đó, Anna gặp một cô gái tóc vàng bí ẩn tên Marnie. Hai người dần gắn bó và trở thành bạn bè khi Anna từ từ mở lòng hơn, nhưng Marnie lại đang che giấu một bí mật lớn.",
+    "trailer_id": "g3KES9FASh8",
+    "age_rating": "P",
+    "age_desc": "Phim phổ biến cho mọi độ tuổi",
+    "tags": [
+      "phim hot",
+      "marnie yêu dấu",
+      "cgv",
+      "hoạt hình",
+      "chieu rap",
+      "sap chieu",
+      "trailer",
+      "bom tan sap chieu",
+      "phim moi"
+    ],
+    "id": "mov_38",
+    "rating": 9.0,
+    "votes": 8440
+  },
+  {
+    "title": "TÀ SƯ SÁM HỐI",
+    "original_title": "TÀ SƯ SÁM HỐI",
+    "genre": [
+      "Kinh Dị"
+    ],
+    "duration": 110,
+    "release_date": "2026-09-18",
+    "status": "now_showing",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "poster": "https://static-cgv.vncdn.vn/media/catalog/product/cache/1/thumbnail/190x260/2e2b8cd282892c71872b9e67d2cb5039/1/_/1.2._700x1000_-_main_poster_-_shaman.jpg",
+    "detail_url": "https://www.cgv.vn/default/confession-of-shaman.html",
+    "director": "CGV Cinemas",
+    "cast": [],
+    "synopsis": "Bị dồn vào bước đường cùng bởi những bất công và sự bất lực của luật pháp, Tor, từ một người tu hành, đã quyết định vứt bỏ đức tin để sa chân vào thế giới tà thuật đen tối. Anh lập huyết ước với một thầy pháp quyền năng, tu luyện cấm thuật và nuôi dưỡng một ác linh chết chóc để gieo rắc nỗi hận thù lên những kẻ đã hãm hại mình. Nhưng Tor không ngờ rằng, càng lún sâu vào thế giới tâm linh, anh càng bị các thế lực hắc ám thao túng. Những bí mật kinh hoàng dần được phơi bày, kéo theo một bản án tàn khốc vượt xa mọi trí tưởng tượng. Tác phẩm được lấy cảm hứng từ hiện tượng tâm linh từng làm khuynh đảo The Ghost Radio với hơn 8 triệu lượt theo dõi.",
+    "trailer_id": "Ar0l7zY4M7Y",
+    "age_rating": "P",
+    "age_desc": "Phim phổ biến cho mọi độ tuổi",
+    "tags": [
+      "phim hot",
+      "cgv",
+      "kinh dị",
+      "sap chieu",
+      "chieu rap",
+      "trailer",
+      "bom tan sap chieu",
+      "tà sư sám hối",
+      "phim moi"
+    ],
+    "id": "mov_39",
+    "rating": 8.6,
+    "votes": 4108
+  },
+  {
+    "title": "BÓNG MA NHÀ HÁT",
+    "original_title": "BÓNG MA NHÀ HÁT",
+    "genre": [
+      "Hài",
+      "Kinh Dị"
+    ],
+    "duration": 97,
+    "release_date": "2026-09-18",
+    "status": "now_showing",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "poster": "https://static-cgv.vncdn.vn/media/catalog/product/cache/1/thumbnail/190x260/2e2b8cd282892c71872b9e67d2cb5039/b/_/b_ng_ma_nh_h_t_-_teaser_poster_-_kc_18092026.jpg",
+    "detail_url": "https://www.cgv.vn/default/bong-ma-nha-hat.html",
+    "director": "CGV Cinemas",
+    "cast": [],
+    "synopsis": "Tuấn, một chuyên viên bất động sản đầy tham vọng, được giao nhiệm vụ vực dậy một nhà hát cũ trong vòng một tháng để giữ vững sự nghiệp. Tại đây, anh phát hiện nơi này bị ám bởi Nhã – một nữ diễn viên chết oan chưa thể siêu thoát. Nhờ tài marketing, Tuấn và người cộng sự đã giúp nhà hát nhanh chóng cháy vé, nhưng sự xuất hiện của Phong - tình cũ của Nhã khiến mọi chuyện đảo lộn. Tưởng như mất tất cả, nhưng Tuấn đã cùng tất cả mọi người trong nhà hát tạo nên một thương vụ thế kỷ giữa người và ma và cứu lấy Nhà Hát Vàng Son",
+    "trailer_id": "1NlUcffgB0o",
+    "age_rating": "P",
+    "age_desc": "Phim phổ biến cho mọi độ tuổi",
+    "tags": [
+      "phim hot",
+      "bóng ma nhà hát",
+      "cgv",
+      "kinh dị",
+      "sap chieu",
+      "chieu rap",
+      "trailer",
+      "bom tan sap chieu",
+      "hài",
+      "phim moi"
+    ],
+    "id": "mov_40",
+    "rating": 8.7,
+    "votes": 14929
+  },
+  {
+    "title": "YÊU NHÂN THẦN THÁM: KỲ ÁN TRƯỜNG AN",
+    "original_title": "YÊU NHÂN THẦN THÁM: KỲ ÁN TRƯỜNG AN",
+    "genre": [
+      "Hoạt Hình"
+    ],
+    "duration": 116,
+    "release_date": "2026-09-18",
+    "status": "now_showing",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "poster": "https://static-cgv.vncdn.vn/media/catalog/product/cache/1/thumbnail/190x260/2e2b8cd282892c71872b9e67d2cb5039/4/7/470x700-demon.jpg",
+    "detail_url": "https://www.cgv.vn/default/demon-agent.html",
+    "director": "CGV Cinemas",
+    "cast": [],
+    "synopsis": "Giữa Trường An tráng lệ và kỳ ảo dưới triều Đường, nơi những cỗ máy cơ khí tinh xảo hòa quyện cùng mái ngói cong vút, con người và yêu quái cùng chung sống. Địch Thiếu, thiếu niên thiên tài luôn mơ ước trở thành “Đại Thám Tử Số Một Trường An”, sở hữu khả năng suy luận sắc bén cùng tài ăn nói hơn người. Đồng hành cùng cậu là A Sa, tân binh yêu sói của đội tuần tra, giỏi võ nhưng mang trong mình trái tim lương thiện. Một vụ án mạng bí ẩn bất ngờ khiến đôi oan gia này phải hợp tác. Vừa đấu khẩu, vừa phối hợp phá án, cả hai dấn thân vào hành trình điều tra đầy bất ngờ và hiểm nguy. Khi mọi manh mối đều dẫn về trung tâm Trường An, liệu họ có thể bảo vệ sự bình yên của thành? Và đằng sau vẻ phồn hoa của Trường An đang ẩn giấu bí mật kinh thiên động địa nào?",
+    "trailer_id": "-f9pxNdJ8K8",
+    "age_rating": "P",
+    "age_desc": "Phim phổ biến cho mọi độ tuổi",
+    "tags": [
+      "phim hot",
+      "cgv",
+      "hoạt hình",
+      "chieu rap",
+      "sap chieu",
+      "trailer",
+      "bom tan sap chieu",
+      "yêu nhân thần thám: kỳ án trường an",
+      "phim moi"
+    ],
+    "id": "mov_41",
+    "rating": 9.3,
+    "votes": 4664
+  },
+  {
+    "title": "AVENGERS: HỒI KẾT - PHIÊN BẢN ĐẶC BIỆT (CHIẾU LẠI)",
+    "original_title": "AVENGERS: HỒI KẾT - PHIÊN BẢN ĐẶC BIỆT (CHIẾU LẠI)",
+    "genre": [
+      "Hành Động",
+      "Khoa Học Viễn Tưởng",
+      "Phiêu Lưu"
+    ],
+    "duration": 110,
+    "release_date": "2026-09-25",
+    "status": "now_showing",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "poster": "https://static-cgv.vncdn.vn/media/catalog/product/cache/1/thumbnail/190x260/2e2b8cd282892c71872b9e67d2cb5039/e/n/encore_alt_1sht_-_rgb_online_only.jpg",
+    "detail_url": "https://www.cgv.vn/default/avengers-endgame-encore.html",
+    "director": "CGV Cinemas",
+    "cast": [],
+    "synopsis": "Phần kết hoành tráng của Infinity Saga sẽ trở lại rạp chiếu với Avengers: Hồi Kết - Phiên Bản Đặc Biệt vào ngày 25/09/2026. Sau những sự kiện thảm khốc khiến một nửa dân số thế giới biến mất, những người hùng còn lại phải vật lộn để tiếp tục cuộc sống. Cuối cùng, họ buộc phải hợp sức để khôi phục trật tự và sự cân bằng cho vũ trụ, đồng thời đưa những người thân yêu trở về trong cuộc đối đầu đầy kịch tính với Thanos.",
+    "trailer_id": "XsDQf4EsZIs",
+    "age_rating": "P",
+    "age_desc": "Phim phổ biến cho mọi độ tuổi",
+    "tags": [
+      "phim hot",
+      "avengers: hồi kết - phiên bản đặc biệt (chiếu lại)",
+      "phiêu lưu",
+      "cgv",
+      "bom tan sap chieu",
+      "sap chieu",
+      "chieu rap",
+      "trailer",
+      "hành động",
+      "khoa học viễn tưởng",
+      "phim moi"
+    ],
+    "id": "mov_42",
+    "rating": 8.6,
+    "votes": 10958
+  },
+  {
+    "title": "HÒN ĐẢO QUÊN LÃNG",
+    "original_title": "HÒN ĐẢO QUÊN LÃNG",
+    "genre": [
+      "Hoạt Hình",
+      "Phiêu Lưu"
+    ],
+    "duration": 110,
+    "release_date": "2026-09-25",
+    "status": "now_showing",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "poster": "https://static-cgv.vncdn.vn/media/catalog/product/cache/1/thumbnail/190x260/2e2b8cd282892c71872b9e67d2cb5039/f/i/fid_bracelet_470x700-island.jpg",
+    "detail_url": "https://www.cgv.vn/default/forgotten-island.html",
+    "director": "CGV Cinemas",
+    "cast": [],
+    "synopsis": "Một tình bạn đẹp thì luôn xứng đáng được bảo vệ. DreamWorks Animation – hãng phim đã mang đến những mối gắn kết khó quên giữa cậu bé và chú rồng trong Bí Kíp Luyện Rồng, giữa gã chằn tinh và chú lừa trong Shrek, hay giữa robot và chú ngỗng con trong Robot Hoang Dã, nay trở lại với một câu chuyện rực rỡ và đầy cảm xúc về hai người bạn thân từ thuở nhỏ, buộc phải sát cánh bên nhau trước khi họ dần rời xa trong Hòn Đảo Quên Lãng. Bộ phim được chắp bút và đạo diễn bởi hai đề cử Oscar® Joel Crawford và Januel Mercado, đồng thời được sản xuất bởi Mark Swift - cũng là đội ngũ đứng sau Mèo Đi Hia: Điều Ước Cuối Cùng. Trong đêm cuối cùng bên nhau, Jo và Raissa tình cờ phát hiện một cánh cổng bí ẩn đưa họ đến hòn đảo kỳ ảo Nakali – nơi tràn ngập những sinh vật thần thoại và phép thuật mà họ từng được nghe kể từ gia đình người Philippines của mình. Tại đây, có những sinh vật trở thành bạn đồng hành, nhưng cũng có những kẻ là mối đe dọa. Đồng hành cùng chú chó sói vụng về nhưng tốt bụng Raww và một nhóm bạn nhỏ nhưng “có võ”, Jo và Raissa phải đối mặt với The Dreaded Manananggal, sinh vật đáng sợ nhất trên đảo. Khi phát hiện rằng cái giá để trở về nhà chính là toàn bộ ký ức về tình bạn của mình, Jo và Raissa buộc phải chạy đua với thời gian để tìm cách rời khỏi hòn đảo trước khi họ quên mất nhau mãi mãi.",
+    "trailer_id": "vd1wzfi8-HI",
+    "age_rating": "P",
+    "age_desc": "Phim phổ biến cho mọi độ tuổi",
+    "tags": [
+      "hòn đảo quên lãng",
+      "phim hot",
+      "phiêu lưu",
+      "cgv",
+      "hoạt hình",
+      "chieu rap",
+      "sap chieu",
+      "trailer",
+      "bom tan sap chieu",
+      "phim moi"
+    ],
+    "id": "mov_43",
+    "rating": 8.9,
+    "votes": 11300
+  },
+  {
+    "title": "LAPUTA: LÂU ĐÀI TRÊN KHÔNG",
+    "original_title": "LAPUTA: LÂU ĐÀI TRÊN KHÔNG",
+    "genre": [
+      "Hoạt Hình"
+    ],
+    "duration": 129,
+    "release_date": "2026-09-25",
+    "status": "now_showing",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "poster": "https://static-cgv.vncdn.vn/media/catalog/product/cache/1/thumbnail/190x260/2e2b8cd282892c71872b9e67d2cb5039/o/u/outlined_poster_castle-in-the-sky.jpg",
+    "detail_url": "https://www.cgv.vn/default/laputa.html",
+    "director": "CGV Cinemas",
+    "cast": [],
+    "synopsis": "Một đêm nọ, cậu thợ mỏ trẻ Pazu giúp đỡ Sheeta, một cô gái chậm rãi rơi xuống từ bầu trời, được bao bọc trong ánh sáng màu xanh lam. Trở thành bạn của nhau, Pazu bảo vệ Sheeta khỏi Dola và băng cướp không trung của bà, cũng như một cơ quan chính phủ đặc biệt đang truy đuổi cô, và cả hai cùng tìm cách trốn thoát. Theo di nguyện cuối cùng của người cha từng là nhà thám hiểm, Pazu đã thề sẽ tìm ra Laputa — một lâu đài bay giữa bầu trời. Hơn nữa, Sheeta là hậu duệ của hoàng tộc Laputa, và cô mang theo một chiếc mặt dây chuyền chứa “Tinh thể Etherium” có khả năng chỉ ra vị trí của lâu đài. Cả hai cùng lên khí cầu Tiger Moth của băng Dola, và bắt đầu cuộc hành trình tìm kiếm Laputa.",
+    "trailer_id": "0P8vhBmiA14",
+    "age_rating": "P",
+    "age_desc": "Phim phổ biến cho mọi độ tuổi",
+    "tags": [
+      "phim hot",
+      "cgv",
+      "hoạt hình",
+      "chieu rap",
+      "sap chieu",
+      "trailer",
+      "laputa: lâu đài trên không",
+      "bom tan sap chieu",
+      "phim moi"
+    ],
+    "id": "mov_44",
+    "rating": 8.5,
+    "votes": 14739
+  },
+  {
+    "title": "ÚT LAN 2",
+    "original_title": "ÚT LAN 2",
+    "genre": [
+      "Kinh Dị"
+    ],
+    "duration": 110,
+    "release_date": "2026-09-25",
+    "status": "now_showing",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "poster": "https://static-cgv.vncdn.vn/media/catalog/product/cache/1/thumbnail/190x260/2e2b8cd282892c71872b9e67d2cb5039/3/5/350x495-utlan.jpg",
+    "detail_url": "https://www.cgv.vn/default/ut-lan-2.html",
+    "director": "CGV Cinemas",
+    "cast": [],
+    "synopsis": "Từ lúc một con rắn hai đầu xuất hiện, ngôi làng ven sông liên tiếp xảy ra những cái chết bí ẩn. Khi những bí mật bị lãng quên dần trồi lên mặt nước, người dân nhận ra có những lời nguyền chưa bao giờ thực sự biến mất.",
+    "trailer_id": "",
+    "age_rating": "P",
+    "age_desc": "Phim phổ biến cho mọi độ tuổi",
+    "tags": [
+      "phim hot",
+      "cgv",
+      "kinh dị",
+      "sap chieu",
+      "chieu rap",
+      "út lan 2",
+      "trailer",
+      "bom tan sap chieu",
+      "phim moi"
+    ],
+    "id": "mov_45",
+    "rating": 8.8,
+    "votes": 11594
+  },
+  {
+    "title": "PHÁO HOA LÚC BÌNH MINH",
+    "original_title": "PHÁO HOA LÚC BÌNH MINH",
+    "genre": [
+      "Hoạt Hình"
+    ],
+    "duration": 76,
+    "release_date": "2026-09-25",
+    "status": "now_showing",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "poster": "https://static-cgv.vncdn.vn/media/catalog/product/cache/1/thumbnail/190x260/2e2b8cd282892c71872b9e67d2cb5039/4/7/470x700-dawn.jpg",
+    "detail_url": "https://www.cgv.vn/default/a-new-dawn.html",
+    "director": "CGV Cinemas",
+    "cast": [],
+    "synopsis": "Xưởng pháo hoa truyền thống Obinata, di sản hơn 300 năm của gia đình Keitaro, nay đứng trước bờ vực bị xóa sổ bởi làn sóng quy hoạch đô thị. Giữa những biến động dữ dội của môi trường và các thảm họa thiên nhiên khắc nghiệt, bộ phim là hành trình dõi theo sự thích nghi và trưởng thành của ba người bạn trẻ.",
+    "trailer_id": "",
+    "age_rating": "P",
+    "age_desc": "Phim phổ biến cho mọi độ tuổi",
+    "tags": [
+      "phim hot",
+      "pháo hoa lúc bình minh",
+      "cgv",
+      "hoạt hình",
+      "chieu rap",
+      "sap chieu",
+      "trailer",
+      "bom tan sap chieu",
+      "phim moi"
+    ],
+    "id": "mov_46",
+    "rating": 9.0,
+    "votes": 8020
+  },
+  {
+    "title": "TRÁI TIM QUÁI THÚ",
+    "original_title": "TRÁI TIM QUÁI THÚ",
+    "genre": [
+      "Hành Động"
+    ],
+    "duration": 110,
+    "release_date": "2026-09-25",
+    "status": "now_showing",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "poster": "https://static-cgv.vncdn.vn/media/catalog/product/cache/1/thumbnail/190x260/2e2b8cd282892c71872b9e67d2cb5039/h/o/hob_teasergreen_470x700.jpg",
+    "detail_url": "https://www.cgv.vn/default/heart-of-the-beast.html",
+    "director": "CGV Cinemas",
+    "cast": [],
+    "synopsis": "Sau một vụ tai nạn máy bay kinh hoàng, sĩ quan Lực lượng Đặc nhiệm James Belmont (Brad Pitt) và chú chó chiến đấu Odin bị mắc kẹt giữa vùng hoang dã sâu thẳm của Alaska. Từ đó, họ buộc phải cùng nhau bước vào cuộc chiến sinh tồn khốc liệt trước thiên nhiên khắc nghiệt. Từ đạo diễn danh tiếng David Ayer, Trái Tim Quái Thú là một bộ phim phiêu lưu đầy căng thẳng, khai thác mối gắn kết không thể tách rời giữa một người đàn ông và người bạn thân thiết nhất của mình, khi cả hai phải đối mặt với trận chiến lớn nhất cuộc đời.",
+    "trailer_id": "_1F2MrfQLjo",
+    "age_rating": "P",
+    "age_desc": "Phim phổ biến cho mọi độ tuổi",
+    "tags": [
+      "phim hot",
+      "phim moi",
+      "cgv",
+      "bom tan sap chieu",
+      "sap chieu",
+      "chieu rap",
+      "trailer",
+      "hành động",
+      "trái tim quái thú"
+    ],
+    "id": "mov_47",
+    "rating": 8.3,
+    "votes": 9466
+  },
+  {
+    "title": "DIGGER",
+    "original_title": "DIGGER",
+    "genre": [
+      "Hài",
+      "Tâm Lý"
+    ],
+    "duration": 110,
+    "release_date": "2026-10-02",
+    "status": "now_showing",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "poster": "https://static-cgv.vncdn.vn/media/catalog/product/cache/1/thumbnail/190x260/2e2b8cd282892c71872b9e67d2cb5039/v/n/vn_digger_vert_main_2764x4096_intl.jpg",
+    "detail_url": "https://www.cgv.vn/default/digger.html",
+    "director": "CGV Cinemas",
+    "cast": [],
+    "synopsis": "Tom Cruise vào vai Digger Rockwell – Người đàn ông quyền lực nhất thế giới. Khi một thảm họa do chính mình gây ra đang đẩy nhân loại đến bờ vực diệt vong, Digger buộc phải chạy đua với thời gian để chứng minh mình là vị cứu tinh của nhân loại.",
+    "trailer_id": "bo6IpUQBIMY",
+    "age_rating": "P",
+    "age_desc": "Phim phổ biến cho mọi độ tuổi",
+    "tags": [
+      "phim hot",
+      "tâm lý",
+      "cgv",
+      "sap chieu",
+      "chieu rap",
+      "trailer",
+      "bom tan sap chieu",
+      "hài",
+      "digger",
+      "phim moi"
+    ],
+    "id": "mov_48",
+    "rating": 9.1,
+    "votes": 6493
+  },
+  {
+    "title": "ÁN MẠNG KARAOKE",
+    "original_title": "ÁN MẠNG KARAOKE",
+    "genre": [
+      "Hài",
+      "Hồi hộp"
+    ],
+    "duration": 110,
+    "release_date": "2026-10-02",
+    "status": "now_showing",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "poster": "https://static-cgv.vncdn.vn/media/catalog/product/cache/1/thumbnail/190x260/2e2b8cd282892c71872b9e67d2cb5039/_/n/_n_m_ng_karaoke_-_dkkc_02102026-_kthuoc_chu_n.jpg",
+    "detail_url": "https://www.cgv.vn/default/an-mang-karaoke.html",
+    "director": "CGV Cinemas",
+    "cast": [],
+    "synopsis": "Một người hàng xóm mê hát karaoke bất ngờ bị sát hại trong căn homestay thiền biệt lập trên núi, khiến chuyến hành hương của một xóm nhỏ bị biến thành trò chơi đầu trí bất đắc dĩ.",
+    "trailer_id": "V9AdvOLV8Hw",
+    "age_rating": "P",
+    "age_desc": "Phim phổ biến cho mọi độ tuổi",
+    "tags": [
+      "phim hot",
+      "án mạng karaoke",
+      "cgv",
+      "bom tan sap chieu",
+      "sap chieu",
+      "chieu rap",
+      "trailer",
+      "hồi hộp",
+      "hài",
+      "phim moi"
+    ],
+    "id": "mov_49",
+    "rating": 8.8,
+    "votes": 5034
+  },
+  {
+    "title": "ÁN MẠNG XÉM HOÀN HẢO",
+    "original_title": "ÁN MẠNG XÉM HOÀN HẢO",
+    "genre": [
+      "Hài"
+    ],
+    "duration": 110,
+    "release_date": "2026-10-09",
+    "status": "now_showing",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "poster": "https://static-cgv.vncdn.vn/media/catalog/product/cache/1/thumbnail/190x260/2e2b8cd282892c71872b9e67d2cb5039/3/5/350x495-amxhh_.jpg",
+    "detail_url": "https://www.cgv.vn/default/an-mang-xem-hoan-hao.html",
+    "director": "CGV Cinemas",
+    "cast": [],
+    "synopsis": "Trinh, cô nàng TikToker ngôn tình triệu view, tỉnh dậy giữa phim trường lạnh lẽo với cái đầu đau như búa bổ, mất trí nhớ và phát hiện xác của Yến (diễn viên) – tình địch đang bị nghi ngờ có gì mờ ám với diễn viên Khang (chồng sắp cưới). Đại (thám tử) được Trinh thuê theo dõi vụ ngoại tình lẻn vào giúp thì vấp ngã để lại dấu vân tay lên tử thi và vô tình bị bảo vệ bắt quả tang. Kể từ đây, liên tiếp những tình huống oái oăm mà cặp đôi “đũa lệch” phải đối mặt: chạy trốn khỏi cảnh sát dí sát gót và sát thủ rình rập, vừa cãi nhau tóe khói vừa phá án. Song Song đó, cả hai vô tình lật tẩy bí mật động trời của showbiz",
+    "trailer_id": "zR7YYGMaqm0",
+    "age_rating": "P",
+    "age_desc": "Phim phổ biến cho mọi độ tuổi",
+    "tags": [
+      "phim hot",
+      "cgv",
+      "sap chieu",
+      "chieu rap",
+      "trailer",
+      "bom tan sap chieu",
+      "hài",
+      "án mạng xém hoàn hảo",
+      "phim moi"
+    ],
+    "id": "mov_50",
+    "rating": 9.1,
+    "votes": 14949
+  },
+  {
+    "title": "CHUYỆN CÔNG CHÚA KAGUYA",
+    "original_title": "CHUYỆN CÔNG CHÚA KAGUYA",
+    "genre": [
+      "Hoạt Hình"
+    ],
+    "duration": 137,
+    "release_date": "2026-10-09",
+    "status": "now_showing",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "poster": "https://static-cgv.vncdn.vn/media/catalog/product/cache/1/thumbnail/190x260/2e2b8cd282892c71872b9e67d2cb5039/o/u/outlined_poster_the-tale-of-the-princess-kaguya.jpg",
+    "detail_url": "https://www.cgv.vn/default/princess-kaguya.html",
+    "director": "CGV Cinemas",
+    "cast": [],
+    "synopsis": "Một đôi vợ chồng già chăm chỉ sống ở vùng quê ven thành phố. Một ngày nọ, trong rừng tre, ông lão thấy một cây tre phát sáng kỳ lạ và phát hiện bên trong là một bé gái nhỏ. Ông đưa cô bé về nuôi nấng như con ruột. Cô bé lớn lên nhanh chóng, trở thành một thiếu nữ xinh đẹp và được gọi là “Công chúa Kaguya”. Ông lão đưa cô lên thành phố để được nuôi dạy như một công chúa. Vẻ đẹp của cô khiến nhiều người ngưỡng mộ, và có đến 5 người xin cầu hôn cô. Tuy nhiên, cô đưa ra những thử thách khó khăn cho họ…",
+    "trailer_id": "zfUP3ljq23o",
+    "age_rating": "P",
+    "age_desc": "Phim phổ biến cho mọi độ tuổi",
+    "tags": [
+      "phim hot",
+      "cgv",
+      "hoạt hình",
+      "chieu rap",
+      "sap chieu",
+      "chuyện công chúa kaguya",
+      "trailer",
+      "bom tan sap chieu",
+      "phim moi"
+    ],
+    "id": "mov_51",
+    "rating": 8.5,
+    "votes": 8227
+  },
+  {
+    "title": "CHỊ CHỊ EM EM 3",
+    "original_title": "CHỊ CHỊ EM EM 3",
+    "genre": [
+      "Tâm Lý",
+      "Tình cảm"
+    ],
+    "duration": 110,
+    "release_date": "2026-10-16",
+    "status": "now_showing",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "poster": "https://static-cgv.vncdn.vn/media/catalog/product/cache/1/thumbnail/190x260/2e2b8cd282892c71872b9e67d2cb5039/3/5/350x495-ccee3.jpg",
+    "detail_url": "https://www.cgv.vn/default/sister-sister-3.html",
+    "director": "CGV Cinemas",
+    "cast": [],
+    "synopsis": "Giữa xã hội Bắc Bộ cũ đầy lễ giáo và những khuôn phép khắt khe, Thị Mầu – tiểu thư nổi tiếng tài sắc nhất vùng – bước vào một thế giới nơi tình yêu chưa bao giờ là chuyện của riêng hai người. Những rung động bị che giấu, những mối quan hệ chồng chéo và những lựa chọn trái với khuôn phép dần tạo nên một mạng nhện tình cảm rối ren, nơi mỗi người đều có một bí mật, một toan tính và một người không thể gọi tên. Khi tình yêu và danh dự không thể cùng tồn tại, liệu ai sẽ là người thoát khỏi mạng nhện ấy – và ai sẽ phải trả giá cho thứ tình cảm mình không thể cưỡng lại?",
+    "trailer_id": "nrxSyPF8OXc",
+    "age_rating": "P",
+    "age_desc": "Phim phổ biến cho mọi độ tuổi",
+    "tags": [
+      "phim hot",
+      "tâm lý",
+      "cgv",
+      "sap chieu",
+      "chieu rap",
+      "trailer",
+      "chị chị em em 3",
+      "tình cảm",
+      "bom tan sap chieu",
+      "phim moi"
+    ],
+    "id": "mov_52",
+    "rating": 8.2,
+    "votes": 13671
+  },
+  {
+    "title": "NGỌN ĐỒI HOA HỒNG ANH",
+    "original_title": "NGỌN ĐỒI HOA HỒNG ANH",
+    "genre": [
+      "Hoạt Hình"
+    ],
+    "duration": 91,
+    "release_date": "2026-10-16",
+    "status": "now_showing",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "poster": "https://static-cgv.vncdn.vn/media/catalog/product/cache/1/thumbnail/190x260/2e2b8cd282892c71872b9e67d2cb5039/o/u/outlined_poster_from-up-on-poppy-hill.jpg",
+    "detail_url": "https://www.cgv.vn/default/hoa-hong-anh.html",
+    "director": "CGV Cinemas",
+    "cast": [],
+    "synopsis": "Umi Matsuzaki là chị cả trong gia đình có ba anh em, sống tại nhà trọ Coquelicot Manor và học năm hai trung học. Mỗi sáng cô đều kéo cờ tưởng niệm người cha đã mất trong chiến tranh. Ở trường, tranh cãi nổ ra về việc giữ hay phá dỡ khu “Latin Quarter” lịch sử. Umi tham gia cùng Shun Kazama trong nỗ lực bảo tồn nơi này và cả hai dần trở nên thân thiết. Tuy nhiên, một bức ảnh bất ngờ khiến họ nghi ngờ có thể là anh em ruột…",
+    "trailer_id": "0BhMyVlrxdc",
+    "age_rating": "P",
+    "age_desc": "Phim phổ biến cho mọi độ tuổi",
+    "tags": [
+      "phim hot",
+      "ngọn đồi hoa hồng anh",
+      "cgv",
+      "hoạt hình",
+      "chieu rap",
+      "sap chieu",
+      "trailer",
+      "bom tan sap chieu",
+      "phim moi"
+    ],
+    "id": "mov_53",
+    "rating": 9.3,
+    "votes": 10789
+  },
+  {
+    "title": "PHIM STREET FIGHTER",
+    "original_title": "PHIM STREET FIGHTER",
+    "genre": [
+      "Hành Động"
+    ],
+    "duration": 110,
+    "release_date": "2026-10-16",
+    "status": "now_showing",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "poster": "https://static-cgv.vncdn.vn/media/catalog/product/cache/1/thumbnail/190x260/2e2b8cd282892c71872b9e67d2cb5039/s/t/stf_teasergoodguys_470x700.jpg",
+    "detail_url": "https://www.cgv.vn/default/street-fighter.html",
+    "director": "CGV Cinemas",
+    "cast": [],
+    "synopsis": "Lấy bối cảnh năm 1993, Ryu và Ken, hai đấu sĩ từng xa cách bị kéo trở lại chiến đấu khi Chun-Li chiêu mộ họ tham gia giải Chiến Binh Thế Giới đầy khốc liệt. Nhưng đằng sau đó là một âm mưu chết chóc, buộc họ phải đối đầu với nhau và quá khứ của chính mình, nếu không tất cả sẽ CHẤM HẾT! Dưới sự chỉ đạo của đạo diễn Kitao Sakurai, Street Fighter mang những trận chiến game thùng lên màn ảnh rộng với các đòn thế quen thuộc cùng dàn nhân vật được yêu thích.",
+    "trailer_id": "xwnZ_uvrFs0",
+    "age_rating": "P",
+    "age_desc": "Phim phổ biến cho mọi độ tuổi",
+    "tags": [
+      "phim hot",
+      "phim street fighter",
+      "cgv",
+      "bom tan sap chieu",
+      "sap chieu",
+      "chieu rap",
+      "trailer",
+      "hành động",
+      "phim moi"
+    ],
+    "id": "mov_54",
+    "rating": 8.9,
+    "votes": 7312
+  },
+  {
+    "title": "MẸ MÌN",
+    "original_title": "MẸ MÌN",
+    "genre": [
+      "Bí ẩn",
+      "Hồi hộp",
+      "Tâm Lý"
+    ],
+    "duration": 110,
+    "release_date": "2026-10-23",
+    "status": "now_showing",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "poster": "https://static-cgv.vncdn.vn/media/catalog/product/cache/1/thumbnail/190x260/2e2b8cd282892c71872b9e67d2cb5039/m/_/m_m_n_-_poster_nghi_ng_-_kc_23102026.jpg",
+    "detail_url": "https://www.cgv.vn/default/me-min.html",
+    "director": "CGV Cinemas",
+    "cast": [],
+    "synopsis": "Bộ phim hấp dẫn MẸ MÌN thuộc thể loại Bí ẩn, Hồi hộp, Tâm Lý, sắp ra mắt từ ngày 23-10-2026 tại hệ thống rạp CGV Cinemas toàn quốc.",
+    "trailer_id": "GNMJBpvazKc",
+    "age_rating": "P",
+    "age_desc": "Phim phổ biến cho mọi độ tuổi",
+    "tags": [
+      "phim hot",
+      "tâm lý",
+      "cgv",
+      "bom tan sap chieu",
+      "mẹ mìn",
+      "chieu rap",
+      "bí ẩn",
+      "sap chieu",
+      "trailer",
+      "hồi hộp",
+      "phim moi"
+    ],
+    "id": "mov_55",
+    "rating": 9.3,
+    "votes": 14213
+  },
+  {
+    "title": "CLAYFACE",
+    "original_title": "CLAYFACE",
+    "genre": [
+      "Hồi hộp",
+      "Kinh Dị"
+    ],
+    "duration": 110,
+    "release_date": "2026-10-23",
+    "status": "now_showing",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "poster": "https://static-cgv.vncdn.vn/media/catalog/product/cache/1/thumbnail/190x260/2e2b8cd282892c71872b9e67d2cb5039/v/n/vn_clay_vert_tsr_2764x4096_intl.jpg",
+    "detail_url": "https://www.cgv.vn/default/clayface.html",
+    "director": "CGV Cinemas",
+    "cast": [],
+    "synopsis": "Bộ phim kinh dị đầu tiên của DC Studios, “Clayface” do đạo diễn James Watkins thực hiện, với sự tham gia của Tom Rhys Harries trong vai chính, một nhân vật phản diện của thành phố Gotham. “Clayface” hé lộ sự sa ngã kinh hoàng của một người đàn ông từ ngôi sao Hollywood đang lên trở thành một con quái vật đầy thù hận, trong một câu chuyện khám phá sự mất mát bản sắc và nhân tính, tình yêu độc hại, và mặt tối của tham vọng khoa học.",
+    "trailer_id": "NL3clCsupBw",
+    "age_rating": "P",
+    "age_desc": "Phim phổ biến cho mọi độ tuổi",
+    "tags": [
+      "phim hot",
+      "cgv",
+      "kinh dị",
+      "sap chieu",
+      "chieu rap",
+      "bom tan sap chieu",
+      "trailer",
+      "clayface",
+      "hồi hộp",
+      "phim moi"
+    ],
+    "id": "mov_56",
+    "rating": 9.1,
+    "votes": 11371
+  },
+  {
+    "title": "TRẤN YỂM",
+    "original_title": "TRẤN YỂM",
+    "genre": [
+      "Kinh Dị"
+    ],
+    "duration": 110,
+    "release_date": "2026-10-30",
+    "status": "now_showing",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "poster": "https://static-cgv.vncdn.vn/media/catalog/product/cache/1/thumbnail/190x260/2e2b8cd282892c71872b9e67d2cb5039/t/r/tra_n-ye_m-poster-co_ng-bo_-du_-a_n.jpg",
+    "detail_url": "https://www.cgv.vn/default/tran-yem.html",
+    "director": "CGV Cinemas",
+    "cast": [],
+    "synopsis": "Bộ phim hấp dẫn TRẤN YỂM thuộc thể loại Kinh Dị, sắp ra mắt từ ngày 30-10-2026 tại hệ thống rạp CGV Cinemas toàn quốc.",
+    "trailer_id": "",
+    "age_rating": "P",
+    "age_desc": "Phim phổ biến cho mọi độ tuổi",
+    "tags": [
+      "phim hot",
+      "trấn yểm",
+      "cgv",
+      "kinh dị",
+      "sap chieu",
+      "chieu rap",
+      "trailer",
+      "bom tan sap chieu",
+      "phim moi"
+    ],
+    "id": "mov_57",
+    "rating": 9.2,
+    "votes": 10316
+  },
+  {
+    "title": "BÒ SỮA BAY",
+    "original_title": "BÒ SỮA BAY",
+    "genre": [
+      "Hài",
+      "Hành Động",
+      "Tâm Lý"
+    ],
+    "duration": 110,
+    "release_date": "2026-11-06",
+    "status": "now_showing",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "poster": "https://static-cgv.vncdn.vn/media/catalog/product/cache/1/thumbnail/190x260/2e2b8cd282892c71872b9e67d2cb5039/t/e/teaser_poster_bsb_digital_2.jpg",
+    "detail_url": "https://www.cgv.vn/default/bo-sua-bay.html",
+    "director": "CGV Cinemas",
+    "cast": [],
+    "synopsis": "Bộ phim hấp dẫn BÒ SỮA BAY thuộc thể loại Hài, Hành Động, Tâm Lý, sắp ra mắt từ ngày 06-11-2026 tại hệ thống rạp CGV Cinemas toàn quốc.",
+    "trailer_id": "",
+    "age_rating": "P",
+    "age_desc": "Phim phổ biến cho mọi độ tuổi",
+    "tags": [
+      "phim hot",
+      "tâm lý",
+      "cgv",
+      "bom tan sap chieu",
+      "sap chieu",
+      "chieu rap",
+      "bò sữa bay",
+      "trailer",
+      "hành động",
+      "hài",
+      "phim moi"
+    ],
+    "id": "mov_58",
+    "rating": 8.5,
+    "votes": 14306
+  },
+  {
+    "title": "GODZILLA TRỪ KHÔNG",
+    "original_title": "GODZILLA TRỪ KHÔNG",
+    "genre": [
+      "Hành Động"
+    ],
+    "duration": 110,
+    "release_date": "2026-11-06",
+    "status": "now_showing",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "poster": "https://static-cgv.vncdn.vn/media/catalog/product/cache/1/thumbnail/190x260/2e2b8cd282892c71872b9e67d2cb5039/t/e/teaser_poster_localize_godzilla_v1_1_.jpg",
+    "detail_url": "https://www.cgv.vn/default/godzilla-minus-zero.html",
+    "director": "CGV Cinemas",
+    "cast": [],
+    "synopsis": "Bộ phim hấp dẫn GODZILLA TRỪ KHÔNG thuộc thể loại Hành Động, sắp ra mắt từ ngày 06-11-2026 tại hệ thống rạp CGV Cinemas toàn quốc.",
+    "trailer_id": "",
+    "age_rating": "P",
+    "age_desc": "Phim phổ biến cho mọi độ tuổi",
+    "tags": [
+      "phim hot",
+      "cgv",
+      "godzilla trừ không",
+      "sap chieu",
+      "chieu rap",
+      "bom tan sap chieu",
+      "trailer",
+      "hành động",
+      "phim moi"
+    ],
+    "id": "mov_59",
+    "rating": 9.0,
+    "votes": 14483
+  },
+  {
+    "title": "CHÀNG MÈO MANG MŨ",
+    "original_title": "CHÀNG MÈO MANG MŨ",
+    "genre": [
+      "Gia đình",
+      "Hài",
+      "Hoạt Hình",
+      "Phiêu Lưu"
+    ],
+    "duration": 110,
+    "release_date": "2026-11-06",
+    "status": "now_showing",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "poster": "https://static-cgv.vncdn.vn/media/catalog/product/cache/1/thumbnail/190x260/2e2b8cd282892c71872b9e67d2cb5039/p/o/poster_chang_meo_mang_mu_1.jpg",
+    "detail_url": "https://www.cgv.vn/default/the-cat-in-the-hat.html",
+    "director": "CGV Cinemas",
+    "cast": [],
+    "synopsis": "Bộ phim hấp dẫn CHÀNG MÈO MANG MŨ thuộc thể loại Gia đình, Hài, Hoạt Hình, Phiêu Lưu, sắp ra mắt từ ngày 06-11-2026 tại hệ thống rạp CGV Cinemas toàn quốc.",
+    "trailer_id": "",
+    "age_rating": "P",
+    "age_desc": "Phim phổ biến cho mọi độ tuổi",
+    "tags": [
+      "phim hot",
+      "chàng mèo mang mũ",
+      "phiêu lưu",
+      "gia đình",
+      "cgv",
+      "hoạt hình",
+      "chieu rap",
+      "sap chieu",
+      "trailer",
+      "bom tan sap chieu",
+      "hài",
+      "phim moi"
+    ],
+    "id": "mov_60",
+    "rating": 8.4,
+    "votes": 11146
+  },
+  {
+    "title": "NGÀY CON CÒN MẸ",
+    "original_title": "NGÀY CON CÒN MẸ",
+    "genre": [
+      "Gia đình",
+      "Tâm Lý"
+    ],
+    "duration": 110,
+    "release_date": "2026-11-11",
+    "status": "now_showing",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "poster": "https://static-cgv.vncdn.vn/media/catalog/product/cache/1/thumbnail/190x260/2e2b8cd282892c71872b9e67d2cb5039/4/7/470wx700h-nccm.jpg",
+    "detail_url": "https://www.cgv.vn/default/ngay-con-con-me.html",
+    "director": "CGV Cinemas",
+    "cast": [],
+    "synopsis": "Bộ phim hấp dẫn NGÀY CON CÒN MẸ thuộc thể loại Gia đình, Tâm Lý, sắp ra mắt từ ngày 11-11-2026 tại hệ thống rạp CGV Cinemas toàn quốc.",
+    "trailer_id": "",
+    "age_rating": "P",
+    "age_desc": "Phim phổ biến cho mọi độ tuổi",
+    "tags": [
+      "phim hot",
+      "tâm lý",
+      "ngày con còn mẹ",
+      "gia đình",
+      "cgv",
+      "sap chieu",
+      "chieu rap",
+      "trailer",
+      "bom tan sap chieu",
+      "phim moi"
+    ],
+    "id": "mov_61",
+    "rating": 8.6,
+    "votes": 6348
+  },
+  {
+    "title": "EBENEZER PHÉP MÀU ĐÊM GIÁNG SINH",
+    "original_title": "EBENEZER PHÉP MÀU ĐÊM GIÁNG SINH",
+    "genre": [
+      "Thần thoại"
+    ],
+    "duration": 110,
+    "release_date": "2026-11-13",
+    "status": "now_showing",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "poster": "https://static-cgv.vncdn.vn/media/catalog/product/cache/1/thumbnail/190x260/2e2b8cd282892c71872b9e67d2cb5039/4/7/470x700-ebenezer.jpg",
+    "detail_url": "https://www.cgv.vn/default/phep-mau-giang-sinh.html",
+    "director": "CGV Cinemas",
+    "cast": [],
+    "synopsis": "Bộ phim hấp dẫn EBENEZER PHÉP MÀU ĐÊM GIÁNG SINH thuộc thể loại Thần thoại, sắp ra mắt từ ngày 13-11-2026 tại hệ thống rạp CGV Cinemas toàn quốc.",
+    "trailer_id": "",
+    "age_rating": "P",
+    "age_desc": "Phim phổ biến cho mọi độ tuổi",
+    "tags": [
+      "phim hot",
+      "cgv",
+      "ebenezer phép màu đêm giáng sinh",
+      "sap chieu",
+      "chieu rap",
+      "thần thoại",
+      "trailer",
+      "bom tan sap chieu",
+      "phim moi"
+    ],
+    "id": "mov_62",
+    "rating": 8.4,
+    "votes": 13894
+  },
+  {
+    "title": "TRẠI GIAM HẠNH PHÚC",
+    "original_title": "TRẠI GIAM HẠNH PHÚC",
+    "genre": [
+      "Gia đình",
+      "Hài",
+      "Tâm Lý"
+    ],
+    "duration": 110,
+    "release_date": "2026-11-20",
+    "status": "now_showing",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "poster": "https://static-cgv.vncdn.vn/media/catalog/product/cache/1/thumbnail/190x260/2e2b8cd282892c71872b9e67d2cb5039/3/5/350x495-tghp.jpg",
+    "detail_url": "https://www.cgv.vn/default/trai-giam-hanh-phuc.html",
+    "director": "CGV Cinemas",
+    "cast": [],
+    "synopsis": "Bộ phim hấp dẫn TRẠI GIAM HẠNH PHÚC thuộc thể loại Gia đình, Hài, Tâm Lý, sắp ra mắt từ ngày 20-11-2026 tại hệ thống rạp CGV Cinemas toàn quốc.",
+    "trailer_id": "",
+    "age_rating": "P",
+    "age_desc": "Phim phổ biến cho mọi độ tuổi",
+    "tags": [
+      "phim hot",
+      "tâm lý",
+      "phim moi",
+      "gia đình",
+      "cgv",
+      "sap chieu",
+      "chieu rap",
+      "trailer",
+      "bom tan sap chieu",
+      "hài",
+      "trại giam hạnh phúc"
+    ],
+    "id": "mov_63",
+    "rating": 8.4,
+    "votes": 13113
+  },
+  {
+    "title": "GẶP GỠ THÔNG GIA: DÂU MỚI TRÌNH LÀNG",
+    "original_title": "GẶP GỠ THÔNG GIA: DÂU MỚI TRÌNH LÀNG",
+    "genre": [
+      "Hài"
+    ],
+    "duration": 110,
+    "release_date": "2026-11-27",
+    "status": "now_showing",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "poster": "https://static-cgv.vncdn.vn/media/catalog/product/cache/1/thumbnail/190x260/2e2b8cd282892c71872b9e67d2cb5039/4/7/470x700-fil.jpg",
+    "detail_url": "https://www.cgv.vn/default/focker-in-law.html",
+    "director": "CGV Cinemas",
+    "cast": [],
+    "synopsis": "Bộ phim hấp dẫn GẶP GỠ THÔNG GIA: DÂU MỚI TRÌNH LÀNG thuộc thể loại Hài, sắp ra mắt từ ngày 27-11-2026 tại hệ thống rạp CGV Cinemas toàn quốc.",
+    "trailer_id": "",
+    "age_rating": "P",
+    "age_desc": "Phim phổ biến cho mọi độ tuổi",
+    "tags": [
+      "phim hot",
+      "cgv",
+      "sap chieu",
+      "chieu rap",
+      "trailer",
+      "bom tan sap chieu",
+      "gặp gỡ thông gia: dâu mới trình làng",
+      "hài",
+      "phim moi"
+    ],
+    "id": "mov_64",
+    "rating": 8.2,
+    "votes": 4988
+  },
+  {
+    "title": "SỢI CHỈ ĐỎ",
+    "original_title": "SỢI CHỈ ĐỎ",
+    "genre": [
+      "Kinh Dị"
+    ],
+    "duration": 110,
+    "release_date": "2026-12-04",
+    "status": "now_showing",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "poster": "https://static-cgv.vncdn.vn/media/catalog/product/cache/1/thumbnail/190x260/2e2b8cd282892c71872b9e67d2cb5039/s/o/so_i_chi_o_-_2nd_look_-_kc_04122026.jpg",
+    "detail_url": "https://www.cgv.vn/default/soi-chi-do.html",
+    "director": "CGV Cinemas",
+    "cast": [],
+    "synopsis": "Bộ phim hấp dẫn SỢI CHỈ ĐỎ thuộc thể loại Kinh Dị, sắp ra mắt từ ngày 04-12-2026 tại hệ thống rạp CGV Cinemas toàn quốc.",
+    "trailer_id": "",
+    "age_rating": "P",
+    "age_desc": "Phim phổ biến cho mọi độ tuổi",
+    "tags": [
+      "phim hot",
+      "cgv",
+      "kinh dị",
+      "sợi chỉ đỏ",
+      "chieu rap",
+      "sap chieu",
+      "trailer",
+      "bom tan sap chieu",
+      "phim moi"
+    ],
+    "id": "mov_65",
+    "rating": 8.9,
+    "votes": 12956
+  },
+  {
+    "title": "DUNE: HÀNH TINH CÁT - PHẦN BA",
+    "original_title": "DUNE: HÀNH TINH CÁT - PHẦN BA",
+    "genre": [
+      "Hành Động",
+      "Khoa Học Viễn Tưởng"
+    ],
+    "duration": 110,
+    "release_date": "2026-12-18",
+    "status": "now_showing",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "poster": "https://static-cgv.vncdn.vn/media/catalog/product/cache/1/thumbnail/190x260/2e2b8cd282892c71872b9e67d2cb5039/v/n/vn_dune3_vert_tsr_2764x4096_intl.jpg",
+    "detail_url": "https://www.cgv.vn/default/dune-pt3.html",
+    "director": "CGV Cinemas",
+    "cast": [],
+    "synopsis": "Bộ phim hấp dẫn DUNE: HÀNH TINH CÁT - PHẦN BA thuộc thể loại Hành Động, Khoa Học Viễn Tưởng, sắp ra mắt từ ngày 18-12-2026 tại hệ thống rạp CGV Cinemas toàn quốc.",
+    "trailer_id": "",
+    "age_rating": "P",
+    "age_desc": "Phim phổ biến cho mọi độ tuổi",
+    "tags": [
+      "phim hot",
+      "cgv",
+      "bom tan sap chieu",
+      "khoa học viễn tưởng",
+      "chieu rap",
+      "sap chieu",
+      "trailer",
+      "hành động",
+      "dune: hành tinh cát - phần ba",
+      "phim moi"
+    ],
+    "id": "mov_66",
+    "rating": 9.3,
+    "votes": 3667
+  },
+  {
+    "title": "AVENGERS: NGÀY TẬN THẾ",
+    "original_title": "AVENGERS: NGÀY TẬN THẾ",
+    "genre": [
+      "Hành Động",
+      "Khoa Học Viễn Tưởng",
+      "Phiêu Lưu"
+    ],
+    "duration": 110,
+    "release_date": "2026-12-18",
+    "status": "now_showing",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "poster": "https://static-cgv.vncdn.vn/media/catalog/product/cache/1/thumbnail/190x260/2e2b8cd282892c71872b9e67d2cb5039/a/p/applepie_teaser2_poster_vietnam.jpg",
+    "detail_url": "https://www.cgv.vn/default/avengers-doomsday.html",
+    "director": "CGV Cinemas",
+    "cast": [],
+    "synopsis": "Bộ phim hấp dẫn AVENGERS: NGÀY TẬN THẾ thuộc thể loại Hành Động, Khoa Học Viễn Tưởng, Phiêu Lưu, sắp ra mắt từ ngày 18-12-2026 tại hệ thống rạp CGV Cinemas toàn quốc.",
+    "trailer_id": "",
+    "age_rating": "P",
+    "age_desc": "Phim phổ biến cho mọi độ tuổi",
+    "tags": [
+      "phim hot",
+      "phiêu lưu",
+      "cgv",
+      "bom tan sap chieu",
+      "sap chieu",
+      "chieu rap",
+      "trailer",
+      "hành động",
+      "khoa học viễn tưởng",
+      "avengers: ngày tận thế",
+      "phim moi"
+    ],
+    "id": "mov_67",
+    "rating": 9.4,
+    "votes": 10678
+  },
+  {
+    "title": "THÁM TỬ KIÊN: LỜI NGUYỀN HOÀNG KIM",
+    "original_title": "THÁM TỬ KIÊN: LỜI NGUYỀN HOÀNG KIM",
+    "genre": [
+      "Tâm Lý"
+    ],
+    "duration": 110,
+    "release_date": "2027-02-06",
+    "status": "now_showing",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "poster": "https://static-cgv.vncdn.vn/media/catalog/product/cache/1/thumbnail/190x260/2e2b8cd282892c71872b9e67d2cb5039/3/5/350x495-ttk_1.jpg",
+    "detail_url": "https://www.cgv.vn/default/tham-tu-kien-2.html",
+    "director": "CGV Cinemas",
+    "cast": [],
+    "synopsis": "Bộ phim hấp dẫn THÁM TỬ KIÊN: LỜI NGUYỀN HOÀNG KIM thuộc thể loại Tâm Lý, sắp ra mắt từ ngày 06-02-2027 tại hệ thống rạp CGV Cinemas toàn quốc.",
+    "trailer_id": "",
+    "age_rating": "P",
+    "age_desc": "Phim phổ biến cho mọi độ tuổi",
+    "tags": [
+      "phim hot",
+      "tâm lý",
+      "cgv",
+      "sap chieu",
+      "chieu rap",
+      "trailer",
+      "thám tử kiên: lời nguyền hoàng kim",
+      "bom tan sap chieu",
+      "phim moi"
+    ],
+    "id": "mov_68",
+    "rating": 8.8,
+    "votes": 5389
+  },
+  {
+    "title": "LOẠN THẾ",
+    "original_title": "LOẠN THẾ",
+    "genre": [
+      "Hành Động"
+    ],
+    "duration": 110,
+    "release_date": "2027-02-06",
+    "status": "now_showing",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "poster": "https://static-cgv.vncdn.vn/media/catalog/product/cache/1/thumbnail/190x260/2e2b8cd282892c71872b9e67d2cb5039/4/7/470wx700h-loanthe.jpg",
+    "detail_url": "https://www.cgv.vn/default/loan-the.html",
+    "director": "CGV Cinemas",
+    "cast": [],
+    "synopsis": "Bộ phim hấp dẫn LOẠN THẾ thuộc thể loại Hành Động, sắp ra mắt từ ngày 06-02-2027 tại hệ thống rạp CGV Cinemas toàn quốc.",
+    "trailer_id": "",
+    "age_rating": "P",
+    "age_desc": "Phim phổ biến cho mọi độ tuổi",
+    "tags": [
+      "phim hot",
+      "loạn thế",
+      "cgv",
+      "bom tan sap chieu",
+      "sap chieu",
+      "chieu rap",
+      "trailer",
+      "hành động",
+      "phim moi"
+    ],
+    "id": "mov_69",
+    "rating": 9.1,
+    "votes": 10771
+  },
+  {
+    "title": "ÁC TƯỢNG",
+    "original_title": "ÁC TƯỢNG",
+    "genre": [
+      "Kinh Dị"
+    ],
+    "duration": 84,
+    "release_date": "",
+    "status": "now_showing",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "poster": "https://static-cgv.vncdn.vn/media/catalog/product/cache/1/thumbnail/190x260/2e2b8cd282892c71872b9e67d2cb5039/3/5/350x495-at.jpg",
+    "detail_url": "https://www.cgv.vn/default/wooden-buddha.html",
+    "director": "CGV Cinemas",
+    "cast": [],
+    "synopsis": "Bộ phim hấp dẫn ÁC TƯỢNG thuộc thể loại Kinh Dị, sắp ra mắt từ ngày  tại hệ thống rạp CGV Cinemas toàn quốc.",
+    "trailer_id": "",
+    "age_rating": "P",
+    "age_desc": "Phim phổ biến cho mọi độ tuổi",
+    "tags": [
+      "phim hot",
+      "ác tượng",
+      "cgv",
+      "kinh dị",
+      "sap chieu",
+      "chieu rap",
+      "trailer",
+      "bom tan sap chieu",
+      "phim moi"
+    ],
+    "id": "mov_70",
+    "rating": 8.3,
+    "votes": 12742
+  },
+  {
+    "title": "CHIẾN BÀO",
+    "original_title": "CHIẾN BÀO",
+    "genre": [
+      "Lịch Sử"
+    ],
+    "duration": 110,
+    "release_date": "",
+    "status": "now_showing",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "poster": "https://static-cgv.vncdn.vn/media/catalog/product/cache/1/thumbnail/190x260/2e2b8cd282892c71872b9e67d2cb5039/c/h/chien_bao_-_cong_bo_-_poster.jpg",
+    "detail_url": "https://www.cgv.vn/default/chien-bao.html",
+    "director": "CGV Cinemas",
+    "cast": [],
+    "synopsis": "Bộ phim hấp dẫn CHIẾN BÀO thuộc thể loại Lịch Sử, sắp ra mắt từ ngày  tại hệ thống rạp CGV Cinemas toàn quốc.",
+    "trailer_id": "",
+    "age_rating": "P",
+    "age_desc": "Phim phổ biến cho mọi độ tuổi",
+    "tags": [
+      "phim hot",
+      "phim moi",
+      "cgv",
+      "sap chieu",
+      "chieu rap",
+      "trailer",
+      "lịch sử",
+      "bom tan sap chieu",
+      "chiến bào"
+    ],
+    "id": "mov_71",
+    "rating": 8.5,
+    "votes": 3480
+  },
+  {
+    "title": "CỘNG TRỪ NHÂN CHIA",
+    "original_title": "CỘNG TRỪ NHÂN CHIA",
+    "genre": [
+      "Hồi hộp",
+      "Tâm Lý"
+    ],
+    "duration": 110,
+    "release_date": "",
+    "status": "now_showing",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "poster": "https://static-cgv.vncdn.vn/media/catalog/product/cache/1/thumbnail/190x260/2e2b8cd282892c71872b9e67d2cb5039/1/0/1080x1350-ctnc.jpg",
+    "detail_url": "https://www.cgv.vn/default/cong-tru-nhan-chia.html",
+    "director": "CGV Cinemas",
+    "cast": [],
+    "synopsis": "Bộ phim hấp dẫn CỘNG TRỪ NHÂN CHIA thuộc thể loại Hồi hộp, Tâm Lý, sắp ra mắt từ ngày  tại hệ thống rạp CGV Cinemas toàn quốc.",
+    "trailer_id": "",
+    "age_rating": "P",
+    "age_desc": "Phim phổ biến cho mọi độ tuổi",
+    "tags": [
+      "phim hot",
+      "tâm lý",
+      "cgv",
+      "cộng trừ nhân chia",
+      "sap chieu",
+      "chieu rap",
+      "bom tan sap chieu",
+      "trailer",
+      "hồi hộp",
+      "phim moi"
+    ],
+    "id": "mov_72",
+    "rating": 9.0,
+    "votes": 14966
+  }
+]
